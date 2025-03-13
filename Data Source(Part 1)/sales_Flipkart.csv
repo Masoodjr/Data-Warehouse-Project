@@ -1,0 +1,1001 @@
+transaction_id,order_id,order_date,ship_date,ship_mode,customer_id,segment,country,city,state,product_id,category,sub_category,product_name,sales,quantity,discount,total_amount,payment_method,shipping_status
+5001,CA-2024-0001,2025-01-19,2024-03-10,Same Day,1556,Consumer,USA,Port David,Illinois,P3470,Furniture,Chairs,Other Phone,2202.06,1,10.41,1654.07,Bank Transfer,Shipped
+5002,CA-2024-0002,2025-02-13,2023-07-23,Same Day,1526,Consumer,USA,Johnsonhaven,Indiana,P3066,Electronics,Smartphones,Those Phone,2254.52,4,0.89,1677.33,Bank Transfer,Cancelled
+5003,CA-2024-0003,2024-01-17,2023-10-24,Standard,1029,Consumer,USA,West Cindy,Wyoming,P3115,Furniture,Tables,Serve Monitor,482.08,2,12.81,2041.51,Debit Card,Shipped
+5004,CA-2024-0004,2023-07-30,2024-03-10,Standard,1747,Corporate,USA,Shannonbury,Colorado,P3105,Furniture,Printers,Different Printer,1230.33,3,8.83,764.96,Credit Card,In Transit
+5005,CA-2024-0005,2023-05-23,2023-11-17,Express,1224,Home Office,USA,Port Travisbury,Georgia,P3224,Office Supplies,Laptops,Cell Phone,722.98,3,10.91,2494.89,PayPal,Delivered
+5006,CA-2024-0006,2024-08-07,2024-03-09,Same Day,1965,Consumer,USA,Moranfort,California,P3895,Office Supplies,Laptops,Election Monitor,1756.57,3,8.6,193.41,Bank Transfer,Cancelled
+5007,CA-2024-0007,2023-08-03,2023-07-20,Express,1700,Home Office,USA,Port Daniellefurt,Virginia,P3602,Furniture,Chairs,Gun Monitor,2264.59,3,0.98,1222.93,PayPal,Delivered
+5008,CA-2024-0008,2023-07-28,2023-06-22,Standard,1249,Corporate,USA,Hopkinsburgh,Arizona,P3183,Electronics,Smartphones,That Phone,167.09,4,10.16,1737.84,Bank Transfer,Shipped
+5009,CA-2024-0009,2023-03-28,2023-09-30,Standard,1174,Corporate,USA,West Kevinport,Michigan,P3311,Furniture,Smartphones,Want Printer,2183.7,1,17.79,670.76,PayPal,In Transit
+5010,CA-2024-0010,2023-05-26,2024-08-24,Standard,1487,Home Office,USA,Melissaton,New York,P3122,Electronics,Printers,Area Desk,1681.9,2,2.44,1924.22,Debit Card,Delivered
+5011,CA-2024-0011,2024-09-23,2025-02-15,Standard,1373,Home Office,USA,New Brendahaven,Delaware,P3523,Office Supplies,Tables,Spring Phone,2362.82,1,17.37,323.13,PayPal,Shipped
+5012,CA-2024-0012,2024-07-08,2023-05-07,Standard,1748,Consumer,USA,Grahamfort,Nebraska,P3916,Electronics,Printers,Answer Desk,1124.87,3,12.61,621.43,Debit Card,Delivered
+5013,CA-2024-0013,2025-01-04,2024-01-05,Express,1606,Corporate,USA,Michellefort,Nebraska,P3533,Furniture,Chairs,She Phone,2149.21,5,7.53,1113.76,Bank Transfer,Cancelled
+5014,CA-2024-0014,2024-07-18,2023-10-16,Same Day,1325,Corporate,USA,Jenniferville,Idaho,P3483,Office Supplies,Laptops,Adult Printer,403.37,3,2.29,749.43,Credit Card,Delivered
+5015,CA-2024-0015,2023-08-06,2023-07-10,Express,1051,Consumer,USA,West Peterstad,Texas,P3324,Electronics,Laptops,Listen Phone,451.02,5,6.08,314.47,Bank Transfer,Shipped
+5016,CA-2024-0016,2023-04-04,2024-03-03,Same Day,1232,Home Office,USA,West Aaronmouth,Idaho,P3833,Furniture,Laptops,Accept Printer,1601.54,4,11.76,853.62,Debit Card,Cancelled
+5017,CA-2024-0017,2024-02-13,2024-03-01,Standard,1369,Consumer,USA,Zunigaland,New Hampshire,P3377,Furniture,Printers,Section Desk,984.2,2,19.75,1768.97,PayPal,Delivered
+5018,CA-2024-0018,2024-07-17,2023-03-08,Standard,1739,Corporate,USA,South Karen,Florida,P3456,Electronics,Smartphones,Represent Desk,1285.79,4,3.13,1504.05,PayPal,Cancelled
+5019,CA-2024-0019,2023-09-28,2024-02-12,Express,1784,Corporate,USA,Lake Elizabethmouth,Texas,P3632,Electronics,Tables,Market Desk,1505.09,5,7.08,1738.04,Debit Card,In Transit
+5020,CA-2024-0020,2024-08-08,2023-05-14,Standard,1687,Corporate,USA,Jackton,Iowa,P3627,Electronics,Laptops,Pm Laptop,569.97,2,6.29,608.12,Credit Card,In Transit
+5021,CA-2024-0021,2024-10-24,2023-03-20,Same Day,1110,Corporate,USA,Schwartzland,Indiana,P3792,Electronics,Tables,Common Printer,333.7,1,19.05,2322.15,PayPal,Delivered
+5022,CA-2024-0022,2024-03-14,2023-07-13,Same Day,1520,Corporate,USA,Georgehaven,Washington,P3603,Office Supplies,Tables,Eat Monitor,1024.04,4,2.09,1230.97,Bank Transfer,In Transit
+5023,CA-2024-0023,2024-06-02,2023-06-05,Express,1603,Corporate,USA,East Jonathanville,West Virginia,P3780,Electronics,Laptops,Federal Printer,1697.95,4,17.04,79.22,Credit Card,In Transit
+5024,CA-2024-0024,2023-11-25,2025-01-27,Same Day,1470,Corporate,USA,Port David,Colorado,P3297,Furniture,Chairs,Deal Printer,525.41,2,19.52,956.27,Debit Card,In Transit
+5025,CA-2024-0025,2023-07-12,2024-09-10,Standard,1520,Corporate,USA,Greenfurt,Virginia,P3567,Electronics,Smartphones,Water Printer,653.29,3,4.14,147.07,PayPal,In Transit
+5026,CA-2024-0026,2024-02-05,2023-03-26,Express,1788,Home Office,USA,Goodmantown,Georgia,P3632,Office Supplies,Smartphones,Huge Phone,1978.22,3,19.83,2062.26,PayPal,Cancelled
+5027,CA-2024-0027,2023-07-25,2024-04-30,Same Day,1304,Home Office,USA,Nelsonbury,California,P3566,Electronics,Tables,Fill Phone,1696.4,5,1.42,1309.32,PayPal,Cancelled
+5028,CA-2024-0028,2025-01-01,2024-10-18,Express,1675,Consumer,USA,West Sean,Indiana,P3674,Office Supplies,Tables,Exactly Desk,2102.15,2,12.64,1382.22,Bank Transfer,Cancelled
+5029,CA-2024-0029,2024-12-25,2023-12-13,Standard,1502,Home Office,USA,Jeremyhaven,Mississippi,P3363,Office Supplies,Printers,Operation Printer,1453.12,1,12.53,2438.66,Credit Card,Shipped
+5030,CA-2024-0030,2024-06-18,2024-12-22,Express,1853,Consumer,USA,New Jonathanstad,Georgia,P3843,Electronics,Laptops,Arrive Desk,535.89,1,3.97,95.62,Credit Card,Shipped
+5031,CA-2024-0031,2023-04-19,2023-05-02,Express,1614,Corporate,USA,Lake Markton,Virginia,P3955,Office Supplies,Smartphones,Likely Desk,2040.78,5,4.88,1468.77,Debit Card,Cancelled
+5032,CA-2024-0032,2024-03-14,2024-12-11,Express,1514,Corporate,USA,Richardview,Georgia,P3712,Electronics,Tables,Trouble Printer,343.01,2,4.23,2316.25,Bank Transfer,Delivered
+5033,CA-2024-0033,2024-07-22,2024-10-10,Same Day,1805,Consumer,USA,Port Aaronburgh,Florida,P3772,Furniture,Laptops,Hope Monitor,996.33,4,16.15,1567.9,Debit Card,Cancelled
+5034,CA-2024-0034,2024-05-04,2023-06-12,Express,1037,Corporate,USA,Lake Alexis,Tennessee,P3468,Office Supplies,Laptops,Edge Printer,685.87,1,14.65,1986.23,Credit Card,Cancelled
+5035,CA-2024-0035,2025-01-16,2024-10-31,Same Day,1215,Consumer,USA,South Ryan,Maine,P3714,Furniture,Laptops,Half Laptop,949.45,4,7.26,1810.79,Credit Card,In Transit
+5036,CA-2024-0036,2023-10-27,2024-03-21,Standard,1442,Corporate,USA,West Shari,Ohio,P3837,Furniture,Laptops,Should Printer,1843.41,1,0.67,1450.17,Credit Card,In Transit
+5037,CA-2024-0037,2025-01-01,2024-05-07,Standard,1874,Consumer,USA,Lake Dan,North Carolina,P3442,Furniture,Smartphones,Design Laptop,2430.19,2,16.08,705.78,PayPal,Cancelled
+5038,CA-2024-0038,2024-02-09,2023-12-07,Standard,1460,Home Office,USA,South Kelly,West Virginia,P3892,Furniture,Smartphones,Class Desk,965.18,3,16.16,1630.54,Credit Card,Cancelled
+5039,CA-2024-0039,2023-04-04,2023-03-24,Express,1120,Home Office,USA,Josephfort,Michigan,P3252,Furniture,Chairs,Adult Laptop,596.49,5,13.45,1557.23,Debit Card,In Transit
+5040,CA-2024-0040,2023-11-12,2023-04-08,Standard,1084,Home Office,USA,New Donald,Arizona,P3556,Office Supplies,Printers,Local Monitor,2366.5,2,1.93,1753.33,PayPal,Delivered
+5041,CA-2024-0041,2025-01-01,2023-07-18,Standard,1530,Corporate,USA,Millerfort,Michigan,P3244,Furniture,Smartphones,Hard Desk,983.75,1,4.53,497.64,Credit Card,Delivered
+5042,CA-2024-0042,2023-08-18,2023-04-14,Express,1459,Consumer,USA,Johnland,Connecticut,P3650,Furniture,Tables,Law Monitor,1201.92,4,10.42,2270.08,PayPal,Delivered
+5043,CA-2024-0043,2023-10-18,2024-11-24,Standard,1675,Corporate,USA,South Meganshire,Virginia,P3308,Electronics,Printers,Official Printer,1228.42,4,17.73,293.26,Debit Card,In Transit
+5044,CA-2024-0044,2025-01-24,2025-01-13,Standard,1741,Consumer,USA,East Michael,Washington,P3034,Electronics,Smartphones,Sister Desk,1221.28,4,5.54,388.35,Credit Card,Delivered
+5045,CA-2024-0045,2023-04-05,2025-01-17,Standard,1053,Home Office,USA,West Amandaborough,Arizona,P3717,Electronics,Chairs,Allow Monitor,2206.3,3,11.49,2317.97,Credit Card,Delivered
+5046,CA-2024-0046,2024-10-18,2023-09-05,Standard,1120,Corporate,USA,Lake Mariah,Colorado,P3688,Office Supplies,Printers,Tax Monitor,607.84,2,10.65,328.47,PayPal,Delivered
+5047,CA-2024-0047,2024-11-28,2024-04-16,Express,1070,Consumer,USA,Tarabury,North Dakota,P3660,Office Supplies,Tables,Person Monitor,704.32,5,13.81,1966.6,PayPal,Cancelled
+5048,CA-2024-0048,2023-09-07,2023-06-18,Express,1458,Home Office,USA,Danielleborough,Washington,P3739,Electronics,Laptops,Heart Laptop,1067.53,4,13.52,1379.98,Credit Card,Delivered
+5049,CA-2024-0049,2023-11-28,2025-01-06,Same Day,1060,Consumer,USA,Port Gabrielleside,Hawaii,P3653,Electronics,Printers,Continue Laptop,1223.4,5,17.75,1642.23,Debit Card,Shipped
+5050,CA-2024-0050,2023-03-04,2024-08-05,Standard,1245,Home Office,USA,Port Brittneybury,Wisconsin,P3214,Office Supplies,Tables,Investment Laptop,301.71,5,1.92,1138.21,PayPal,Delivered
+5051,CA-2024-0051,2024-09-11,2024-08-20,Express,1503,Consumer,USA,West Debraberg,Wisconsin,P3044,Office Supplies,Printers,Hit Monitor,1233.1,2,17.99,1432.4,Credit Card,Delivered
+5052,CA-2024-0052,2025-01-22,2023-05-19,Same Day,1072,Consumer,USA,East Maureenhaven,Florida,P3247,Office Supplies,Tables,Maybe Monitor,87.02,1,4.69,1107.57,Credit Card,Delivered
+5053,CA-2024-0053,2025-02-22,2024-06-20,Express,1096,Consumer,USA,South Joshua,Maryland,P3237,Electronics,Laptops,Administration Phone,820.57,3,16.22,1978.08,PayPal,Delivered
+5054,CA-2024-0054,2023-09-04,2024-05-13,Standard,1262,Corporate,USA,East Luis,Colorado,P3627,Electronics,Smartphones,Claim Laptop,104.33,4,18.04,2484.96,Bank Transfer,Shipped
+5055,CA-2024-0055,2025-01-01,2025-01-26,Same Day,1440,Corporate,USA,North Amber,Ohio,P3686,Office Supplies,Chairs,By Phone,973.89,5,16.47,299.47,Debit Card,Cancelled
+5056,CA-2024-0056,2025-02-08,2024-08-02,Same Day,1370,Home Office,USA,Jillianhaven,Minnesota,P3613,Furniture,Printers,Consumer Phone,1146.41,4,13.82,1094.52,Bank Transfer,In Transit
+5057,CA-2024-0057,2023-10-02,2024-10-29,Standard,1270,Corporate,USA,Jessicamouth,Massachusetts,P3452,Office Supplies,Chairs,Meeting Monitor,187.61,3,9.37,728.95,PayPal,Delivered
+5058,CA-2024-0058,2024-08-09,2023-08-02,Express,1738,Corporate,USA,Lake Shellychester,California,P3421,Furniture,Laptops,Heavy Phone,60.92,1,4.9,1786.8,PayPal,Delivered
+5059,CA-2024-0059,2023-08-08,2024-07-13,Same Day,1531,Corporate,USA,Jesseton,Georgia,P3372,Furniture,Tables,After Phone,703.27,2,11.41,1218.46,Bank Transfer,Cancelled
+5060,CA-2024-0060,2024-09-13,2025-02-21,Same Day,1696,Consumer,USA,Whitetown,Iowa,P3169,Office Supplies,Tables,Foreign Monitor,2196.75,1,16.9,760.49,Bank Transfer,In Transit
+5061,CA-2024-0061,2023-11-15,2023-04-24,Same Day,1150,Corporate,USA,North Jessica,Nebraska,P3512,Furniture,Chairs,Second Laptop,347.35,2,5.2,869.81,PayPal,Delivered
+5062,CA-2024-0062,2023-10-21,2024-03-18,Express,1070,Corporate,USA,Bergport,New Mexico,P3241,Office Supplies,Laptops,Suffer Monitor,1713.92,5,5.91,2259.24,Credit Card,Delivered
+5063,CA-2024-0063,2024-12-13,2023-12-30,Standard,1381,Consumer,USA,New Laurieport,Colorado,P3565,Electronics,Laptops,Large Laptop,1610.81,1,2.1,1966.22,Credit Card,Cancelled
+5064,CA-2024-0064,2023-04-07,2024-10-02,Same Day,1486,Home Office,USA,Lake Kristin,Nebraska,P3960,Furniture,Printers,Act Monitor,1727.26,5,8.37,1726.95,Bank Transfer,Shipped
+5065,CA-2024-0065,2023-05-22,2023-03-27,Standard,1698,Home Office,USA,Christopherland,North Dakota,P3203,Electronics,Chairs,Travel Desk,672.4,5,10.33,762.07,Bank Transfer,Delivered
+5066,CA-2024-0066,2023-08-10,2023-07-18,Same Day,1419,Home Office,USA,Larrymouth,New Mexico,P3944,Furniture,Printers,Quickly Printer,1116.73,3,7.05,1891.69,Credit Card,Delivered
+5067,CA-2024-0067,2023-05-30,2024-09-02,Standard,1953,Home Office,USA,Jasonberg,Texas,P3480,Electronics,Laptops,Which Laptop,1479.22,5,19.2,359.36,Bank Transfer,In Transit
+5068,CA-2024-0068,2024-09-19,2023-05-14,Same Day,1932,Consumer,USA,North Daniel,Georgia,P3881,Office Supplies,Smartphones,Friend Phone,1498.38,3,13.86,2179.82,PayPal,In Transit
+5069,CA-2024-0069,2024-09-02,2023-07-12,Same Day,1201,Corporate,USA,Michaelchester,Illinois,P3403,Electronics,Smartphones,Street Monitor,2066.25,5,10.09,1465.87,Credit Card,Cancelled
+5070,CA-2024-0070,2023-06-05,2024-04-02,Same Day,1255,Corporate,USA,New Jeromechester,Minnesota,P3470,Electronics,Printers,Drug Monitor,1848.68,4,4.45,1549.86,PayPal,Shipped
+5071,CA-2024-0071,2024-12-20,2024-05-14,Express,1274,Corporate,USA,West Samuel,Minnesota,P3130,Electronics,Tables,Magazine Laptop,159.18,2,5.55,1412.17,PayPal,Cancelled
+5072,CA-2024-0072,2024-07-02,2024-12-23,Standard,1093,Corporate,USA,Johnberg,Texas,P3506,Office Supplies,Smartphones,South Desk,279.19,5,1.83,171.68,Debit Card,Delivered
+5073,CA-2024-0073,2023-11-19,2024-08-16,Standard,1899,Corporate,USA,Port Benjamin,Utah,P3481,Office Supplies,Smartphones,Record Monitor,634.39,3,0.83,2178.56,Credit Card,Shipped
+5074,CA-2024-0074,2023-05-05,2023-09-11,Same Day,1714,Corporate,USA,Port Johnland,South Carolina,P3812,Office Supplies,Laptops,Yeah Printer,488.7,2,3.51,2031.5,PayPal,Cancelled
+5075,CA-2024-0075,2024-07-06,2023-04-06,Same Day,1363,Consumer,USA,Stricklandborough,New Jersey,P3554,Electronics,Printers,Spend Printer,293.15,5,16.13,1434.78,PayPal,Shipped
+5076,CA-2024-0076,2023-04-14,2023-08-23,Express,1063,Consumer,USA,Austinchester,Alabama,P3315,Furniture,Chairs,Generation Phone,2156.5,2,3.01,2143.43,Debit Card,Shipped
+5077,CA-2024-0077,2024-05-14,2024-07-04,Express,1948,Home Office,USA,New Kristin,New Hampshire,P3096,Electronics,Tables,However Monitor,1075.17,1,14.13,1849.79,Debit Card,Cancelled
+5078,CA-2024-0078,2024-02-16,2024-10-22,Standard,1660,Consumer,USA,Abbottchester,Nevada,P3867,Electronics,Smartphones,Heavy Printer,54.92,2,7.43,75.62,Credit Card,Delivered
+5079,CA-2024-0079,2024-08-01,2023-06-10,Same Day,1330,Corporate,USA,Grantbury,Oregon,P3461,Furniture,Tables,Staff Phone,285.79,4,18.26,456.72,Bank Transfer,Cancelled
+5080,CA-2024-0080,2024-07-30,2023-09-04,Standard,1129,Consumer,USA,New Laurie,Wyoming,P3739,Electronics,Laptops,Have Printer,1567.88,2,1.71,2374.69,PayPal,Delivered
+5081,CA-2024-0081,2024-07-17,2023-04-01,Same Day,1026,Consumer,USA,Sandraberg,Massachusetts,P3278,Office Supplies,Chairs,Benefit Printer,733.66,5,16.44,699.51,PayPal,Shipped
+5082,CA-2024-0082,2024-05-19,2024-07-25,Same Day,1056,Consumer,USA,East Alexaburgh,Kansas,P3610,Furniture,Chairs,Across Printer,1467.18,5,2.99,488.18,PayPal,Shipped
+5083,CA-2024-0083,2023-07-01,2023-12-01,Express,1903,Consumer,USA,New Danielleton,Utah,P3599,Electronics,Tables,Group Monitor,2486.19,2,11.49,2010.42,Debit Card,Delivered
+5084,CA-2024-0084,2023-08-05,2023-03-03,Express,1763,Consumer,USA,Allisonmouth,Arizona,P3716,Office Supplies,Laptops,Present Printer,117.33,5,12.0,2068.56,PayPal,Shipped
+5085,CA-2024-0085,2023-10-08,2024-01-12,Standard,1031,Home Office,USA,Christinaton,Iowa,P3800,Furniture,Laptops,Science Phone,1784.01,5,5.67,169.62,Debit Card,Delivered
+5086,CA-2024-0086,2023-12-02,2023-08-21,Standard,1870,Consumer,USA,Rubiochester,Montana,P3130,Office Supplies,Smartphones,Truth Desk,2386.85,3,15.33,449.23,Bank Transfer,Shipped
+5087,CA-2024-0087,2023-08-08,2024-08-17,Standard,1464,Consumer,USA,West William,Ohio,P3850,Office Supplies,Tables,Third Printer,436.15,1,19.94,1636.62,Credit Card,Delivered
+5088,CA-2024-0088,2025-02-24,2023-09-10,Same Day,1588,Consumer,USA,South Tarahaven,Alabama,P3716,Furniture,Tables,Capital Printer,1186.49,5,19.96,2360.62,PayPal,Cancelled
+5089,CA-2024-0089,2023-07-12,2024-06-21,Standard,1087,Consumer,USA,Debrafurt,Wyoming,P3770,Electronics,Smartphones,Detail Phone,2156.3,4,11.74,1219.5,Credit Card,In Transit
+5090,CA-2024-0090,2024-08-02,2023-03-10,Standard,1411,Corporate,USA,Port Amy,Kansas,P3357,Furniture,Smartphones,None Phone,1271.51,2,7.7,1278.93,Debit Card,In Transit
+5091,CA-2024-0091,2023-05-04,2024-04-12,Express,1148,Home Office,USA,Garciastad,Florida,P3378,Electronics,Chairs,White Monitor,2313.44,4,5.14,1839.39,Credit Card,Shipped
+5092,CA-2024-0092,2023-10-02,2024-06-09,Express,1339,Consumer,USA,Port Mandyfurt,Alaska,P3117,Furniture,Smartphones,Meeting Laptop,2260.8,2,10.56,2173.66,PayPal,Delivered
+5093,CA-2024-0093,2023-06-08,2023-08-03,Express,1377,Home Office,USA,Lake Jonathan,Nevada,P3299,Electronics,Tables,Listen Phone,720.72,5,9.65,2324.59,Debit Card,Cancelled
+5094,CA-2024-0094,2024-10-30,2023-07-20,Standard,1357,Corporate,USA,Port Kimberly,Iowa,P3375,Office Supplies,Smartphones,Decade Printer,2085.81,5,2.3,119.24,Bank Transfer,Cancelled
+5095,CA-2024-0095,2023-03-07,2023-03-31,Same Day,1924,Home Office,USA,Michaelburgh,Oklahoma,P3807,Office Supplies,Printers,Yet Laptop,2128.4,2,4.27,731.61,PayPal,Shipped
+5096,CA-2024-0096,2024-09-28,2023-11-20,Express,1840,Corporate,USA,South Lindsayhaven,Arizona,P3430,Furniture,Tables,Author Printer,661.06,1,18.89,755.38,Credit Card,Shipped
+5097,CA-2024-0097,2023-04-10,2024-01-23,Express,1689,Home Office,USA,Delacruzburgh,Louisiana,P3736,Electronics,Tables,How Desk,1611.44,4,5.42,199.71,Bank Transfer,Cancelled
+5098,CA-2024-0098,2023-08-06,2024-11-24,Express,1147,Consumer,USA,West Robinshire,Pennsylvania,P3198,Electronics,Tables,Out Monitor,2388.96,5,4.6,226.64,Credit Card,Cancelled
+5099,CA-2024-0099,2023-08-02,2023-04-22,Express,1365,Consumer,USA,East Dylan,Arkansas,P3760,Electronics,Chairs,We Printer,2191.13,5,2.84,334.26,Debit Card,In Transit
+5100,CA-2024-0100,2024-10-21,2025-02-21,Same Day,1726,Corporate,USA,North Richard,Kentucky,P3172,Office Supplies,Tables,School Laptop,1651.56,1,2.65,2355.24,PayPal,Delivered
+5101,CA-2024-0101,2023-11-29,2023-05-16,Standard,1852,Corporate,USA,Ramirezfurt,Oklahoma,P3932,Furniture,Smartphones,Glass Desk,673.48,4,5.32,1634.33,PayPal,In Transit
+5102,CA-2024-0102,2024-04-14,2023-05-20,Standard,1528,Consumer,USA,South Dawnton,Wisconsin,P3347,Furniture,Chairs,Run Printer,726.1,1,1.6,834.82,PayPal,In Transit
+5103,CA-2024-0103,2023-06-04,2024-01-07,Express,1030,Home Office,USA,Frazierburgh,North Dakota,P3020,Furniture,Printers,Clear Monitor,303.59,5,12.72,1740.91,Debit Card,Cancelled
+5104,CA-2024-0104,2025-02-18,2024-02-06,Standard,1189,Home Office,USA,Robertview,South Dakota,P3347,Office Supplies,Chairs,Ground Laptop,584.44,3,7.68,587.16,Debit Card,Cancelled
+5105,CA-2024-0105,2023-09-23,2023-12-05,Express,1954,Home Office,USA,Amystad,Missouri,P3541,Electronics,Laptops,Probably Desk,1961.96,5,0.67,2309.69,Credit Card,Shipped
+5106,CA-2024-0106,2024-06-09,2023-07-03,Express,1900,Home Office,USA,Glennland,Nevada,P3507,Electronics,Chairs,Finish Printer,435.91,4,13.27,1261.04,Credit Card,In Transit
+5107,CA-2024-0107,2023-12-31,2024-08-26,Standard,1720,Consumer,USA,Daniellefort,Mississippi,P3155,Electronics,Tables,Law Monitor,1463.33,4,19.83,1741.27,Debit Card,Cancelled
+5108,CA-2024-0108,2024-03-05,2023-03-31,Express,1313,Consumer,USA,West Shannon,South Carolina,P3412,Electronics,Printers,Commercial Phone,1699.4,5,8.23,1147.51,PayPal,Delivered
+5109,CA-2024-0109,2023-07-09,2024-07-18,Standard,1709,Corporate,USA,West Johnny,New Jersey,P3695,Office Supplies,Printers,A Phone,274.76,1,16.09,2408.33,PayPal,Delivered
+5110,CA-2024-0110,2023-05-13,2024-07-02,Same Day,1840,Home Office,USA,West Ryan,Vermont,P3318,Office Supplies,Tables,Kind Laptop,1954.14,4,6.49,194.04,Credit Card,Cancelled
+5111,CA-2024-0111,2024-07-18,2023-09-13,Standard,1419,Corporate,USA,Christinastad,South Dakota,P3077,Electronics,Laptops,Position Laptop,1723.87,3,8.99,1462.7,Bank Transfer,In Transit
+5112,CA-2024-0112,2024-01-30,2024-12-15,Standard,1664,Consumer,USA,Adkinsview,Arizona,P3824,Office Supplies,Chairs,Never Laptop,133.52,3,7.68,1124.82,Credit Card,Delivered
+5113,CA-2024-0113,2024-09-17,2024-11-06,Same Day,1434,Corporate,USA,Garciaburgh,Florida,P3595,Office Supplies,Laptops,Produce Monitor,2044.9,2,10.15,1710.9,Debit Card,Cancelled
+5114,CA-2024-0114,2024-07-13,2024-10-26,Standard,1765,Consumer,USA,Katherineport,Vermont,P3493,Electronics,Printers,Maintain Monitor,179.53,5,2.69,545.51,PayPal,Shipped
+5115,CA-2024-0115,2023-09-24,2023-12-17,Standard,1639,Corporate,USA,East Kelly,California,P3394,Electronics,Smartphones,Spring Phone,2181.91,2,19.24,2013.25,Bank Transfer,Delivered
+5116,CA-2024-0116,2024-05-20,2023-08-31,Express,1222,Home Office,USA,South Lindseyfort,Utah,P3787,Furniture,Tables,Buy Desk,1870.89,1,3.26,932.09,Debit Card,Delivered
+5117,CA-2024-0117,2023-07-15,2024-08-28,Express,1849,Home Office,USA,East Betty,Nebraska,P3886,Office Supplies,Tables,Kind Laptop,2414.18,4,15.12,2203.85,Credit Card,In Transit
+5118,CA-2024-0118,2023-04-29,2024-05-22,Same Day,1537,Consumer,USA,East Hollymouth,New Mexico,P3087,Office Supplies,Printers,After Monitor,1376.61,5,15.11,369.05,Debit Card,Shipped
+5119,CA-2024-0119,2025-02-13,2024-06-28,Express,1964,Consumer,USA,Samuelstad,Montana,P3250,Furniture,Chairs,Perform Printer,1953.54,1,10.98,2393.67,Debit Card,In Transit
+5120,CA-2024-0120,2023-06-22,2024-12-02,Standard,1092,Home Office,USA,Garrettberg,New Hampshire,P3068,Office Supplies,Smartphones,Position Laptop,1604.79,4,4.63,1980.79,Bank Transfer,Delivered
+5121,CA-2024-0121,2024-09-24,2023-03-07,Standard,1722,Consumer,USA,Flemingstad,Utah,P3628,Electronics,Smartphones,Plan Printer,831.55,3,2.61,1618.91,Credit Card,Delivered
+5122,CA-2024-0122,2024-11-26,2023-07-07,Standard,1481,Home Office,USA,Port Sabrina,Wisconsin,P3373,Electronics,Chairs,Local Monitor,345.03,2,14.05,1240.64,Credit Card,In Transit
+5123,CA-2024-0123,2024-10-02,2023-09-14,Standard,1461,Home Office,USA,North Davidmouth,Maine,P3285,Office Supplies,Smartphones,Baby Monitor,1037.51,5,0.79,2467.08,Debit Card,Shipped
+5124,CA-2024-0124,2023-12-25,2024-06-02,Same Day,1571,Home Office,USA,Michaelbury,Missouri,P3501,Electronics,Laptops,Think Desk,237.15,3,5.2,1424.81,Debit Card,Shipped
+5125,CA-2024-0125,2023-12-28,2024-05-25,Express,1964,Corporate,USA,Daniellestad,Montana,P3176,Office Supplies,Printers,Story Desk,1156.34,1,15.03,594.01,PayPal,Delivered
+5126,CA-2024-0126,2024-11-26,2024-11-05,Express,1066,Consumer,USA,Kellyborough,Arizona,P3419,Furniture,Laptops,Pressure Phone,1419.9,3,9.87,853.6,PayPal,Shipped
+5127,CA-2024-0127,2023-05-31,2024-07-18,Express,1684,Consumer,USA,Walkerberg,Oklahoma,P3065,Office Supplies,Tables,Then Laptop,1497.25,5,14.65,335.12,PayPal,In Transit
+5128,CA-2024-0128,2024-01-13,2023-07-24,Same Day,1130,Consumer,USA,Goodmanstad,North Dakota,P3680,Electronics,Tables,Safe Laptop,2469.61,2,17.57,1840.44,Credit Card,Delivered
+5129,CA-2024-0129,2023-12-17,2024-02-08,Express,1379,Corporate,USA,Anthonytown,Missouri,P3712,Office Supplies,Tables,That Phone,1804.85,4,7.33,1317.79,Debit Card,Shipped
+5130,CA-2024-0130,2024-01-16,2023-05-18,Express,1560,Corporate,USA,North Connorville,Florida,P3404,Furniture,Chairs,Free Laptop,245.61,5,18.58,119.31,Bank Transfer,In Transit
+5131,CA-2024-0131,2024-05-21,2024-11-11,Standard,1012,Consumer,USA,Pottsville,New York,P3224,Electronics,Chairs,So Printer,839.28,1,15.07,164.79,Bank Transfer,Delivered
+5132,CA-2024-0132,2024-09-12,2023-11-26,Same Day,1216,Home Office,USA,East Jillianport,New Mexico,P3985,Electronics,Printers,Question Monitor,741.7,2,16.12,1949.55,PayPal,Shipped
+5133,CA-2024-0133,2023-05-16,2023-05-04,Express,1793,Corporate,USA,South Markstad,Louisiana,P3240,Office Supplies,Chairs,Hear Printer,118.11,1,4.63,1227.61,PayPal,Shipped
+5134,CA-2024-0134,2024-10-26,2024-07-06,Same Day,1761,Home Office,USA,West Wendy,Montana,P3855,Furniture,Chairs,Work Printer,2073.61,3,10.11,337.57,Bank Transfer,Cancelled
+5135,CA-2024-0135,2024-04-29,2023-08-18,Standard,1491,Home Office,USA,Walkertown,New York,P3688,Office Supplies,Laptops,Now Printer,274.09,2,14.04,738.79,Debit Card,Cancelled
+5136,CA-2024-0136,2023-06-14,2025-01-02,Express,1348,Corporate,USA,Michaelfort,Mississippi,P3387,Office Supplies,Laptops,First Desk,1523.86,5,12.4,1390.58,PayPal,Shipped
+5137,CA-2024-0137,2023-11-11,2024-12-21,Same Day,1259,Consumer,USA,South Laura,North Carolina,P3954,Office Supplies,Chairs,World Monitor,1230.46,4,4.39,341.37,Credit Card,Delivered
+5138,CA-2024-0138,2024-10-16,2024-07-08,Same Day,1859,Consumer,USA,West Amanda,Vermont,P3556,Office Supplies,Smartphones,Kitchen Monitor,1287.41,1,18.38,318.29,Credit Card,Shipped
+5139,CA-2024-0139,2025-02-10,2024-04-17,Express,1361,Consumer,USA,Joyceview,Ohio,P3412,Office Supplies,Tables,This Monitor,1751.24,5,14.91,716.63,Credit Card,Shipped
+5140,CA-2024-0140,2024-09-10,2023-04-15,Standard,1712,Corporate,USA,Nicholasfurt,Texas,P3816,Electronics,Printers,Stay Monitor,991.49,3,11.56,363.25,Credit Card,Shipped
+5141,CA-2024-0141,2024-07-19,2024-10-04,Same Day,1102,Home Office,USA,New Adamhaven,Oklahoma,P3985,Furniture,Smartphones,Story Laptop,1853.09,5,7.85,2186.84,Bank Transfer,Shipped
+5142,CA-2024-0142,2024-11-05,2024-03-13,Express,1408,Home Office,USA,Danielbury,Kentucky,P3345,Electronics,Chairs,Industry Desk,1693.93,3,9.36,1620.32,Debit Card,Delivered
+5143,CA-2024-0143,2024-03-31,2023-09-14,Standard,1896,Home Office,USA,Port Justinville,Michigan,P3116,Electronics,Chairs,Maintain Desk,446.97,5,10.6,740.5,Bank Transfer,Shipped
+5144,CA-2024-0144,2024-11-19,2024-09-21,Express,1314,Consumer,USA,North Philipshire,Minnesota,P3827,Furniture,Chairs,Light Phone,1971.95,1,7.81,381.21,Bank Transfer,Shipped
+5145,CA-2024-0145,2023-08-01,2024-12-18,Standard,1889,Consumer,USA,Christinabury,Texas,P3776,Electronics,Laptops,Ever Laptop,1406.11,3,5.67,2081.07,Debit Card,Shipped
+5146,CA-2024-0146,2025-03-01,2023-05-01,Same Day,1794,Corporate,USA,East Terri,South Dakota,P3162,Electronics,Tables,Use Laptop,766.27,1,2.14,2471.0,PayPal,Shipped
+5147,CA-2024-0147,2025-01-31,2024-08-07,Same Day,1067,Corporate,USA,Port Kimfort,New Mexico,P3173,Office Supplies,Laptops,While Phone,451.5,1,6.37,1248.31,Credit Card,In Transit
+5148,CA-2024-0148,2024-02-17,2023-11-12,Same Day,1046,Corporate,USA,Lake Susantown,Nebraska,P3904,Furniture,Chairs,Home Phone,1777.06,5,8.13,227.95,PayPal,Delivered
+5149,CA-2024-0149,2024-12-11,2023-09-16,Express,1777,Consumer,USA,Mcintoshton,Wyoming,P3095,Furniture,Smartphones,Single Laptop,606.5,2,2.75,2067.59,Bank Transfer,Shipped
+5150,CA-2024-0150,2024-07-04,2023-08-12,Express,1077,Corporate,USA,Karenfurt,Washington,P3284,Office Supplies,Tables,Community Printer,1686.04,4,3.22,2308.01,PayPal,Shipped
+5151,CA-2024-0151,2023-06-23,2023-08-26,Standard,1199,Consumer,USA,West Christopherfurt,Montana,P3925,Furniture,Printers,Service Phone,680.27,2,3.84,1859.56,PayPal,Shipped
+5152,CA-2024-0152,2024-07-31,2023-10-10,Express,1058,Home Office,USA,Triciaborough,Maine,P3811,Electronics,Printers,Agree Laptop,2189.55,5,1.05,320.97,PayPal,Shipped
+5153,CA-2024-0153,2024-10-03,2024-05-16,Standard,1964,Corporate,USA,Robertfurt,Idaho,P3550,Electronics,Laptops,Hope Desk,1120.11,1,11.42,1173.32,Bank Transfer,Cancelled
+5154,CA-2024-0154,2024-02-20,2023-06-13,Same Day,1888,Consumer,USA,Lake Michelle,Rhode Island,P3387,Furniture,Printers,Four Monitor,1424.11,4,10.36,1503.76,Bank Transfer,Delivered
+5155,CA-2024-0155,2023-11-07,2023-06-15,Same Day,1729,Corporate,USA,Sandraport,Ohio,P3941,Office Supplies,Smartphones,Race Laptop,199.79,3,16.31,2367.95,Credit Card,Cancelled
+5156,CA-2024-0156,2024-11-18,2023-08-23,Standard,1351,Home Office,USA,Alexton,Maine,P3062,Office Supplies,Printers,Here Printer,2209.48,3,17.62,1636.76,PayPal,Cancelled
+5157,CA-2024-0157,2024-07-23,2024-05-12,Same Day,1964,Consumer,USA,Dylanmouth,Arizona,P3781,Furniture,Laptops,How Monitor,499.34,1,18.46,2008.99,Bank Transfer,Cancelled
+5158,CA-2024-0158,2024-06-29,2024-12-02,Same Day,1653,Consumer,USA,Brooksberg,Idaho,P3351,Electronics,Laptops,Similar Phone,736.82,5,7.87,1926.66,PayPal,Shipped
+5159,CA-2024-0159,2023-05-27,2024-07-11,Same Day,1299,Consumer,USA,Jamietown,South Carolina,P3267,Office Supplies,Laptops,Discuss Phone,2169.16,3,19.53,1206.76,Debit Card,Delivered
+5160,CA-2024-0160,2024-03-13,2024-04-10,Express,1236,Home Office,USA,Darrenborough,Missouri,P3699,Electronics,Printers,Mother Phone,1383.9,4,11.1,2476.74,PayPal,Delivered
+5161,CA-2024-0161,2023-11-25,2024-01-21,Standard,1385,Consumer,USA,Andrewbury,North Carolina,P3995,Office Supplies,Laptops,Thank Laptop,633.02,5,13.75,1093.97,Debit Card,Delivered
+5162,CA-2024-0162,2024-10-10,2023-09-10,Same Day,1883,Corporate,USA,East Isaacbury,Michigan,P3853,Electronics,Printers,Project Desk,2013.84,5,4.25,1100.89,Credit Card,Delivered
+5163,CA-2024-0163,2024-02-06,2024-05-03,Standard,1138,Home Office,USA,Jacksonfort,Utah,P3290,Electronics,Chairs,Life Printer,806.73,2,1.61,1076.85,Bank Transfer,Delivered
+5164,CA-2024-0164,2024-05-30,2024-07-05,Standard,1307,Home Office,USA,Darrellport,Indiana,P3966,Electronics,Chairs,Eight Phone,782.98,4,13.95,1956.71,Credit Card,Shipped
+5165,CA-2024-0165,2025-01-21,2023-06-05,Standard,1268,Corporate,USA,Farmerfurt,South Dakota,P3037,Furniture,Smartphones,Card Monitor,1497.89,4,18.12,2126.63,PayPal,Delivered
+5166,CA-2024-0166,2024-06-07,2024-07-11,Express,1060,Corporate,USA,South Theresaport,Michigan,P3020,Electronics,Laptops,Seek Desk,1833.91,3,4.13,1490.59,Debit Card,Cancelled
+5167,CA-2024-0167,2024-01-18,2023-09-16,Express,1972,Home Office,USA,East Carolineton,New Mexico,P3396,Electronics,Laptops,News Desk,1224.17,5,7.05,1326.14,Bank Transfer,Shipped
+5168,CA-2024-0168,2025-02-14,2024-11-18,Express,1624,Home Office,USA,North Laura,Colorado,P3784,Electronics,Printers,Really Printer,549.45,3,16.27,2224.51,Credit Card,In Transit
+5169,CA-2024-0169,2023-07-24,2023-05-08,Standard,1663,Home Office,USA,Livingstonmouth,Nevada,P3358,Furniture,Tables,Let Phone,1668.26,1,3.92,2423.68,Debit Card,In Transit
+5170,CA-2024-0170,2024-03-10,2023-10-10,Same Day,1505,Corporate,USA,West Alicia,Virginia,P3063,Office Supplies,Chairs,Billion Monitor,2181.81,1,3.78,113.19,Bank Transfer,Shipped
+5171,CA-2024-0171,2024-09-26,2024-12-29,Express,1229,Home Office,USA,Carterview,Idaho,P3042,Office Supplies,Smartphones,Near Desk,1040.57,4,5.96,2418.79,Debit Card,Cancelled
+5172,CA-2024-0172,2024-05-30,2023-03-03,Express,1227,Home Office,USA,Michaelburgh,Washington,P3257,Office Supplies,Smartphones,Enter Laptop,2033.99,4,6.59,2475.91,Debit Card,Delivered
+5173,CA-2024-0173,2024-11-11,2023-07-25,Express,1526,Home Office,USA,Stevenport,Alaska,P3260,Electronics,Printers,Benefit Monitor,542.0,3,8.18,1648.81,Debit Card,In Transit
+5174,CA-2024-0174,2023-03-28,2023-11-08,Same Day,1159,Corporate,USA,Melvinburgh,Arkansas,P3835,Electronics,Laptops,Message Desk,1794.63,5,2.75,1839.27,Bank Transfer,Cancelled
+5175,CA-2024-0175,2023-10-20,2023-03-23,Express,1686,Home Office,USA,North Danielle,Oregon,P3011,Furniture,Laptops,Room Phone,1128.51,5,11.23,138.8,Debit Card,Cancelled
+5176,CA-2024-0176,2024-06-05,2024-05-04,Express,1922,Consumer,USA,Port Marcusport,North Dakota,P3042,Office Supplies,Laptops,Audience Laptop,2330.64,5,7.52,1784.14,Bank Transfer,Cancelled
+5177,CA-2024-0177,2023-09-01,2025-01-14,Same Day,1918,Consumer,USA,Alexanderbury,Maryland,P3183,Electronics,Laptops,Cost Monitor,534.24,3,12.67,1792.25,PayPal,In Transit
+5178,CA-2024-0178,2023-09-07,2023-06-20,Standard,1686,Consumer,USA,Byrdbury,New York,P3455,Furniture,Tables,Child Printer,1896.51,1,16.52,1174.73,Credit Card,Delivered
+5179,CA-2024-0179,2024-12-29,2024-04-01,Standard,1710,Home Office,USA,Wilcoxville,Oklahoma,P3617,Furniture,Smartphones,Tax Phone,2464.09,3,8.07,348.63,Bank Transfer,Shipped
+5180,CA-2024-0180,2023-05-30,2024-10-13,Same Day,1172,Consumer,USA,East Teresa,Massachusetts,P3781,Office Supplies,Laptops,Radio Phone,821.7,1,8.97,2422.14,Bank Transfer,Cancelled
+5181,CA-2024-0181,2024-09-27,2023-12-20,Standard,1743,Corporate,USA,North Johnathan,Alaska,P3482,Furniture,Chairs,Environmental Printer,1184.17,4,18.76,2111.68,PayPal,In Transit
+5182,CA-2024-0182,2024-12-24,2023-06-05,Express,1783,Corporate,USA,Fryland,Kansas,P3451,Furniture,Smartphones,Cold Laptop,2326.38,4,0.04,501.91,Bank Transfer,In Transit
+5183,CA-2024-0183,2024-11-09,2023-12-02,Same Day,1118,Home Office,USA,Port Fernandomouth,Kentucky,P3638,Furniture,Smartphones,Choose Desk,331.53,5,2.59,1108.69,Bank Transfer,In Transit
+5184,CA-2024-0184,2023-06-25,2024-03-08,Same Day,1454,Home Office,USA,Lake Donna,South Dakota,P3162,Electronics,Printers,Wind Printer,1424.47,4,10.67,1088.42,Bank Transfer,Delivered
+5185,CA-2024-0185,2023-12-17,2025-02-26,Standard,1508,Corporate,USA,Silvaland,Alaska,P3146,Furniture,Chairs,Involve Laptop,1733.69,3,19.3,2460.99,Debit Card,In Transit
+5186,CA-2024-0186,2024-04-13,2025-01-23,Standard,1035,Consumer,USA,New Adam,Pennsylvania,P3605,Office Supplies,Chairs,Traditional Printer,141.38,3,0.91,2388.53,Bank Transfer,In Transit
+5187,CA-2024-0187,2024-08-10,2024-04-30,Standard,1713,Corporate,USA,New Kimshire,South Carolina,P3623,Office Supplies,Tables,These Printer,457.81,4,15.1,1369.92,Credit Card,Shipped
+5188,CA-2024-0188,2024-08-15,2023-10-15,Same Day,1808,Consumer,USA,Craigville,Utah,P3251,Furniture,Laptops,Behind Desk,1826.16,1,6.85,1570.93,PayPal,In Transit
+5189,CA-2024-0189,2024-03-15,2023-04-11,Express,1299,Consumer,USA,Washingtonbury,Utah,P3150,Furniture,Tables,Late Laptop,1809.84,2,2.5,326.07,Debit Card,In Transit
+5190,CA-2024-0190,2024-07-01,2025-01-19,Express,1983,Corporate,USA,Changside,Connecticut,P3482,Electronics,Chairs,Student Desk,1143.53,2,12.78,1160.46,Debit Card,Cancelled
+5191,CA-2024-0191,2024-05-09,2024-07-02,Standard,1749,Consumer,USA,Port Heatherburgh,Michigan,P3285,Electronics,Smartphones,Why Phone,2240.88,1,17.44,699.74,Debit Card,Shipped
+5192,CA-2024-0192,2024-03-09,2023-09-22,Standard,1616,Corporate,USA,East Melanieside,Kansas,P3491,Office Supplies,Chairs,Employee Printer,370.37,2,11.52,300.65,Credit Card,Cancelled
+5193,CA-2024-0193,2023-05-31,2024-09-06,Standard,1879,Corporate,USA,West Lindseyport,Missouri,P3518,Electronics,Smartphones,Pass Phone,1681.71,1,3.03,1530.34,PayPal,Delivered
+5194,CA-2024-0194,2023-08-04,2023-11-10,Express,1424,Home Office,USA,Lake David,Missouri,P3830,Electronics,Laptops,Nothing Monitor,643.63,2,0.78,2124.63,Credit Card,Shipped
+5195,CA-2024-0195,2023-04-20,2024-04-19,Same Day,1393,Home Office,USA,East Kristopher,South Carolina,P3299,Furniture,Laptops,White Laptop,709.21,2,13.12,2421.35,Credit Card,Cancelled
+5196,CA-2024-0196,2024-03-30,2024-12-23,Express,1503,Home Office,USA,North Scottberg,North Dakota,P3781,Office Supplies,Tables,Movement Phone,1985.62,5,1.87,2024.27,Bank Transfer,Shipped
+5197,CA-2024-0197,2023-04-22,2024-03-31,Same Day,1417,Home Office,USA,Jasonville,Montana,P3260,Electronics,Smartphones,Industry Laptop,1072.39,5,16.7,795.51,Debit Card,Delivered
+5198,CA-2024-0198,2023-05-10,2023-08-02,Express,1328,Corporate,USA,Austinhaven,Alabama,P3768,Office Supplies,Chairs,Without Desk,2042.23,4,12.07,1128.13,PayPal,Cancelled
+5199,CA-2024-0199,2024-12-22,2024-03-28,Same Day,1140,Corporate,USA,Lake Geraldtown,Oklahoma,P3284,Furniture,Laptops,Black Phone,1993.27,3,19.42,1712.56,Bank Transfer,Shipped
+5200,CA-2024-0200,2023-03-28,2023-03-31,Express,1301,Consumer,USA,Russellmouth,Kentucky,P3205,Furniture,Printers,Town Monitor,2024.05,2,1.86,223.54,Credit Card,Cancelled
+5201,CA-2024-0201,2024-12-31,2023-04-23,Standard,1458,Corporate,USA,Beckerberg,Hawaii,P3918,Electronics,Printers,Arrive Printer,886.55,2,10.35,1096.64,Credit Card,Shipped
+5202,CA-2024-0202,2024-05-28,2023-04-13,Same Day,1762,Corporate,USA,Allenmouth,Vermont,P3351,Furniture,Tables,Cost Desk,424.28,1,18.82,610.71,Bank Transfer,Delivered
+5203,CA-2024-0203,2023-06-16,2023-04-09,Express,1973,Home Office,USA,Benjaminville,Hawaii,P3866,Furniture,Printers,Kid Monitor,2352.83,3,1.72,1641.58,Credit Card,In Transit
+5204,CA-2024-0204,2023-07-22,2024-12-12,Same Day,1107,Corporate,USA,Foxchester,New Mexico,P3418,Office Supplies,Printers,Off Laptop,1720.31,3,3.55,1700.72,Credit Card,Cancelled
+5205,CA-2024-0205,2023-11-01,2023-11-17,Same Day,1447,Consumer,USA,Port Jasminstad,Louisiana,P3536,Office Supplies,Smartphones,Reduce Monitor,877.27,3,6.44,2025.01,Bank Transfer,Cancelled
+5206,CA-2024-0206,2023-10-11,2023-08-19,Same Day,1452,Consumer,USA,Lake Sharonberg,Delaware,P3498,Office Supplies,Printers,Parent Printer,135.88,4,3.17,1274.65,Bank Transfer,Cancelled
+5207,CA-2024-0207,2023-06-09,2025-01-05,Express,1620,Consumer,USA,Lisaville,Oregon,P3500,Office Supplies,Printers,Occur Printer,700.11,2,18.71,137.62,PayPal,In Transit
+5208,CA-2024-0208,2023-11-15,2025-02-10,Same Day,1230,Consumer,USA,Lake Danielletown,Louisiana,P3708,Furniture,Printers,Piece Monitor,1070.37,1,19.5,2021.01,Bank Transfer,Delivered
+5209,CA-2024-0209,2024-09-21,2023-03-09,Express,1070,Consumer,USA,Williamsfurt,Texas,P3214,Furniture,Laptops,Much Printer,1050.2,4,0.32,2270.87,Debit Card,In Transit
+5210,CA-2024-0210,2023-04-22,2023-10-01,Same Day,1456,Consumer,USA,Lake Brandon,Mississippi,P3936,Electronics,Smartphones,Dream Printer,1501.06,3,11.91,122.94,PayPal,In Transit
+5211,CA-2024-0211,2023-09-01,2025-01-11,Same Day,1116,Home Office,USA,New Christopherside,Wyoming,P3427,Furniture,Printers,During Desk,94.13,2,4.11,111.34,Credit Card,In Transit
+5212,CA-2024-0212,2023-11-23,2024-05-01,Express,1264,Consumer,USA,Calhounmouth,Louisiana,P3620,Office Supplies,Tables,Itself Laptop,303.34,3,15.04,909.71,PayPal,Cancelled
+5213,CA-2024-0213,2024-08-01,2023-05-31,Same Day,1009,Corporate,USA,Stevenshaven,Arizona,P3109,Office Supplies,Tables,Approach Printer,778.58,1,16.39,676.66,Debit Card,In Transit
+5214,CA-2024-0214,2024-12-29,2024-04-19,Standard,1944,Home Office,USA,Victoriaport,New Hampshire,P3289,Furniture,Printers,City Printer,2375.68,5,6.99,1021.92,PayPal,In Transit
+5215,CA-2024-0215,2023-12-16,2024-02-19,Same Day,1345,Home Office,USA,Wilsonview,Texas,P3041,Electronics,Laptops,Risk Printer,2264.72,5,18.94,958.92,Bank Transfer,Shipped
+5216,CA-2024-0216,2024-02-19,2024-03-02,Same Day,1957,Corporate,USA,Brownshire,Virginia,P3860,Office Supplies,Smartphones,Hold Monitor,1162.75,1,13.28,214.44,Debit Card,Shipped
+5217,CA-2024-0217,2024-11-27,2023-06-04,Express,1630,Consumer,USA,East Harold,Arizona,P3592,Office Supplies,Chairs,Also Phone,1543.64,2,13.79,2094.25,Credit Card,In Transit
+5218,CA-2024-0218,2025-02-06,2023-09-20,Same Day,1893,Consumer,USA,North Kathyville,Massachusetts,P3009,Office Supplies,Tables,Number Desk,329.77,4,1.42,1840.13,PayPal,Cancelled
+5219,CA-2024-0219,2023-06-04,2025-01-31,Express,1963,Corporate,USA,South Kimberlyborough,Nevada,P3185,Electronics,Smartphones,Others Desk,154.54,1,19.44,151.76,PayPal,In Transit
+5220,CA-2024-0220,2024-12-28,2024-09-18,Express,1454,Consumer,USA,New Sabrinahaven,Oklahoma,P3379,Office Supplies,Printers,Especially Laptop,803.19,1,11.0,2190.42,PayPal,Cancelled
+5221,CA-2024-0221,2023-04-27,2024-03-08,Express,1476,Home Office,USA,Strongberg,Georgia,P3483,Furniture,Smartphones,Often Phone,1223.16,2,14.84,2394.32,Bank Transfer,Shipped
+5222,CA-2024-0222,2024-11-03,2025-01-15,Standard,1556,Corporate,USA,West Ryan,Wyoming,P3809,Furniture,Printers,Bank Monitor,1774.15,3,14.19,453.06,Debit Card,In Transit
+5223,CA-2024-0223,2024-01-05,2023-05-30,Express,1276,Corporate,USA,Bakerburgh,Nevada,P3753,Furniture,Tables,Case Printer,1116.16,1,17.03,1146.66,PayPal,Delivered
+5224,CA-2024-0224,2023-06-04,2023-05-31,Express,1142,Consumer,USA,Jacksonchester,Nevada,P3316,Electronics,Chairs,Language Printer,2164.4,3,12.49,501.08,Credit Card,Cancelled
+5225,CA-2024-0225,2023-10-13,2024-04-19,Standard,1171,Home Office,USA,Lisaside,Mississippi,P3916,Electronics,Chairs,Idea Laptop,970.71,3,6.9,2420.23,Credit Card,Shipped
+5226,CA-2024-0226,2024-05-13,2024-01-05,Standard,1643,Corporate,USA,Port Angelaland,Kentucky,P3506,Office Supplies,Printers,Onto Printer,2225.09,1,2.92,2244.69,PayPal,Cancelled
+5227,CA-2024-0227,2023-05-24,2024-11-04,Standard,1010,Corporate,USA,Bakerstad,Oklahoma,P3784,Furniture,Tables,Value Phone,55.1,5,11.89,278.74,Bank Transfer,Delivered
+5228,CA-2024-0228,2024-01-31,2023-05-17,Same Day,1202,Corporate,USA,Wrightside,Virginia,P3125,Furniture,Laptops,Sing Phone,1283.5,5,16.39,1888.03,PayPal,Cancelled
+5229,CA-2024-0229,2023-09-16,2023-06-16,Same Day,1716,Home Office,USA,East Melanieburgh,Virginia,P3927,Electronics,Chairs,Current Printer,209.8,3,9.48,1328.4,Debit Card,Cancelled
+5230,CA-2024-0230,2024-10-23,2023-12-01,Same Day,1273,Consumer,USA,Dyerfurt,Massachusetts,P3173,Electronics,Laptops,Of Phone,1302.52,3,4.82,1772.88,Debit Card,Delivered
+5231,CA-2024-0231,2024-12-21,2023-04-12,Same Day,1342,Home Office,USA,Austinfort,Pennsylvania,P3017,Electronics,Chairs,Of Monitor,213.7,3,15.67,69.45,Credit Card,Cancelled
+5232,CA-2024-0232,2024-05-23,2023-12-14,Express,1320,Consumer,USA,Michaelborough,New York,P3584,Electronics,Printers,Drug Desk,1874.52,4,14.13,2329.51,PayPal,Cancelled
+5233,CA-2024-0233,2024-10-19,2023-11-10,Express,1411,Corporate,USA,Lake Stephenmouth,Rhode Island,P3602,Office Supplies,Smartphones,Firm Laptop,2373.31,2,8.92,442.05,PayPal,In Transit
+5234,CA-2024-0234,2024-08-03,2023-12-18,Express,1798,Home Office,USA,Suzannefort,Idaho,P3579,Furniture,Laptops,Join Desk,1492.19,1,6.01,81.83,Debit Card,In Transit
+5235,CA-2024-0235,2023-10-06,2023-08-03,Same Day,1668,Corporate,USA,North Ruth,Maryland,P3668,Electronics,Printers,Magazine Phone,2460.73,2,4.11,759.3,Bank Transfer,Cancelled
+5236,CA-2024-0236,2024-01-12,2023-10-27,Express,1320,Home Office,USA,Turnertown,Missouri,P3680,Electronics,Tables,What Printer,1876.04,1,19.11,1798.16,Debit Card,Cancelled
+5237,CA-2024-0237,2024-12-04,2025-01-05,Express,1784,Corporate,USA,Reillyview,Louisiana,P3579,Electronics,Tables,Wall Monitor,1010.67,4,17.01,1538.01,Debit Card,Shipped
+5238,CA-2024-0238,2023-08-12,2024-10-13,Express,1845,Home Office,USA,South Kellyport,Indiana,P3738,Electronics,Smartphones,Window Phone,746.29,2,16.16,891.27,Credit Card,Delivered
+5239,CA-2024-0239,2023-12-28,2024-07-30,Same Day,1183,Corporate,USA,Danburgh,North Carolina,P3993,Office Supplies,Smartphones,Look Laptop,2407.04,2,9.49,942.36,Debit Card,In Transit
+5240,CA-2024-0240,2023-11-08,2023-07-17,Same Day,1863,Corporate,USA,Kimberlytown,Utah,P3724,Office Supplies,Laptops,Project Phone,133.43,1,14.19,111.72,PayPal,Cancelled
+5241,CA-2024-0241,2024-11-26,2024-12-19,Express,1127,Corporate,USA,Woodardport,Alabama,P3283,Office Supplies,Tables,Issue Printer,844.21,4,8.78,337.58,PayPal,Delivered
+5242,CA-2024-0242,2025-01-05,2024-11-10,Express,1140,Corporate,USA,Ericksonberg,Maine,P3049,Furniture,Tables,Discover Phone,482.4,3,10.66,669.06,Debit Card,Cancelled
+5243,CA-2024-0243,2023-12-29,2024-03-13,Express,1788,Consumer,USA,Christinabury,Alaska,P3745,Furniture,Chairs,Discuss Printer,2365.71,5,13.22,1397.65,PayPal,Cancelled
+5244,CA-2024-0244,2024-07-30,2024-12-24,Express,1505,Consumer,USA,Port Colinchester,New Mexico,P3169,Furniture,Laptops,Hear Phone,1605.53,5,3.71,1106.99,Debit Card,Cancelled
+5245,CA-2024-0245,2023-03-12,2024-09-04,Express,1089,Consumer,USA,Lake Amberchester,Arkansas,P3947,Furniture,Printers,Only Monitor,2490.02,1,7.63,1173.99,Bank Transfer,Delivered
+5246,CA-2024-0246,2024-12-18,2024-09-14,Same Day,1208,Home Office,USA,Port Joshua,Alaska,P3572,Office Supplies,Laptops,Bring Phone,2275.4,4,9.12,587.38,Debit Card,In Transit
+5247,CA-2024-0247,2025-02-10,2023-09-08,Same Day,1273,Consumer,USA,East Karenburgh,Rhode Island,P3749,Electronics,Printers,Relationship Monitor,1501.0,5,5.48,151.12,PayPal,In Transit
+5248,CA-2024-0248,2024-08-23,2024-08-15,Same Day,1171,Corporate,USA,Timothychester,Nevada,P3279,Furniture,Tables,Stop Desk,2368.12,1,3.16,2164.6,Bank Transfer,Delivered
+5249,CA-2024-0249,2024-01-21,2023-08-09,Same Day,1563,Consumer,USA,Snyderland,New Jersey,P3586,Furniture,Printers,Girl Desk,2413.32,1,13.92,534.96,Debit Card,Delivered
+5250,CA-2024-0250,2023-03-21,2024-09-26,Express,1968,Consumer,USA,West Joshuaburgh,Pennsylvania,P3761,Furniture,Tables,Summer Desk,1736.99,3,10.31,1385.66,PayPal,Delivered
+5251,CA-2024-0251,2023-05-15,2023-09-23,Express,1838,Home Office,USA,East Victorberg,New Mexico,P3686,Electronics,Laptops,Decide Printer,1367.0,5,2.62,704.52,Bank Transfer,In Transit
+5252,CA-2024-0252,2025-02-02,2025-02-01,Same Day,1608,Corporate,USA,East Josephfort,Idaho,P3082,Electronics,Laptops,Event Printer,188.47,4,5.92,1261.38,Debit Card,Shipped
+5253,CA-2024-0253,2023-10-05,2024-07-17,Same Day,1206,Consumer,USA,Andersonburgh,South Carolina,P3286,Furniture,Laptops,Manager Printer,1336.38,2,4.64,1386.14,Bank Transfer,Delivered
+5254,CA-2024-0254,2024-04-22,2023-07-15,Same Day,1350,Consumer,USA,South Richardtown,Arizona,P3331,Electronics,Printers,Themselves Phone,1487.7,5,5.49,177.44,Credit Card,In Transit
+5255,CA-2024-0255,2024-12-13,2023-10-04,Express,1089,Home Office,USA,East Aaron,Georgia,P3700,Electronics,Smartphones,Anyone Laptop,2400.44,1,5.9,1179.05,Debit Card,Delivered
+5256,CA-2024-0256,2023-11-27,2024-07-18,Standard,1412,Consumer,USA,North Jesusburgh,Massachusetts,P3376,Electronics,Laptops,Else Laptop,1418.93,1,9.86,344.5,Bank Transfer,In Transit
+5257,CA-2024-0257,2024-09-17,2023-04-22,Same Day,1906,Corporate,USA,Leetown,Pennsylvania,P3259,Electronics,Smartphones,Force Printer,232.19,2,0.73,1989.2,Credit Card,In Transit
+5258,CA-2024-0258,2023-04-20,2024-11-21,Standard,1084,Home Office,USA,New Michelle,Washington,P3119,Furniture,Smartphones,Care Monitor,2387.59,1,1.67,1201.25,Debit Card,Shipped
+5259,CA-2024-0259,2024-01-11,2023-08-24,Express,1304,Home Office,USA,Port Anna,Minnesota,P3407,Office Supplies,Tables,Also Desk,636.02,4,1.4,188.89,Bank Transfer,In Transit
+5260,CA-2024-0260,2025-02-11,2023-11-04,Standard,1112,Home Office,USA,Lake Ronnie,South Dakota,P3270,Office Supplies,Printers,Newspaper Desk,1229.05,4,9.33,769.69,Bank Transfer,Shipped
+5261,CA-2024-0261,2024-12-08,2023-07-20,Standard,1569,Home Office,USA,Stephenside,Rhode Island,P3617,Electronics,Laptops,Take Printer,1701.21,2,12.06,965.89,Credit Card,Shipped
+5262,CA-2024-0262,2023-10-20,2024-08-23,Express,1899,Home Office,USA,Port Colin,Kentucky,P3687,Furniture,Chairs,Teach Phone,1284.33,1,15.16,2041.96,PayPal,Cancelled
+5263,CA-2024-0263,2023-06-03,2024-03-27,Express,1960,Home Office,USA,North Terrymouth,Alabama,P3516,Office Supplies,Laptops,Place Desk,2196.38,5,18.87,2473.16,Bank Transfer,Delivered
+5264,CA-2024-0264,2024-10-23,2023-09-16,Standard,1126,Corporate,USA,West Jasonshire,North Dakota,P3123,Electronics,Chairs,Including Laptop,1744.8,4,13.15,1232.08,PayPal,In Transit
+5265,CA-2024-0265,2024-06-02,2025-02-18,Same Day,1360,Home Office,USA,South Lisa,Alabama,P3639,Furniture,Printers,Though Printer,1531.63,5,1.2,220.11,Debit Card,In Transit
+5266,CA-2024-0266,2023-04-22,2024-06-02,Same Day,1189,Home Office,USA,Lake Jessicaton,New Jersey,P3735,Office Supplies,Chairs,Education Phone,2127.37,3,17.19,1756.94,Bank Transfer,Shipped
+5267,CA-2024-0267,2024-04-10,2024-02-29,Standard,1412,Home Office,USA,West Carol,Alaska,P3976,Furniture,Smartphones,Blood Laptop,808.44,3,15.52,2445.67,PayPal,Shipped
+5268,CA-2024-0268,2024-06-08,2023-11-14,Same Day,1020,Home Office,USA,Port Audrey,Idaho,P3043,Electronics,Laptops,Ok Desk,1813.52,4,19.52,1239.18,PayPal,Shipped
+5269,CA-2024-0269,2023-09-16,2025-01-01,Standard,1966,Home Office,USA,New Wendychester,Florida,P3196,Electronics,Chairs,Top Desk,2392.74,3,11.25,1074.04,Debit Card,Cancelled
+5270,CA-2024-0270,2023-12-04,2024-09-15,Express,1521,Consumer,USA,Lake Adam,New York,P3432,Office Supplies,Tables,Probably Monitor,1146.95,3,17.13,796.11,Bank Transfer,Delivered
+5271,CA-2024-0271,2024-04-23,2023-07-26,Same Day,1072,Corporate,USA,South Howard,Nevada,P3585,Furniture,Chairs,Performance Monitor,916.92,4,3.72,1392.7,Credit Card,Cancelled
+5272,CA-2024-0272,2023-12-20,2023-06-25,Standard,1211,Corporate,USA,South Michaelmouth,Illinois,P3592,Office Supplies,Smartphones,Run Printer,1257.88,3,3.49,2230.38,Credit Card,In Transit
+5273,CA-2024-0273,2023-11-20,2024-05-29,Standard,1378,Corporate,USA,South Peter,Arizona,P3938,Office Supplies,Smartphones,Country Desk,2047.1,4,16.53,588.93,PayPal,Cancelled
+5274,CA-2024-0274,2023-12-12,2023-10-02,Express,1318,Consumer,USA,Batesburgh,Illinois,P3596,Furniture,Laptops,Sign Phone,1527.16,1,0.72,132.15,Bank Transfer,Cancelled
+5275,CA-2024-0275,2023-03-25,2023-10-07,Same Day,1009,Corporate,USA,Mariaborough,Arizona,P3395,Office Supplies,Smartphones,Everything Monitor,1732.86,2,6.83,1103.58,Credit Card,In Transit
+5276,CA-2024-0276,2023-06-27,2023-11-29,Same Day,1087,Corporate,USA,Lake Christopher,Maine,P3751,Furniture,Printers,Adult Phone,830.57,4,19.81,2338.15,Debit Card,Cancelled
+5277,CA-2024-0277,2023-05-11,2023-04-06,Standard,1774,Corporate,USA,East Jenniferborough,South Dakota,P3107,Furniture,Printers,Reality Monitor,2069.96,2,8.46,2298.84,Debit Card,Cancelled
+5278,CA-2024-0278,2024-11-13,2024-03-24,Standard,1244,Home Office,USA,South Michaelville,Arizona,P3900,Furniture,Chairs,Contain Phone,1922.48,4,18.36,2141.97,Bank Transfer,Shipped
+5279,CA-2024-0279,2024-11-07,2024-03-18,Express,1332,Home Office,USA,Huffburgh,Oklahoma,P3369,Office Supplies,Tables,Church Phone,2026.25,1,11.85,259.43,Debit Card,Cancelled
+5280,CA-2024-0280,2024-03-12,2023-03-30,Standard,1574,Consumer,USA,Vaughnport,Colorado,P3326,Office Supplies,Tables,Would Desk,406.16,4,13.45,1657.73,Debit Card,In Transit
+5281,CA-2024-0281,2023-09-17,2023-08-18,Express,1561,Consumer,USA,Amyville,South Carolina,P3241,Furniture,Smartphones,Cold Monitor,2074.19,3,7.62,1966.46,Bank Transfer,Cancelled
+5282,CA-2024-0282,2025-02-11,2024-01-18,Same Day,1542,Consumer,USA,New Kyle,Indiana,P3709,Office Supplies,Printers,Table Phone,109.28,5,15.86,809.42,PayPal,Cancelled
+5283,CA-2024-0283,2023-08-24,2024-03-17,Express,1863,Corporate,USA,Port Jesse,Washington,P3799,Electronics,Tables,Year Phone,2467.86,3,19.69,1953.87,Debit Card,In Transit
+5284,CA-2024-0284,2024-04-24,2024-04-07,Same Day,1658,Home Office,USA,Wardshire,Michigan,P3216,Electronics,Printers,Room Phone,1147.97,3,1.99,319.86,Debit Card,In Transit
+5285,CA-2024-0285,2023-05-12,2024-09-07,Same Day,1721,Home Office,USA,Alexandermouth,Pennsylvania,P3318,Electronics,Chairs,Senior Desk,267.57,2,11.69,428.69,PayPal,Delivered
+5286,CA-2024-0286,2023-05-14,2024-11-09,Same Day,1541,Home Office,USA,East Brad,Wisconsin,P3877,Furniture,Printers,Former Phone,84.94,1,16.71,157.02,Bank Transfer,Cancelled
+5287,CA-2024-0287,2024-03-10,2023-03-29,Express,1485,Home Office,USA,Kirkchester,Nebraska,P3832,Furniture,Printers,Late Monitor,275.92,3,19.32,2014.76,PayPal,Cancelled
+5288,CA-2024-0288,2024-10-30,2025-02-11,Same Day,1829,Consumer,USA,Carlosstad,Texas,P3977,Furniture,Printers,Box Monitor,907.38,3,7.19,679.42,Bank Transfer,Shipped
+5289,CA-2024-0289,2024-09-09,2025-01-30,Express,1599,Corporate,USA,Kimland,North Dakota,P3318,Furniture,Laptops,Still Printer,2068.58,4,13.53,2354.95,Debit Card,Cancelled
+5290,CA-2024-0290,2023-06-03,2023-05-11,Same Day,1351,Consumer,USA,Foxburgh,Montana,P3793,Electronics,Printers,Finally Printer,1303.79,3,19.07,1117.95,Bank Transfer,Delivered
+5291,CA-2024-0291,2024-03-20,2024-04-20,Standard,1850,Corporate,USA,Munozborough,West Virginia,P3596,Furniture,Chairs,Finally Printer,1911.0,4,14.81,876.4,PayPal,In Transit
+5292,CA-2024-0292,2024-04-24,2023-12-04,Same Day,1879,Corporate,USA,Masonborough,Texas,P3216,Electronics,Printers,Never Phone,2434.78,5,6.5,1716.36,Bank Transfer,Cancelled
+5293,CA-2024-0293,2024-11-12,2024-04-16,Standard,1556,Consumer,USA,Port Richard,Louisiana,P3107,Office Supplies,Chairs,May Desk,1173.95,3,0.37,1193.29,Credit Card,In Transit
+5294,CA-2024-0294,2024-02-29,2024-06-28,Express,1289,Home Office,USA,North Regina,North Dakota,P3410,Office Supplies,Tables,Military Laptop,1966.0,4,11.39,685.84,PayPal,In Transit
+5295,CA-2024-0295,2023-05-21,2023-03-22,Same Day,1633,Corporate,USA,East Arthur,Ohio,P3206,Office Supplies,Chairs,Coach Monitor,299.67,4,0.56,967.52,PayPal,Delivered
+5296,CA-2024-0296,2024-06-06,2024-08-22,Express,1445,Corporate,USA,West Anthony,Texas,P3665,Office Supplies,Printers,Process Phone,452.68,3,4.3,378.45,Credit Card,Delivered
+5297,CA-2024-0297,2024-05-20,2024-03-16,Same Day,1043,Corporate,USA,Santoston,Rhode Island,P3926,Office Supplies,Chairs,Consider Laptop,1400.24,4,7.01,403.14,Credit Card,Delivered
+5298,CA-2024-0298,2023-12-17,2024-08-08,Express,1241,Corporate,USA,East Stephanie,Alabama,P3432,Furniture,Chairs,Than Monitor,96.25,2,7.49,1460.8,Bank Transfer,Cancelled
+5299,CA-2024-0299,2024-05-24,2023-10-16,Same Day,1020,Consumer,USA,East Dannyberg,Minnesota,P3364,Electronics,Tables,Society Phone,2091.71,3,15.85,2045.47,Debit Card,Cancelled
+5300,CA-2024-0300,2023-03-13,2023-12-10,Standard,1824,Corporate,USA,West Robertburgh,New Mexico,P3069,Furniture,Printers,Light Monitor,776.78,4,11.71,2394.78,Debit Card,In Transit
+5301,CA-2024-0301,2024-01-30,2024-10-02,Standard,1831,Consumer,USA,North Richardport,Missouri,P3123,Office Supplies,Chairs,Also Monitor,680.69,5,14.98,1982.71,Debit Card,Delivered
+5302,CA-2024-0302,2024-11-16,2024-11-05,Same Day,1559,Corporate,USA,New Jordan,Illinois,P3495,Electronics,Smartphones,If Laptop,1970.16,5,15.2,1867.35,PayPal,Shipped
+5303,CA-2024-0303,2023-05-30,2024-08-22,Express,1713,Corporate,USA,West Jody,North Carolina,P3067,Electronics,Laptops,Effect Desk,817.15,5,11.95,2217.81,Debit Card,Delivered
+5304,CA-2024-0304,2024-08-03,2023-11-21,Same Day,1501,Consumer,USA,Cobbchester,Arizona,P3717,Office Supplies,Smartphones,Continue Printer,1536.86,2,17.88,363.19,Credit Card,Cancelled
+5305,CA-2024-0305,2023-09-01,2023-11-02,Express,1058,Consumer,USA,Powellburgh,New Jersey,P3414,Furniture,Laptops,Seven Laptop,565.04,1,6.7,164.38,Credit Card,Shipped
+5306,CA-2024-0306,2025-01-20,2024-08-24,Same Day,1006,Corporate,USA,East Davidport,North Dakota,P3673,Office Supplies,Chairs,Sure Laptop,1095.19,4,18.79,1717.52,Bank Transfer,Delivered
+5307,CA-2024-0307,2023-09-13,2024-06-27,Express,1160,Consumer,USA,East Angela,New York,P3774,Furniture,Laptops,Include Monitor,1338.12,4,1.46,1709.71,Credit Card,In Transit
+5308,CA-2024-0308,2024-03-07,2024-07-04,Same Day,1470,Consumer,USA,South Melissaburgh,California,P3611,Office Supplies,Smartphones,Similar Printer,1002.62,1,3.32,1032.55,PayPal,Shipped
+5309,CA-2024-0309,2024-02-11,2024-11-27,Express,1448,Consumer,USA,Lake Johnbury,Maine,P3493,Furniture,Printers,Leader Desk,590.93,5,16.95,1350.92,Credit Card,Cancelled
+5310,CA-2024-0310,2023-06-22,2023-08-26,Express,1225,Consumer,USA,Torresfort,New Hampshire,P3885,Electronics,Tables,Summer Monitor,2267.48,2,14.43,1114.67,Debit Card,In Transit
+5311,CA-2024-0311,2024-08-16,2024-12-26,Same Day,1111,Consumer,USA,North Patrick,New Mexico,P3717,Electronics,Smartphones,Part Desk,1686.55,5,15.91,1181.08,PayPal,Cancelled
+5312,CA-2024-0312,2023-05-19,2023-09-22,Standard,1226,Home Office,USA,South Joseph,Virginia,P3274,Office Supplies,Tables,Teach Laptop,2443.68,5,13.61,483.29,Debit Card,In Transit
+5313,CA-2024-0313,2024-03-24,2025-02-01,Express,1594,Consumer,USA,North Eric,Colorado,P3143,Electronics,Smartphones,Without Printer,600.86,5,15.66,2236.12,Credit Card,Delivered
+5314,CA-2024-0314,2024-09-27,2024-02-23,Express,1460,Home Office,USA,Pearsonfort,Hawaii,P3549,Office Supplies,Tables,Admit Laptop,314.96,4,4.54,1721.33,Bank Transfer,Shipped
+5315,CA-2024-0315,2023-12-26,2023-09-08,Express,1988,Consumer,USA,Kevintown,Massachusetts,P3487,Electronics,Printers,Perform Monitor,2316.26,3,7.14,1632.56,Credit Card,Cancelled
+5316,CA-2024-0316,2023-11-09,2023-11-26,Express,1911,Consumer,USA,North Aaronville,Arkansas,P3470,Furniture,Laptops,Others Laptop,1819.56,4,11.38,903.64,PayPal,In Transit
+5317,CA-2024-0317,2023-09-21,2024-06-05,Standard,1013,Consumer,USA,Clarkchester,Florida,P3231,Furniture,Tables,Happy Laptop,809.2,3,9.05,1461.56,Bank Transfer,Delivered
+5318,CA-2024-0318,2024-10-04,2024-06-20,Standard,1156,Corporate,USA,Jeremystad,Alaska,P3580,Office Supplies,Tables,Skill Phone,611.63,4,17.17,1963.84,PayPal,In Transit
+5319,CA-2024-0319,2024-05-23,2023-07-26,Express,1461,Consumer,USA,Maryberg,Hawaii,P3902,Furniture,Printers,Indeed Phone,1380.12,5,10.83,1182.46,Debit Card,Cancelled
+5320,CA-2024-0320,2023-10-31,2023-05-13,Standard,1449,Consumer,USA,North Meganmouth,Delaware,P3455,Furniture,Laptops,Upon Printer,624.18,4,6.69,1961.75,Bank Transfer,Shipped
+5321,CA-2024-0321,2024-04-25,2024-02-17,Express,1986,Home Office,USA,Lake Ericmouth,Colorado,P3355,Electronics,Chairs,Worry Monitor,578.1,1,10.12,1390.8,PayPal,Delivered
+5322,CA-2024-0322,2023-06-28,2024-04-30,Express,1170,Corporate,USA,Jesushaven,Wyoming,P3795,Office Supplies,Tables,Hospital Phone,260.43,4,7.98,1740.01,PayPal,Shipped
+5323,CA-2024-0323,2024-05-18,2024-10-04,Standard,1919,Home Office,USA,West Cherylmouth,California,P3750,Office Supplies,Smartphones,Court Phone,2437.1,5,8.79,2492.33,Debit Card,Delivered
+5324,CA-2024-0324,2023-11-02,2024-07-12,Standard,1656,Consumer,USA,Lake Kristy,Minnesota,P3965,Office Supplies,Smartphones,Thought Desk,242.19,5,13.78,2126.32,Credit Card,In Transit
+5325,CA-2024-0325,2023-12-14,2023-07-14,Same Day,1237,Home Office,USA,Port Georgeburgh,Pennsylvania,P3183,Furniture,Chairs,Want Printer,2408.85,1,8.2,497.55,PayPal,In Transit
+5326,CA-2024-0326,2024-01-03,2023-05-15,Same Day,1922,Corporate,USA,East Mary,New Mexico,P3213,Furniture,Laptops,Represent Desk,2252.42,1,5.91,359.46,Credit Card,Delivered
+5327,CA-2024-0327,2024-03-16,2025-02-01,Standard,1651,Home Office,USA,North Samanthahaven,Kentucky,P3580,Electronics,Smartphones,Action Phone,2424.89,3,17.54,2339.9,PayPal,Delivered
+5328,CA-2024-0328,2024-11-16,2024-08-07,Express,1321,Consumer,USA,Knightport,Louisiana,P3471,Electronics,Tables,Arrive Printer,950.94,3,17.6,292.78,PayPal,Cancelled
+5329,CA-2024-0329,2024-09-12,2023-05-05,Standard,1044,Corporate,USA,Williamstown,Texas,P3280,Furniture,Chairs,At Monitor,1501.44,5,6.29,1947.9,PayPal,Delivered
+5330,CA-2024-0330,2024-03-08,2024-02-16,Express,1268,Corporate,USA,Trevinoburgh,Oregon,P3909,Electronics,Printers,Baby Desk,2366.12,2,2.15,560.64,Debit Card,In Transit
+5331,CA-2024-0331,2025-02-20,2023-06-14,Same Day,1254,Corporate,USA,New Christina,West Virginia,P3122,Office Supplies,Laptops,Fund Phone,1236.79,1,1.77,1600.25,Credit Card,Delivered
+5332,CA-2024-0332,2023-06-01,2023-06-27,Standard,1452,Corporate,USA,Port Ginaton,Wyoming,P3360,Office Supplies,Chairs,Itself Phone,1256.17,5,14.34,2087.94,Bank Transfer,Shipped
+5333,CA-2024-0333,2024-12-18,2024-07-21,Same Day,1595,Consumer,USA,Mortonmouth,Arkansas,P3379,Office Supplies,Chairs,Than Laptop,2245.12,2,9.9,2097.12,PayPal,Delivered
+5334,CA-2024-0334,2023-06-03,2024-08-18,Same Day,1627,Home Office,USA,Marshallfort,New Jersey,P3680,Electronics,Tables,Resource Desk,1804.91,4,7.36,1085.8,Credit Card,Cancelled
+5335,CA-2024-0335,2024-05-18,2024-08-08,Express,1032,Consumer,USA,New Julie,Utah,P3830,Furniture,Chairs,Force Desk,2024.18,1,4.03,928.21,Bank Transfer,Shipped
+5336,CA-2024-0336,2024-06-07,2024-07-08,Standard,1314,Home Office,USA,New Annashire,Kansas,P3205,Electronics,Laptops,Perhaps Desk,2103.55,5,2.29,319.12,PayPal,Cancelled
+5337,CA-2024-0337,2023-12-17,2024-07-06,Express,1669,Home Office,USA,East Jennifer,Massachusetts,P3289,Office Supplies,Laptops,Song Desk,967.69,2,16.39,425.73,Bank Transfer,Shipped
+5338,CA-2024-0338,2023-07-31,2024-02-22,Standard,1966,Consumer,USA,Jenniferborough,Ohio,P3752,Electronics,Smartphones,Reveal Phone,651.92,5,8.87,2004.12,Debit Card,Shipped
+5339,CA-2024-0339,2025-02-20,2023-07-19,Standard,1344,Corporate,USA,Garyfort,Montana,P3438,Electronics,Laptops,Out Monitor,958.24,3,4.53,214.28,Credit Card,Cancelled
+5340,CA-2024-0340,2024-03-15,2025-01-23,Express,1670,Consumer,USA,Curtisside,North Dakota,P3347,Office Supplies,Printers,Wait Phone,1424.18,5,12.61,1719.13,Credit Card,Cancelled
+5341,CA-2024-0341,2025-01-08,2024-02-15,Same Day,1162,Home Office,USA,West David,Missouri,P3444,Electronics,Smartphones,Culture Printer,1580.93,1,12.8,2198.84,Debit Card,Delivered
+5342,CA-2024-0342,2024-08-31,2024-02-26,Standard,1854,Consumer,USA,Lake Morgan,Georgia,P3715,Furniture,Laptops,Government Laptop,1914.64,5,4.57,1708.34,Bank Transfer,Delivered
+5343,CA-2024-0343,2024-01-05,2024-05-13,Standard,1462,Consumer,USA,Susanberg,New York,P3244,Furniture,Tables,Many Monitor,1878.21,1,5.11,2446.79,Bank Transfer,Cancelled
+5344,CA-2024-0344,2023-04-08,2023-09-10,Standard,1423,Consumer,USA,Walkertown,Vermont,P3025,Office Supplies,Laptops,Probably Printer,874.97,3,2.01,2035.79,Bank Transfer,In Transit
+5345,CA-2024-0345,2023-09-25,2023-06-29,Standard,1006,Home Office,USA,Summerston,Alaska,P3941,Office Supplies,Printers,You Phone,1580.36,5,1.56,1588.9,Credit Card,Cancelled
+5346,CA-2024-0346,2023-06-02,2023-08-14,Standard,1688,Corporate,USA,Port Sean,Tennessee,P3759,Electronics,Chairs,Daughter Printer,2285.95,1,12.41,764.63,PayPal,In Transit
+5347,CA-2024-0347,2024-03-09,2024-09-11,Express,1859,Corporate,USA,Carrilloville,Nebraska,P3924,Furniture,Printers,Just Printer,1143.92,5,13.13,598.66,Bank Transfer,Cancelled
+5348,CA-2024-0348,2023-03-05,2023-03-31,Standard,1338,Corporate,USA,New Ericburgh,Arizona,P3012,Office Supplies,Tables,Team Monitor,1487.59,5,14.45,2184.7,Bank Transfer,In Transit
+5349,CA-2024-0349,2023-06-03,2023-11-26,Standard,1763,Consumer,USA,Bridgetstad,Oklahoma,P3688,Electronics,Laptops,Reason Monitor,2372.78,4,3.53,416.36,Bank Transfer,Cancelled
+5350,CA-2024-0350,2024-10-24,2024-01-28,Standard,1719,Corporate,USA,Flynnfort,New York,P3585,Office Supplies,Laptops,Soldier Desk,366.37,1,1.2,997.04,Credit Card,In Transit
+5351,CA-2024-0351,2024-03-09,2023-08-23,Express,1145,Consumer,USA,Port Jennifermouth,Colorado,P3464,Furniture,Smartphones,Impact Desk,1216.83,2,18.39,432.77,PayPal,Delivered
+5352,CA-2024-0352,2023-12-05,2024-08-15,Express,1333,Corporate,USA,New Ashley,New Jersey,P3921,Office Supplies,Smartphones,Job Desk,999.34,1,9.8,1421.41,Credit Card,Delivered
+5353,CA-2024-0353,2023-10-22,2023-06-25,Same Day,1478,Home Office,USA,Garciabury,Minnesota,P3324,Electronics,Tables,Free Printer,61.81,5,12.71,357.1,Credit Card,Delivered
+5354,CA-2024-0354,2024-09-18,2024-08-02,Express,1116,Corporate,USA,Chanburgh,New Hampshire,P3479,Office Supplies,Smartphones,However Desk,646.23,5,0.56,2037.61,Bank Transfer,Cancelled
+5355,CA-2024-0355,2025-01-28,2024-12-26,Same Day,1077,Home Office,USA,Meyerton,Maryland,P3183,Office Supplies,Printers,Language Phone,340.2,1,9.8,1970.6,Credit Card,Delivered
+5356,CA-2024-0356,2024-03-06,2024-02-05,Same Day,1919,Corporate,USA,Cartermouth,New Mexico,P3287,Office Supplies,Printers,Direction Monitor,1082.97,2,10.04,867.69,Bank Transfer,Cancelled
+5357,CA-2024-0357,2025-02-25,2024-04-26,Same Day,1594,Consumer,USA,South Ianmouth,Colorado,P3806,Electronics,Smartphones,Section Phone,2142.75,5,6.76,1194.2,Credit Card,Shipped
+5358,CA-2024-0358,2023-08-24,2024-01-23,Standard,1432,Consumer,USA,Rebeccaville,Rhode Island,P3916,Electronics,Printers,Yeah Phone,925.65,1,10.2,1291.11,Debit Card,Delivered
+5359,CA-2024-0359,2024-11-03,2024-04-16,Standard,1533,Corporate,USA,Port Alan,Oklahoma,P3912,Furniture,Chairs,Authority Desk,326.75,3,18.22,1461.0,Debit Card,Delivered
+5360,CA-2024-0360,2024-01-18,2024-12-17,Standard,1755,Home Office,USA,West Calebport,Florida,P3191,Furniture,Chairs,Go Desk,549.13,2,6.06,1711.07,Credit Card,Shipped
+5361,CA-2024-0361,2023-07-21,2023-05-07,Standard,1780,Corporate,USA,Ashleymouth,Illinois,P3545,Office Supplies,Printers,Eye Laptop,52.35,3,18.73,1953.1,PayPal,Shipped
+5362,CA-2024-0362,2024-03-21,2023-06-03,Same Day,1728,Consumer,USA,Wardshire,West Virginia,P3254,Electronics,Laptops,Clearly Monitor,1375.39,4,1.25,1409.79,Credit Card,Cancelled
+5363,CA-2024-0363,2024-02-29,2024-11-19,Express,1953,Corporate,USA,Elliotttown,Iowa,P3363,Electronics,Printers,Coach Laptop,89.82,2,3.96,1912.66,PayPal,Cancelled
+5364,CA-2024-0364,2024-02-25,2024-10-12,Standard,1277,Home Office,USA,Jonesmouth,Vermont,P3353,Furniture,Printers,Large Desk,1789.7,4,13.32,1410.59,Credit Card,Cancelled
+5365,CA-2024-0365,2024-06-26,2024-11-22,Express,1571,Home Office,USA,Port Raymondstad,Idaho,P3993,Furniture,Printers,Take Monitor,104.81,3,10.14,1854.61,Bank Transfer,Shipped
+5366,CA-2024-0366,2023-08-02,2024-01-31,Express,1025,Consumer,USA,West Steve,Washington,P3179,Office Supplies,Smartphones,Line Monitor,2058.09,2,17.23,1069.44,Bank Transfer,Cancelled
+5367,CA-2024-0367,2024-05-26,2024-04-01,Standard,1002,Home Office,USA,Matthewmouth,North Dakota,P3382,Office Supplies,Smartphones,When Phone,2044.1,3,6.97,1080.12,PayPal,In Transit
+5368,CA-2024-0368,2024-02-07,2024-03-05,Standard,1457,Home Office,USA,East Gabriella,New Hampshire,P3325,Office Supplies,Printers,White Printer,683.99,5,19.07,2166.53,PayPal,Delivered
+5369,CA-2024-0369,2024-03-14,2024-10-21,Express,1659,Home Office,USA,New Brenda,Arizona,P3548,Office Supplies,Chairs,Really Laptop,794.86,3,4.48,383.42,Credit Card,Shipped
+5370,CA-2024-0370,2023-07-26,2024-06-20,Same Day,1559,Home Office,USA,Scottfort,California,P3087,Office Supplies,Printers,Author Laptop,2104.32,3,7.52,2295.78,PayPal,Cancelled
+5371,CA-2024-0371,2024-08-26,2024-09-18,Express,1030,Home Office,USA,East Debraburgh,Ohio,P3367,Office Supplies,Printers,Most Desk,1226.34,4,19.41,1324.95,Credit Card,Delivered
+5372,CA-2024-0372,2023-04-09,2023-05-20,Standard,1828,Corporate,USA,Odomstad,Montana,P3563,Electronics,Tables,Himself Monitor,1003.39,4,13.44,58.37,PayPal,In Transit
+5373,CA-2024-0373,2024-07-17,2024-09-23,Standard,1278,Consumer,USA,North John,Virginia,P3895,Electronics,Printers,Item Printer,807.25,2,14.59,872.01,PayPal,Shipped
+5374,CA-2024-0374,2023-08-28,2023-04-16,Standard,1918,Corporate,USA,North Lisaport,Washington,P3930,Furniture,Printers,Military Laptop,1637.05,1,15.65,1954.49,Credit Card,Delivered
+5375,CA-2024-0375,2024-05-26,2023-11-16,Standard,1230,Consumer,USA,South Wendy,North Carolina,P3701,Electronics,Tables,Take Phone,1539.89,5,0.98,869.44,Bank Transfer,In Transit
+5376,CA-2024-0376,2024-08-16,2023-04-22,Standard,1122,Corporate,USA,Greenehaven,Utah,P3120,Office Supplies,Tables,Always Phone,1206.6,2,13.39,1016.44,Debit Card,Cancelled
+5377,CA-2024-0377,2024-02-11,2024-04-14,Standard,1521,Consumer,USA,Port Crystal,Idaho,P3378,Electronics,Chairs,Firm Monitor,1602.52,3,9.46,2342.08,Credit Card,In Transit
+5378,CA-2024-0378,2023-03-07,2024-02-06,Standard,1969,Corporate,USA,Farrellmouth,Florida,P3220,Furniture,Printers,Research Desk,2165.08,3,17.71,1734.46,Bank Transfer,Shipped
+5379,CA-2024-0379,2025-01-19,2023-08-10,Express,1492,Home Office,USA,Gardnerhaven,New Hampshire,P3181,Office Supplies,Laptops,Wife Laptop,1040.57,1,5.26,2282.87,Bank Transfer,Cancelled
+5380,CA-2024-0380,2023-08-18,2024-07-10,Express,1679,Corporate,USA,New Lynnbury,Delaware,P3717,Electronics,Smartphones,Life Monitor,645.58,5,8.66,1600.67,Credit Card,In Transit
+5381,CA-2024-0381,2024-01-12,2024-06-04,Express,1528,Corporate,USA,Port Mary,Texas,P3286,Office Supplies,Tables,Important Desk,1237.57,3,5.41,754.75,PayPal,Shipped
+5382,CA-2024-0382,2023-10-15,2024-01-09,Same Day,1943,Corporate,USA,New Rachelstad,Nevada,P3859,Furniture,Smartphones,Free Desk,492.13,1,6.5,1906.38,PayPal,Delivered
+5383,CA-2024-0383,2024-03-07,2024-02-14,Same Day,1057,Corporate,USA,East Lauraside,Mississippi,P3173,Electronics,Printers,Shoulder Monitor,765.05,3,4.16,631.08,PayPal,In Transit
+5384,CA-2024-0384,2023-07-30,2023-10-13,Express,1993,Consumer,USA,Lake Patriciafort,Texas,P3027,Office Supplies,Chairs,Security Laptop,1910.42,1,17.75,2014.48,Debit Card,Cancelled
+5385,CA-2024-0385,2024-05-09,2025-01-12,Same Day,1049,Home Office,USA,West Jacob,North Carolina,P3646,Electronics,Printers,Try Phone,713.29,2,3.55,301.06,Debit Card,In Transit
+5386,CA-2024-0386,2024-01-16,2023-11-24,Same Day,1126,Consumer,USA,Alanshire,Wisconsin,P3474,Electronics,Printers,Economic Laptop,1750.66,4,11.25,472.95,Credit Card,In Transit
+5387,CA-2024-0387,2025-01-30,2023-11-05,Standard,1943,Corporate,USA,Robertland,South Dakota,P3403,Electronics,Smartphones,Player Printer,1884.45,1,10.07,2115.98,PayPal,In Transit
+5388,CA-2024-0388,2023-09-10,2024-11-11,Express,1126,Home Office,USA,New Erin,New York,P3797,Electronics,Chairs,Decision Monitor,2490.57,5,3.61,201.7,Bank Transfer,In Transit
+5389,CA-2024-0389,2024-11-20,2023-05-04,Same Day,1993,Home Office,USA,South Julie,Washington,P3394,Electronics,Printers,From Printer,877.06,2,6.61,1718.69,Credit Card,Delivered
+5390,CA-2024-0390,2023-11-02,2024-03-16,Express,1461,Home Office,USA,North Nicholas,Rhode Island,P3064,Electronics,Smartphones,Affect Desk,1647.64,3,16.17,1017.51,Debit Card,Cancelled
+5391,CA-2024-0391,2024-06-19,2024-10-09,Standard,1721,Corporate,USA,South Kennethville,Wyoming,P3451,Office Supplies,Tables,Stop Monitor,1019.09,1,14.12,1886.87,Bank Transfer,Delivered
+5392,CA-2024-0392,2024-05-08,2024-11-03,Express,1893,Home Office,USA,Moralesside,Nebraska,P3300,Furniture,Printers,Care Desk,2114.04,4,3.02,2257.06,PayPal,Cancelled
+5393,CA-2024-0393,2024-03-07,2023-11-08,Same Day,1131,Home Office,USA,Joshuamouth,Florida,P3597,Electronics,Smartphones,Project Phone,1781.64,3,9.88,2376.49,Debit Card,In Transit
+5394,CA-2024-0394,2025-01-18,2024-11-26,Standard,1649,Home Office,USA,Roberthaven,Montana,P3804,Furniture,Laptops,Talk Laptop,1539.92,5,4.79,668.1,Credit Card,Shipped
+5395,CA-2024-0395,2025-01-28,2023-11-08,Express,1550,Corporate,USA,Wilkinsburgh,Alabama,P3548,Electronics,Tables,I Printer,2289.15,1,17.5,511.14,Bank Transfer,Delivered
+5396,CA-2024-0396,2025-01-17,2023-05-27,Standard,1111,Consumer,USA,Randyview,Arizona,P3112,Office Supplies,Chairs,That Laptop,1623.24,3,19.87,1099.75,PayPal,Delivered
+5397,CA-2024-0397,2024-08-02,2024-11-20,Express,1096,Consumer,USA,Jennifermouth,Georgia,P3757,Electronics,Printers,Listen Phone,571.24,5,1.26,146.32,PayPal,Delivered
+5398,CA-2024-0398,2024-08-29,2025-02-05,Same Day,1469,Home Office,USA,East Leah,Oklahoma,P3326,Electronics,Chairs,Kid Laptop,1489.49,2,17.87,1486.93,Bank Transfer,Cancelled
+5399,CA-2024-0399,2024-04-16,2024-10-24,Express,1752,Consumer,USA,West David,New Jersey,P3089,Office Supplies,Printers,True Phone,696.08,1,9.63,777.09,Credit Card,Delivered
+5400,CA-2024-0400,2024-02-15,2024-02-21,Express,1606,Corporate,USA,Sherriview,Delaware,P3181,Electronics,Printers,Cell Desk,2370.15,2,6.85,2006.56,Debit Card,Delivered
+5401,CA-2024-0401,2024-03-20,2024-05-06,Same Day,1966,Corporate,USA,Katrinahaven,Arizona,P3637,Office Supplies,Laptops,Get Laptop,1445.15,4,6.47,285.88,PayPal,Shipped
+5402,CA-2024-0402,2024-03-11,2025-01-27,Same Day,1551,Home Office,USA,Scottborough,Alaska,P3598,Furniture,Printers,Congress Desk,2309.77,1,16.51,1049.56,PayPal,Delivered
+5403,CA-2024-0403,2023-11-26,2023-07-28,Standard,1035,Home Office,USA,Georgeport,Wyoming,P3404,Office Supplies,Chairs,Fear Monitor,689.92,4,3.4,895.45,Debit Card,Shipped
+5404,CA-2024-0404,2024-02-22,2025-02-08,Standard,1046,Consumer,USA,Elizabethmouth,Alaska,P3999,Electronics,Smartphones,Natural Phone,1575.57,2,8.88,1853.74,Debit Card,In Transit
+5405,CA-2024-0405,2023-08-13,2023-12-18,Same Day,1643,Consumer,USA,Abigailville,Vermont,P3517,Office Supplies,Laptops,Top Desk,293.6,3,18.3,2300.87,Credit Card,In Transit
+5406,CA-2024-0406,2023-10-27,2024-07-30,Express,1673,Corporate,USA,Jeffreyhaven,Nevada,P3424,Office Supplies,Printers,Modern Laptop,1523.68,5,17.11,158.42,Credit Card,Shipped
+5407,CA-2024-0407,2024-09-05,2024-08-02,Express,1520,Consumer,USA,West Sarahmouth,Hawaii,P3322,Furniture,Chairs,Present Laptop,1220.65,4,14.54,1517.93,Credit Card,In Transit
+5408,CA-2024-0408,2024-09-05,2023-04-18,Standard,1775,Corporate,USA,Port Ashley,Connecticut,P3304,Office Supplies,Printers,Conference Monitor,1477.76,1,14.57,1109.77,PayPal,Shipped
+5409,CA-2024-0409,2023-12-11,2024-06-30,Express,1858,Consumer,USA,South Ashleymouth,Connecticut,P3398,Furniture,Laptops,Both Phone,960.08,4,14.07,2161.8,Credit Card,Shipped
+5410,CA-2024-0410,2024-06-02,2024-11-29,Express,1100,Consumer,USA,New Meganport,Hawaii,P3727,Office Supplies,Smartphones,Talk Laptop,775.13,4,19.33,90.94,Credit Card,Cancelled
+5411,CA-2024-0411,2024-10-19,2023-07-13,Same Day,1049,Corporate,USA,Gomezbury,North Carolina,P3691,Furniture,Laptops,Add Printer,160.03,1,13.19,228.36,Credit Card,Shipped
+5412,CA-2024-0412,2025-01-11,2024-11-18,Express,1940,Consumer,USA,Laurenport,Mississippi,P3327,Electronics,Tables,Player Desk,892.73,1,0.99,908.48,Bank Transfer,Shipped
+5413,CA-2024-0413,2024-01-30,2024-11-06,Express,1447,Home Office,USA,Thompsonstad,Utah,P3089,Electronics,Laptops,Hospital Desk,195.91,2,16.31,943.85,Credit Card,Shipped
+5414,CA-2024-0414,2024-05-31,2023-08-08,Express,1624,Corporate,USA,Hayleyfurt,Maryland,P3889,Furniture,Chairs,Effort Printer,1635.55,1,7.08,1222.93,PayPal,Cancelled
+5415,CA-2024-0415,2024-12-11,2024-02-18,Same Day,1636,Corporate,USA,East Christopher,Alabama,P3712,Furniture,Tables,About Desk,2166.86,3,0.78,2378.34,Debit Card,Delivered
+5416,CA-2024-0416,2023-07-19,2024-04-27,Same Day,1647,Home Office,USA,Christinamouth,Florida,P3919,Office Supplies,Printers,Contain Monitor,746.56,2,0.94,1080.45,Credit Card,In Transit
+5417,CA-2024-0417,2023-07-28,2024-07-23,Standard,1166,Home Office,USA,Williambury,New York,P3721,Office Supplies,Laptops,Director Desk,2077.6,1,4.91,1071.07,Credit Card,In Transit
+5418,CA-2024-0418,2025-02-18,2023-08-30,Standard,1295,Corporate,USA,West Paigeton,Utah,P3040,Office Supplies,Chairs,Area Printer,2190.84,3,0.12,1958.01,Credit Card,In Transit
+5419,CA-2024-0419,2025-01-20,2023-10-25,Express,1984,Corporate,USA,Adamhaven,West Virginia,P3381,Furniture,Laptops,During Desk,2452.08,1,5.05,484.26,Bank Transfer,Cancelled
+5420,CA-2024-0420,2023-10-27,2024-05-17,Standard,1611,Corporate,USA,Jacksonton,Maryland,P3613,Electronics,Smartphones,Plant Printer,295.71,3,5.69,1727.02,Debit Card,In Transit
+5421,CA-2024-0421,2023-08-03,2023-09-23,Standard,1172,Corporate,USA,Hopkinsland,New York,P3252,Office Supplies,Tables,Item Phone,1191.84,4,13.76,856.76,PayPal,In Transit
+5422,CA-2024-0422,2024-08-25,2024-03-16,Same Day,1681,Corporate,USA,South Robert,Alaska,P3529,Office Supplies,Printers,Prepare Printer,2177.33,1,13.3,1179.48,Bank Transfer,Cancelled
+5423,CA-2024-0423,2024-07-23,2025-02-07,Express,1105,Corporate,USA,Mercedeston,New Hampshire,P3220,Furniture,Smartphones,Seem Laptop,1516.69,2,15.52,1473.04,Credit Card,In Transit
+5424,CA-2024-0424,2024-05-28,2023-03-12,Same Day,1884,Corporate,USA,New Sheilashire,Washington,P3908,Electronics,Printers,Worker Laptop,2299.5,1,12.78,258.31,Credit Card,Shipped
+5425,CA-2024-0425,2024-03-23,2024-02-04,Standard,1629,Corporate,USA,New Carol,California,P3205,Office Supplies,Smartphones,Million Printer,1078.26,1,4.71,1115.41,Debit Card,Shipped
+5426,CA-2024-0426,2024-06-01,2023-08-19,Standard,1792,Home Office,USA,Lake Linda,Texas,P3482,Office Supplies,Chairs,Investment Monitor,1966.9,4,3.56,1834.77,PayPal,In Transit
+5427,CA-2024-0427,2024-08-18,2024-07-27,Express,1599,Home Office,USA,Walkerton,West Virginia,P3371,Office Supplies,Tables,Win Printer,1158.06,5,1.96,959.88,Debit Card,Cancelled
+5428,CA-2024-0428,2024-09-10,2024-01-21,Standard,1147,Consumer,USA,Friedmanchester,Alaska,P3243,Furniture,Chairs,Second Printer,1619.46,5,13.27,53.45,PayPal,Cancelled
+5429,CA-2024-0429,2023-04-30,2023-05-07,Express,1845,Consumer,USA,South Kristopherland,New Mexico,P3250,Electronics,Tables,Attention Monitor,2447.95,4,2.62,1897.25,Debit Card,Cancelled
+5430,CA-2024-0430,2023-10-14,2023-06-11,Same Day,1683,Corporate,USA,Lake Caroline,New Hampshire,P3527,Office Supplies,Chairs,Indeed Monitor,1858.27,5,11.53,210.72,Bank Transfer,Delivered
+5431,CA-2024-0431,2023-12-22,2023-07-19,Express,1840,Corporate,USA,Griffinville,Alaska,P3853,Furniture,Tables,Reach Desk,149.95,2,17.37,1728.2,Credit Card,In Transit
+5432,CA-2024-0432,2024-10-16,2023-09-15,Same Day,1117,Corporate,USA,Coryland,Idaho,P3769,Office Supplies,Chairs,Develop Phone,1641.15,5,19.62,126.78,Credit Card,Cancelled
+5433,CA-2024-0433,2024-04-06,2025-02-04,Same Day,1435,Consumer,USA,Stephenville,Kansas,P3357,Electronics,Chairs,Evening Desk,865.43,3,0.12,2110.0,PayPal,Delivered
+5434,CA-2024-0434,2024-04-05,2023-03-12,Standard,1269,Corporate,USA,South Mark,Alaska,P3932,Furniture,Laptops,Create Printer,79.12,2,18.49,81.1,Debit Card,Shipped
+5435,CA-2024-0435,2023-06-25,2023-11-19,Express,1473,Corporate,USA,South Emily,Indiana,P3017,Electronics,Printers,According Printer,1961.54,3,11.69,1929.28,Bank Transfer,Cancelled
+5436,CA-2024-0436,2023-04-26,2024-05-17,Same Day,1097,Consumer,USA,West Lisa,Delaware,P3124,Electronics,Tables,Us Monitor,1275.72,5,18.49,1334.44,Bank Transfer,Cancelled
+5437,CA-2024-0437,2023-09-22,2024-03-14,Standard,1850,Corporate,USA,Shepardburgh,Vermont,P3780,Office Supplies,Tables,System Laptop,1263.09,5,5.16,1022.71,PayPal,Delivered
+5438,CA-2024-0438,2025-01-31,2024-05-07,Express,1009,Home Office,USA,Hollyfurt,Rhode Island,P3504,Electronics,Chairs,Over Desk,267.71,3,9.12,1994.08,Debit Card,Cancelled
+5439,CA-2024-0439,2023-06-18,2024-05-17,Standard,1186,Consumer,USA,South Marioport,Florida,P3915,Electronics,Tables,Half Printer,893.97,4,7.48,1224.96,Bank Transfer,Delivered
+5440,CA-2024-0440,2024-02-28,2024-08-15,Same Day,1878,Home Office,USA,New Johnshire,Oklahoma,P3873,Office Supplies,Laptops,Million Laptop,2388.39,2,1.93,153.21,Credit Card,In Transit
+5441,CA-2024-0441,2023-07-18,2024-12-09,Same Day,1072,Corporate,USA,North Rebecca,New Mexico,P3217,Electronics,Tables,Employee Laptop,2052.36,4,17.86,1993.02,Bank Transfer,Delivered
+5442,CA-2024-0442,2024-09-12,2024-05-24,Standard,1652,Corporate,USA,West Joseph,North Dakota,P3683,Electronics,Laptops,Artist Desk,863.77,5,11.23,1663.02,Credit Card,Delivered
+5443,CA-2024-0443,2024-06-05,2024-09-26,Standard,1011,Home Office,USA,North Alvin,Ohio,P3148,Electronics,Chairs,Capital Phone,2173.82,5,3.45,1560.39,Credit Card,Delivered
+5444,CA-2024-0444,2024-02-09,2025-02-21,Express,1860,Corporate,USA,South Heatherbury,New Hampshire,P3900,Office Supplies,Chairs,Board Phone,2123.18,1,11.31,1886.21,Bank Transfer,Cancelled
+5445,CA-2024-0445,2023-12-10,2024-06-10,Express,1353,Corporate,USA,Lake Michelle,Alaska,P3291,Electronics,Laptops,Scientist Phone,481.89,5,17.42,2267.01,PayPal,In Transit
+5446,CA-2024-0446,2023-12-05,2023-04-17,Express,1796,Home Office,USA,Housebury,South Carolina,P3571,Office Supplies,Smartphones,Throw Phone,2183.47,3,2.18,2414.45,Credit Card,Cancelled
+5447,CA-2024-0447,2024-10-19,2024-05-26,Same Day,1420,Corporate,USA,Adamberg,Montana,P3282,Electronics,Tables,Clearly Phone,1890.56,3,0.11,2262.88,Debit Card,Delivered
+5448,CA-2024-0448,2024-01-20,2024-08-29,Express,1565,Corporate,USA,Kevinville,Kansas,P3092,Electronics,Chairs,Prove Desk,1798.37,2,13.31,2293.94,PayPal,Delivered
+5449,CA-2024-0449,2024-04-24,2025-01-07,Standard,1938,Consumer,USA,Port Maria,Oregon,P3473,Office Supplies,Smartphones,Part Phone,1860.39,3,16.31,2479.7,Bank Transfer,Shipped
+5450,CA-2024-0450,2023-09-27,2023-11-06,Same Day,1189,Home Office,USA,Cobbview,Iowa,P3415,Furniture,Smartphones,Relate Desk,1256.89,3,14.4,192.68,Bank Transfer,Shipped
+5451,CA-2024-0451,2024-04-23,2024-07-04,Same Day,1692,Corporate,USA,North Thomasstad,Nebraska,P3742,Furniture,Smartphones,Voice Desk,539.93,4,8.98,551.46,Debit Card,Delivered
+5452,CA-2024-0452,2025-02-19,2024-06-24,Same Day,1308,Home Office,USA,East Christopherside,New Mexico,P3299,Furniture,Chairs,Early Laptop,620.25,5,9.61,1275.45,Bank Transfer,In Transit
+5453,CA-2024-0453,2023-09-22,2024-07-11,Standard,1994,Corporate,USA,Annafurt,Oklahoma,P3526,Office Supplies,Chairs,Discuss Monitor,586.73,1,19.45,1021.17,Debit Card,In Transit
+5454,CA-2024-0454,2024-02-15,2024-07-20,Same Day,1014,Consumer,USA,Mcdanielview,West Virginia,P3946,Furniture,Laptops,Defense Monitor,1952.9,5,7.76,194.22,Bank Transfer,Delivered
+5455,CA-2024-0455,2024-04-03,2024-09-29,Express,1868,Consumer,USA,Sherrimouth,Indiana,P3223,Furniture,Chairs,North Monitor,99.83,2,3.93,1706.8,PayPal,In Transit
+5456,CA-2024-0456,2023-08-30,2023-10-25,Express,1950,Home Office,USA,West Gary,Oregon,P3005,Office Supplies,Tables,Agree Printer,1359.79,4,10.17,651.42,Bank Transfer,In Transit
+5457,CA-2024-0457,2024-09-18,2024-09-30,Express,1128,Corporate,USA,Shaneville,Michigan,P3788,Electronics,Chairs,Late Laptop,1265.67,3,5.69,2470.91,PayPal,Shipped
+5458,CA-2024-0458,2023-12-31,2024-09-15,Express,1311,Home Office,USA,Patrickville,Virginia,P3204,Office Supplies,Chairs,Customer Phone,2114.76,3,10.69,1245.51,Bank Transfer,Delivered
+5459,CA-2024-0459,2024-05-06,2024-01-05,Same Day,1868,Consumer,USA,Johnsonland,South Dakota,P3120,Furniture,Smartphones,Defense Monitor,1378.34,5,0.82,1461.22,Bank Transfer,Cancelled
+5460,CA-2024-0460,2023-05-16,2024-12-17,Same Day,1738,Consumer,USA,East Karashire,Vermont,P3730,Furniture,Chairs,Soon Desk,2102.09,5,13.53,177.54,PayPal,Cancelled
+5461,CA-2024-0461,2025-01-06,2023-11-26,Same Day,1135,Corporate,USA,North Brettberg,South Carolina,P3271,Electronics,Tables,Smile Laptop,607.5,1,3.28,1338.96,PayPal,In Transit
+5462,CA-2024-0462,2023-06-17,2025-03-01,Standard,1701,Home Office,USA,Port Feliciatown,West Virginia,P3196,Office Supplies,Printers,Our Laptop,982.18,1,11.01,2235.72,Credit Card,Shipped
+5463,CA-2024-0463,2023-03-04,2025-02-17,Standard,1172,Home Office,USA,Carolineberg,California,P3086,Office Supplies,Printers,Professional Laptop,1855.68,2,16.44,120.4,PayPal,Shipped
+5464,CA-2024-0464,2025-01-31,2025-03-01,Standard,1429,Home Office,USA,Sanchezmouth,Utah,P3079,Office Supplies,Printers,Finish Desk,983.12,2,0.43,2141.31,Debit Card,Shipped
+5465,CA-2024-0465,2023-04-03,2024-05-21,Express,1234,Home Office,USA,Walkerchester,Idaho,P3416,Electronics,Printers,Former Phone,1322.2,2,19.16,285.87,Bank Transfer,Shipped
+5466,CA-2024-0466,2023-07-04,2024-06-24,Express,1208,Corporate,USA,Huntborough,Oklahoma,P3204,Electronics,Laptops,Since Laptop,631.21,5,16.28,94.71,Bank Transfer,Shipped
+5467,CA-2024-0467,2024-10-29,2024-10-19,Same Day,1893,Home Office,USA,Jacksonchester,Pennsylvania,P3152,Furniture,Chairs,Low Laptop,1986.14,5,16.52,1413.45,Bank Transfer,Shipped
+5468,CA-2024-0468,2023-08-23,2024-07-29,Express,1522,Corporate,USA,Port Marcusberg,Oregon,P3581,Furniture,Tables,Money Monitor,1602.02,1,3.01,1265.34,PayPal,Delivered
+5469,CA-2024-0469,2024-01-24,2024-04-15,Express,1425,Consumer,USA,Michaelstad,New Jersey,P3020,Furniture,Chairs,Bill Desk,2193.38,1,13.45,415.71,Credit Card,Delivered
+5470,CA-2024-0470,2024-05-01,2024-08-24,Standard,1559,Corporate,USA,East Josephberg,West Virginia,P3345,Electronics,Printers,Science Printer,647.51,3,16.37,374.47,Bank Transfer,Shipped
+5471,CA-2024-0471,2023-08-16,2024-02-20,Same Day,1692,Home Office,USA,East Dillonbury,Texas,P3511,Office Supplies,Laptops,Tough Phone,445.64,2,8.24,1483.72,Bank Transfer,Cancelled
+5472,CA-2024-0472,2025-02-27,2023-04-23,Express,1842,Consumer,USA,Johnsontown,Georgia,P3116,Office Supplies,Smartphones,Goal Monitor,1449.14,4,14.46,1443.2,Debit Card,Cancelled
+5473,CA-2024-0473,2023-12-18,2024-01-30,Same Day,1172,Consumer,USA,Roberthaven,Maine,P3993,Electronics,Chairs,Billion Monitor,1789.75,2,2.06,451.15,Debit Card,In Transit
+5474,CA-2024-0474,2023-08-04,2023-08-02,Same Day,1073,Home Office,USA,Fuentesburgh,Massachusetts,P3533,Furniture,Smartphones,Admit Printer,286.36,4,4.65,849.75,Credit Card,Shipped
+5475,CA-2024-0475,2023-08-28,2024-09-04,Standard,1544,Consumer,USA,Lake Michellestad,New Mexico,P3560,Office Supplies,Laptops,Probably Printer,1176.85,5,18.07,1739.52,Credit Card,Delivered
+5476,CA-2024-0476,2024-04-18,2023-12-26,Express,1692,Consumer,USA,Milesport,South Carolina,P3155,Electronics,Laptops,American Desk,1889.97,4,5.7,1289.91,PayPal,Shipped
+5477,CA-2024-0477,2023-11-18,2023-08-04,Same Day,1588,Corporate,USA,New Josephchester,South Carolina,P3957,Furniture,Chairs,Onto Laptop,2177.1,2,8.53,2393.95,Debit Card,In Transit
+5478,CA-2024-0478,2024-10-30,2024-05-27,Same Day,1098,Consumer,USA,North Stevenfurt,Maryland,P3185,Furniture,Printers,Him Printer,692.48,3,16.05,2107.4,PayPal,In Transit
+5479,CA-2024-0479,2024-12-30,2024-02-14,Same Day,1463,Home Office,USA,Taylorhaven,Nebraska,P3119,Office Supplies,Printers,Program Laptop,1765.69,4,17.58,1301.59,Credit Card,Shipped
+5480,CA-2024-0480,2023-05-04,2023-03-07,Standard,1644,Consumer,USA,Melissaton,Minnesota,P3670,Furniture,Laptops,Actually Laptop,1303.05,1,3.69,2077.54,Bank Transfer,Cancelled
+5481,CA-2024-0481,2024-03-11,2024-06-06,Standard,1376,Consumer,USA,Reynoldstown,West Virginia,P3548,Furniture,Chairs,Keep Laptop,1154.49,5,6.93,2490.82,PayPal,Cancelled
+5482,CA-2024-0482,2023-12-10,2024-12-05,Standard,1249,Home Office,USA,Lake Whitneyville,South Dakota,P3118,Office Supplies,Chairs,Believe Phone,1003.08,4,11.5,2365.29,PayPal,Delivered
+5483,CA-2024-0483,2023-04-10,2023-11-10,Standard,1562,Corporate,USA,Myersfort,Mississippi,P3881,Office Supplies,Smartphones,Since Laptop,756.83,2,4.32,2043.35,Bank Transfer,Shipped
+5484,CA-2024-0484,2023-08-07,2024-03-02,Standard,1533,Corporate,USA,Underwoodburgh,Kentucky,P3272,Electronics,Printers,Color Desk,2381.48,3,19.77,2205.82,Credit Card,Shipped
+5485,CA-2024-0485,2024-10-12,2024-05-19,Same Day,1900,Home Office,USA,Lake Jessica,Massachusetts,P3421,Office Supplies,Printers,Who Monitor,114.73,1,1.25,2458.76,Bank Transfer,Cancelled
+5486,CA-2024-0486,2024-07-27,2023-04-28,Express,1813,Home Office,USA,Roberthaven,Tennessee,P3638,Office Supplies,Printers,Eat Laptop,2163.62,3,2.54,1244.27,Credit Card,In Transit
+5487,CA-2024-0487,2023-06-25,2024-04-20,Same Day,1825,Corporate,USA,New Nicholasport,North Dakota,P3387,Office Supplies,Smartphones,Anything Desk,2039.85,4,19.81,674.06,PayPal,In Transit
+5488,CA-2024-0488,2023-10-22,2024-02-24,Same Day,1287,Corporate,USA,Gibsonfort,Rhode Island,P3875,Office Supplies,Printers,Other Printer,1326.98,5,11.76,1519.85,PayPal,Shipped
+5489,CA-2024-0489,2024-10-03,2024-10-07,Same Day,1553,Home Office,USA,North Debraborough,Indiana,P3899,Office Supplies,Laptops,Its Phone,1149.76,5,1.24,379.52,PayPal,In Transit
+5490,CA-2024-0490,2023-07-24,2025-01-06,Standard,1802,Consumer,USA,Williamsstad,Delaware,P3923,Office Supplies,Laptops,Outside Laptop,767.27,5,5.82,1612.82,Debit Card,Shipped
+5491,CA-2024-0491,2023-10-22,2023-07-27,Standard,1997,Corporate,USA,New Brandonmouth,Alaska,P3252,Electronics,Laptops,Media Desk,567.25,3,16.6,1325.16,Credit Card,In Transit
+5492,CA-2024-0492,2024-07-21,2024-10-28,Standard,1637,Consumer,USA,Charlotteberg,Michigan,P3512,Office Supplies,Tables,Produce Monitor,1965.53,1,18.82,2055.23,Bank Transfer,Cancelled
+5493,CA-2024-0493,2023-10-11,2024-07-27,Standard,1413,Consumer,USA,West Sylvia,Indiana,P3560,Office Supplies,Laptops,Piece Printer,2433.69,2,2.3,227.38,Bank Transfer,In Transit
+5494,CA-2024-0494,2024-05-23,2023-07-09,Express,1559,Home Office,USA,Port Nicholas,Delaware,P3999,Electronics,Printers,Source Desk,1876.57,2,15.47,2386.73,Bank Transfer,Shipped
+5495,CA-2024-0495,2023-07-19,2023-08-02,Standard,1048,Consumer,USA,South Renee,Florida,P3936,Electronics,Smartphones,Them Desk,1982.88,3,0.13,1095.91,Debit Card,Delivered
+5496,CA-2024-0496,2024-10-31,2024-03-06,Standard,1779,Consumer,USA,Lake Alexburgh,Mississippi,P3421,Electronics,Printers,Machine Phone,85.49,3,14.73,327.13,PayPal,Cancelled
+5497,CA-2024-0497,2024-01-20,2024-05-03,Standard,1119,Corporate,USA,East Chadstad,Montana,P3337,Office Supplies,Printers,Occur Laptop,588.1,4,3.96,2022.12,Credit Card,In Transit
+5498,CA-2024-0498,2023-07-15,2024-11-16,Same Day,1234,Home Office,USA,Lake Michael,New Hampshire,P3687,Furniture,Laptops,None Desk,1250.61,4,6.72,2462.91,PayPal,Shipped
+5499,CA-2024-0499,2023-09-11,2023-09-19,Express,1972,Corporate,USA,Charlesfort,Arizona,P3808,Electronics,Tables,Much Phone,286.85,5,9.22,1028.96,Credit Card,In Transit
+5500,CA-2024-0500,2024-09-12,2024-01-14,Same Day,1191,Corporate,USA,Port Tina,Wyoming,P3087,Electronics,Smartphones,Spend Laptop,151.34,2,7.06,1285.74,PayPal,Delivered
+5501,CA-2024-0501,2024-11-25,2024-05-17,Express,1262,Consumer,USA,West Robert,Texas,P3754,Furniture,Laptops,Player Monitor,2434.25,4,1.67,2243.53,Credit Card,Delivered
+5502,CA-2024-0502,2024-06-06,2024-12-26,Standard,1520,Corporate,USA,South William,Hawaii,P3591,Electronics,Tables,Boy Desk,1870.89,2,8.61,475.5,Bank Transfer,Cancelled
+5503,CA-2024-0503,2024-07-23,2023-04-28,Express,1468,Corporate,USA,Sanchezville,Hawaii,P3872,Electronics,Laptops,Plan Printer,1124.52,3,8.76,87.75,PayPal,Shipped
+5504,CA-2024-0504,2024-06-24,2025-02-06,Express,1898,Corporate,USA,Rebeccaborough,Illinois,P3267,Electronics,Tables,Force Monitor,2133.79,4,6.3,1957.99,Debit Card,In Transit
+5505,CA-2024-0505,2023-07-26,2024-01-11,Express,1843,Consumer,USA,Markshire,Texas,P3783,Furniture,Laptops,Trouble Laptop,2095.26,1,1.41,787.98,Debit Card,Shipped
+5506,CA-2024-0506,2024-07-06,2024-10-11,Same Day,1559,Home Office,USA,East Jillstad,New Mexico,P3396,Furniture,Laptops,Whether Printer,529.9,5,5.63,1384.57,PayPal,Cancelled
+5507,CA-2024-0507,2024-03-09,2024-07-19,Standard,1826,Corporate,USA,Joshuaburgh,Maine,P3686,Electronics,Printers,Situation Desk,831.43,4,9.19,2376.04,Bank Transfer,Shipped
+5508,CA-2024-0508,2023-07-08,2024-09-02,Standard,1519,Corporate,USA,North Mark,Alabama,P3844,Furniture,Smartphones,Tree Laptop,1929.76,4,9.15,450.6,Bank Transfer,Shipped
+5509,CA-2024-0509,2023-12-15,2024-07-30,Standard,1080,Home Office,USA,North Jenniferport,Arkansas,P3773,Office Supplies,Printers,Expert Monitor,931.46,4,10.99,1137.43,PayPal,Shipped
+5510,CA-2024-0510,2024-03-30,2025-01-08,Same Day,1848,Corporate,USA,South Jessicatown,Maryland,P3696,Electronics,Tables,Wrong Monitor,1891.11,5,1.46,813.4,Credit Card,Cancelled
+5511,CA-2024-0511,2023-07-02,2024-07-05,Same Day,1600,Home Office,USA,West Warren,Montana,P3183,Electronics,Printers,Win Laptop,1842.49,4,18.49,1563.98,PayPal,Cancelled
+5512,CA-2024-0512,2024-08-27,2024-12-02,Same Day,1678,Corporate,USA,South Lisashire,North Dakota,P3618,Furniture,Printers,Majority Printer,2053.77,2,12.39,1829.91,Debit Card,Shipped
+5513,CA-2024-0513,2024-01-17,2023-12-28,Same Day,1486,Home Office,USA,New Amandachester,Massachusetts,P3178,Office Supplies,Printers,They Phone,2090.34,2,6.35,449.44,Credit Card,Shipped
+5514,CA-2024-0514,2024-06-14,2024-09-04,Express,1121,Home Office,USA,North Kevinborough,Ohio,P3237,Furniture,Smartphones,Store Desk,2241.75,1,5.67,2258.95,Credit Card,Shipped
+5515,CA-2024-0515,2024-08-06,2023-09-30,Standard,1163,Home Office,USA,East Meghan,North Carolina,P3443,Furniture,Printers,Just Desk,2232.49,4,6.56,363.24,Debit Card,In Transit
+5516,CA-2024-0516,2024-11-10,2023-10-17,Express,1517,Consumer,USA,West Kristen,Virginia,P3241,Electronics,Printers,Late Laptop,2293.97,5,7.34,1891.73,Credit Card,Delivered
+5517,CA-2024-0517,2024-01-07,2024-06-01,Same Day,1353,Home Office,USA,Port David,New York,P3494,Office Supplies,Smartphones,Man Laptop,2013.53,4,16.75,2079.65,Bank Transfer,Shipped
+5518,CA-2024-0518,2023-05-25,2024-06-19,Same Day,1336,Consumer,USA,East William,Nevada,P3673,Office Supplies,Tables,Speak Printer,339.62,1,19.44,1923.83,Bank Transfer,In Transit
+5519,CA-2024-0519,2024-04-01,2024-11-29,Express,1477,Home Office,USA,Hollyburgh,Kansas,P3223,Electronics,Chairs,Impact Desk,1027.61,5,7.05,244.03,PayPal,Cancelled
+5520,CA-2024-0520,2024-03-05,2023-07-15,Standard,1807,Corporate,USA,New Jacobside,Indiana,P3408,Furniture,Tables,Surface Phone,1500.28,4,4.08,993.68,PayPal,Cancelled
+5521,CA-2024-0521,2025-01-26,2023-09-22,Express,1286,Consumer,USA,New Michaelshire,Virginia,P3541,Office Supplies,Tables,Put Phone,1349.06,3,0.62,1809.18,PayPal,Shipped
+5522,CA-2024-0522,2023-06-07,2024-06-26,Express,1541,Consumer,USA,Duranland,Mississippi,P3023,Furniture,Tables,Best Laptop,2240.87,1,14.9,928.65,Debit Card,Delivered
+5523,CA-2024-0523,2024-08-08,2024-09-01,Standard,1822,Consumer,USA,Charlestown,California,P3161,Furniture,Smartphones,Song Laptop,140.76,3,13.68,825.71,Debit Card,Cancelled
+5524,CA-2024-0524,2023-06-16,2024-12-31,Standard,1321,Consumer,USA,Sotofurt,Missouri,P3250,Electronics,Laptops,Minute Phone,580.81,4,17.75,1472.32,Bank Transfer,Delivered
+5525,CA-2024-0525,2023-11-30,2025-02-07,Standard,1121,Corporate,USA,Lake Davidtown,Delaware,P3788,Office Supplies,Laptops,Traditional Laptop,1880.75,1,6.41,289.6,PayPal,In Transit
+5526,CA-2024-0526,2023-08-09,2025-01-19,Express,1825,Home Office,USA,Lake Christineshire,Connecticut,P3545,Office Supplies,Laptops,Everybody Phone,1185.31,5,3.27,70.17,Bank Transfer,Delivered
+5527,CA-2024-0527,2023-06-23,2023-03-02,Express,1564,Consumer,USA,Romeroberg,Iowa,P3180,Electronics,Printers,Travel Laptop,1968.65,1,12.49,1970.09,Credit Card,Shipped
+5528,CA-2024-0528,2024-05-10,2023-10-03,Same Day,1190,Consumer,USA,Lake Katherine,South Carolina,P3522,Electronics,Laptops,Clearly Printer,2239.64,2,14.34,2253.32,Debit Card,Cancelled
+5529,CA-2024-0529,2023-08-09,2024-10-25,Standard,1087,Corporate,USA,Rodneyton,Alabama,P3020,Office Supplies,Smartphones,Area Phone,973.37,5,3.19,1413.84,Credit Card,Shipped
+5530,CA-2024-0530,2024-03-05,2024-02-22,Standard,1979,Home Office,USA,Port Julia,Rhode Island,P3882,Electronics,Chairs,Support Laptop,2436.77,2,12.42,1662.57,Debit Card,Shipped
+5531,CA-2024-0531,2024-11-10,2024-09-06,Standard,1388,Home Office,USA,Oconnorshire,Rhode Island,P3999,Furniture,Chairs,We Printer,97.6,1,9.71,2440.92,Credit Card,In Transit
+5532,CA-2024-0532,2024-11-05,2023-09-21,Same Day,1054,Consumer,USA,Robinberg,West Virginia,P3019,Electronics,Chairs,Them Monitor,994.16,3,9.91,323.0,Credit Card,Delivered
+5533,CA-2024-0533,2025-01-11,2024-12-03,Same Day,1716,Home Office,USA,Ricardoport,Hawaii,P3435,Office Supplies,Chairs,Republican Monitor,355.66,3,5.66,706.18,Credit Card,Delivered
+5534,CA-2024-0534,2024-10-21,2023-08-09,Same Day,1712,Home Office,USA,Bonillafort,Oklahoma,P3132,Office Supplies,Chairs,Major Printer,2282.78,1,8.55,2008.04,PayPal,Shipped
+5535,CA-2024-0535,2024-06-24,2024-05-05,Same Day,1406,Corporate,USA,North Brittany,Nebraska,P3559,Electronics,Laptops,State Printer,258.24,4,13.45,1434.99,PayPal,Cancelled
+5536,CA-2024-0536,2025-02-04,2024-12-22,Standard,1734,Consumer,USA,New Tamara,North Dakota,P3175,Office Supplies,Printers,Big Printer,1949.75,3,16.94,1380.7,Debit Card,Shipped
+5537,CA-2024-0537,2024-08-17,2023-09-19,Express,1868,Consumer,USA,Port Dalefort,Florida,P3759,Electronics,Smartphones,Audience Monitor,224.74,1,14.28,2226.71,PayPal,Delivered
+5538,CA-2024-0538,2024-02-28,2024-04-06,Same Day,1074,Consumer,USA,Calhounchester,Missouri,P3166,Furniture,Tables,Smile Monitor,76.74,4,16.42,1173.33,PayPal,Cancelled
+5539,CA-2024-0539,2023-03-09,2023-10-26,Standard,1427,Consumer,USA,Rogerberg,Washington,P3223,Furniture,Laptops,Sure Desk,1123.93,2,15.56,2437.43,Bank Transfer,In Transit
+5540,CA-2024-0540,2023-12-25,2023-10-10,Same Day,1103,Corporate,USA,Bellton,Hawaii,P3370,Electronics,Smartphones,Able Phone,438.94,5,7.96,2082.83,Bank Transfer,Delivered
+5541,CA-2024-0541,2024-05-09,2023-08-24,Standard,1151,Corporate,USA,Garyhaven,Massachusetts,P3030,Furniture,Smartphones,Receive Monitor,1328.97,1,17.89,849.06,Bank Transfer,Shipped
+5542,CA-2024-0542,2024-06-05,2024-03-28,Express,1351,Consumer,USA,Sparksfort,Wisconsin,P3787,Office Supplies,Chairs,Final Phone,804.22,5,1.21,2313.0,PayPal,Cancelled
+5543,CA-2024-0543,2024-06-05,2023-04-21,Standard,1808,Consumer,USA,Lake Gary,North Carolina,P3201,Furniture,Tables,Fund Monitor,1256.87,4,3.11,1630.81,Credit Card,Cancelled
+5544,CA-2024-0544,2023-06-10,2024-10-07,Express,1823,Consumer,USA,New Rachel,Kansas,P3956,Office Supplies,Laptops,Claim Desk,896.06,2,0.12,581.13,Bank Transfer,Delivered
+5545,CA-2024-0545,2023-08-26,2024-01-04,Express,1191,Consumer,USA,Mariachester,Delaware,P3371,Furniture,Chairs,Bill Phone,2075.03,1,9.3,1672.91,Credit Card,Delivered
+5546,CA-2024-0546,2023-09-20,2023-07-25,Express,1693,Corporate,USA,Clarkbury,Kentucky,P3485,Furniture,Laptops,Can Desk,708.93,2,13.28,1850.43,Debit Card,Shipped
+5547,CA-2024-0547,2024-07-17,2024-12-11,Express,1903,Home Office,USA,Penachester,Nevada,P3330,Office Supplies,Smartphones,Left Desk,2282.33,4,0.48,756.45,Bank Transfer,Cancelled
+5548,CA-2024-0548,2024-10-06,2024-12-16,Same Day,1656,Home Office,USA,Campbellborough,Louisiana,P3636,Office Supplies,Chairs,Instead Printer,2214.94,5,14.47,2397.11,PayPal,In Transit
+5549,CA-2024-0549,2023-10-30,2023-11-29,Standard,1771,Corporate,USA,Lisachester,Vermont,P3573,Electronics,Chairs,Call Monitor,1627.04,5,9.35,2217.27,PayPal,In Transit
+5550,CA-2024-0550,2024-06-20,2023-03-30,Same Day,1101,Home Office,USA,Lake Jessica,New Hampshire,P3493,Furniture,Chairs,Western Phone,1593.29,1,8.85,617.03,Bank Transfer,In Transit
+5551,CA-2024-0551,2024-11-27,2024-01-20,Standard,1881,Consumer,USA,Lake Karen,Michigan,P3113,Electronics,Laptops,Off Monitor,387.0,3,19.95,434.9,Bank Transfer,Cancelled
+5552,CA-2024-0552,2023-05-17,2023-08-30,Standard,1538,Home Office,USA,Davidburgh,Vermont,P3674,Electronics,Laptops,Choice Monitor,409.29,3,15.29,889.99,Bank Transfer,In Transit
+5553,CA-2024-0553,2023-05-02,2023-09-11,Express,1433,Home Office,USA,North Jessicamouth,South Carolina,P3794,Electronics,Smartphones,Might Monitor,401.03,2,19.13,1220.1,PayPal,Shipped
+5554,CA-2024-0554,2023-10-06,2024-03-15,Express,1494,Consumer,USA,South Kimberlyview,Louisiana,P3009,Office Supplies,Printers,Win Laptop,2027.51,3,5.11,2108.27,PayPal,Cancelled
+5555,CA-2024-0555,2024-04-26,2024-04-22,Express,1730,Consumer,USA,Ramirezland,North Carolina,P3300,Office Supplies,Chairs,Take Desk,2364.58,4,9.29,205.57,Credit Card,In Transit
+5556,CA-2024-0556,2024-10-08,2025-01-13,Same Day,1918,Corporate,USA,Davidsonshire,Arizona,P3815,Electronics,Tables,Offer Printer,1642.77,4,8.6,1994.97,PayPal,Cancelled
+5557,CA-2024-0557,2024-05-11,2024-10-15,Express,1339,Home Office,USA,Clarkland,Florida,P3593,Furniture,Tables,Huge Printer,536.67,4,9.21,1551.08,Debit Card,Cancelled
+5558,CA-2024-0558,2024-09-08,2023-11-29,Same Day,1209,Home Office,USA,New Sarahmouth,Idaho,P3029,Office Supplies,Chairs,Glass Phone,687.15,5,14.06,1271.07,Debit Card,Delivered
+5559,CA-2024-0559,2024-07-19,2024-05-30,Standard,1297,Home Office,USA,Elizabethview,Wyoming,P3040,Electronics,Chairs,State Monitor,1169.57,4,4.42,1802.0,Debit Card,Cancelled
+5560,CA-2024-0560,2023-06-21,2024-08-16,Express,1276,Consumer,USA,Wilsonfort,Pennsylvania,P3258,Office Supplies,Smartphones,Significant Printer,457.26,1,13.86,549.57,Credit Card,Shipped
+5561,CA-2024-0561,2024-10-28,2023-05-11,Express,1429,Consumer,USA,South Darryl,Mississippi,P3396,Electronics,Chairs,Local Phone,1513.42,5,5.08,1725.88,Bank Transfer,Delivered
+5562,CA-2024-0562,2023-09-13,2025-02-21,Same Day,1110,Corporate,USA,Sharonfort,Indiana,P3243,Electronics,Laptops,Medical Laptop,901.1,3,12.17,1933.92,Debit Card,Delivered
+5563,CA-2024-0563,2024-01-13,2024-03-31,Same Day,1466,Home Office,USA,Christopherstad,Arkansas,P3826,Office Supplies,Tables,Include Monitor,1342.74,3,18.86,2271.41,Bank Transfer,Shipped
+5564,CA-2024-0564,2024-10-25,2023-10-16,Same Day,1165,Corporate,USA,Walkerfort,Delaware,P3807,Electronics,Smartphones,Allow Phone,989.38,5,1.34,1197.61,Credit Card,Cancelled
+5565,CA-2024-0565,2024-10-17,2024-12-15,Express,1125,Consumer,USA,Paulmouth,Vermont,P3580,Office Supplies,Laptops,Model Desk,2238.36,1,13.38,2267.61,Debit Card,In Transit
+5566,CA-2024-0566,2023-07-28,2025-01-07,Same Day,1047,Corporate,USA,Lake Victorialand,South Carolina,P3759,Office Supplies,Tables,Probably Desk,1279.57,3,9.38,2492.44,Debit Card,Shipped
+5567,CA-2024-0567,2023-08-23,2023-09-10,Same Day,1025,Home Office,USA,North Charles,Hawaii,P3428,Electronics,Chairs,Box Printer,1802.59,4,16.01,430.47,Credit Card,Cancelled
+5568,CA-2024-0568,2023-05-16,2024-11-16,Express,1121,Corporate,USA,Craneport,Oregon,P3094,Office Supplies,Smartphones,Size Phone,283.75,5,0.33,1818.1,Credit Card,Delivered
+5569,CA-2024-0569,2024-01-29,2024-01-24,Same Day,1983,Corporate,USA,New Donnabury,Connecticut,P3425,Furniture,Chairs,Station Phone,615.82,4,13.92,2435.03,Debit Card,In Transit
+5570,CA-2024-0570,2023-07-12,2023-05-12,Same Day,1445,Corporate,USA,Adamview,Connecticut,P3304,Electronics,Laptops,Direction Phone,869.69,4,11.74,374.13,Debit Card,Cancelled
+5571,CA-2024-0571,2023-06-13,2024-02-12,Express,1786,Corporate,USA,Carrborough,Nevada,P3787,Furniture,Laptops,True Phone,481.93,2,7.95,163.44,Credit Card,Delivered
+5572,CA-2024-0572,2024-12-03,2024-03-19,Same Day,1167,Corporate,USA,South Colefort,Connecticut,P3468,Office Supplies,Laptops,Two Phone,193.85,4,18.02,1047.8,PayPal,Delivered
+5573,CA-2024-0573,2023-06-26,2025-02-13,Standard,1373,Consumer,USA,East Robertmouth,Texas,P3788,Furniture,Laptops,Job Monitor,1380.44,2,10.09,887.23,Debit Card,Shipped
+5574,CA-2024-0574,2024-08-05,2023-09-18,Express,1355,Home Office,USA,Stephanieville,New Hampshire,P3817,Furniture,Laptops,Grow Monitor,763.73,3,9.78,1301.11,Bank Transfer,Shipped
+5575,CA-2024-0575,2024-12-29,2024-03-31,Same Day,1341,Consumer,USA,South Davidstad,Missouri,P3137,Electronics,Tables,Mind Printer,774.69,5,7.87,925.74,Debit Card,Cancelled
+5576,CA-2024-0576,2024-05-31,2023-05-28,Standard,1721,Home Office,USA,East Erica,North Carolina,P3146,Furniture,Chairs,Defense Monitor,218.44,3,10.04,1158.52,Bank Transfer,In Transit
+5577,CA-2024-0577,2023-06-26,2025-01-04,Standard,1668,Home Office,USA,Stewartville,Iowa,P3550,Electronics,Tables,Top Printer,559.95,1,14.33,226.8,Debit Card,Delivered
+5578,CA-2024-0578,2024-08-16,2023-03-05,Standard,1382,Home Office,USA,Christopherside,Vermont,P3972,Furniture,Tables,Pattern Desk,460.07,1,4.96,222.78,PayPal,In Transit
+5579,CA-2024-0579,2025-01-02,2024-05-19,Same Day,1808,Consumer,USA,Taylorberg,New Hampshire,P3512,Furniture,Laptops,Myself Desk,841.1,4,18.66,964.6,Debit Card,Cancelled
+5580,CA-2024-0580,2024-10-12,2024-10-17,Standard,1346,Home Office,USA,North Priscilla,South Carolina,P3848,Office Supplies,Smartphones,Girl Desk,344.22,1,6.58,1300.8,Bank Transfer,In Transit
+5581,CA-2024-0581,2024-03-08,2023-06-14,Same Day,1851,Corporate,USA,Port Michaelstad,New Hampshire,P3240,Furniture,Printers,Maybe Phone,495.4,2,14.85,1751.8,Bank Transfer,Delivered
+5582,CA-2024-0582,2024-03-25,2024-12-29,Same Day,1665,Corporate,USA,South Aaronton,Louisiana,P3463,Electronics,Laptops,Spring Monitor,1264.45,5,12.64,137.13,PayPal,Shipped
+5583,CA-2024-0583,2024-05-21,2025-02-15,Same Day,1624,Consumer,USA,North Juanfurt,Massachusetts,P3927,Furniture,Chairs,Answer Printer,2324.51,2,12.45,877.31,PayPal,In Transit
+5584,CA-2024-0584,2024-01-03,2024-02-25,Standard,1768,Corporate,USA,Marcfurt,Tennessee,P3957,Electronics,Chairs,Body Laptop,597.98,3,8.36,878.88,Debit Card,Delivered
+5585,CA-2024-0585,2023-05-17,2024-12-08,Express,1604,Corporate,USA,Maryview,Oregon,P3283,Electronics,Laptops,But Desk,998.62,5,11.98,1668.95,Credit Card,Shipped
+5586,CA-2024-0586,2023-10-06,2024-04-16,Same Day,1066,Consumer,USA,Gonzalesstad,Delaware,P3055,Office Supplies,Chairs,Prepare Desk,2010.77,4,18.94,255.47,Bank Transfer,Shipped
+5587,CA-2024-0587,2023-08-16,2025-01-29,Standard,1051,Home Office,USA,Port Kevin,South Carolina,P3914,Office Supplies,Smartphones,Century Desk,653.15,2,6.6,1330.41,PayPal,In Transit
+5588,CA-2024-0588,2024-12-28,2024-03-29,Express,1582,Corporate,USA,Rogersview,Connecticut,P3726,Furniture,Laptops,Music Printer,1354.14,4,3.96,2441.57,Debit Card,Cancelled
+5589,CA-2024-0589,2025-01-25,2023-12-29,Same Day,1128,Consumer,USA,East Michaelburgh,Massachusetts,P3315,Furniture,Tables,Policy Desk,766.02,1,19.59,1579.07,Debit Card,Cancelled
+5590,CA-2024-0590,2024-05-14,2023-03-03,Standard,1695,Corporate,USA,Lake Franciscoville,Maine,P3720,Electronics,Laptops,Eye Laptop,1203.39,5,4.1,1284.35,Bank Transfer,Cancelled
+5591,CA-2024-0591,2024-05-08,2023-12-21,Express,1185,Home Office,USA,New Sherryview,Louisiana,P3569,Electronics,Smartphones,Every Monitor,73.35,1,17.11,1997.03,Debit Card,Delivered
+5592,CA-2024-0592,2024-05-29,2023-09-25,Express,1655,Corporate,USA,Christopherville,Louisiana,P3871,Furniture,Laptops,With Phone,2219.66,4,0.62,389.1,Debit Card,In Transit
+5593,CA-2024-0593,2023-04-29,2024-05-02,Express,1113,Consumer,USA,Abbottburgh,Vermont,P3216,Electronics,Printers,Pattern Laptop,2486.22,5,16.2,833.63,Credit Card,In Transit
+5594,CA-2024-0594,2023-04-28,2024-03-05,Express,1783,Corporate,USA,East Hannah,North Dakota,P3443,Electronics,Tables,American Printer,176.57,5,14.72,2114.81,Bank Transfer,Delivered
+5595,CA-2024-0595,2024-02-28,2024-01-29,Same Day,1612,Consumer,USA,Jofurt,New Hampshire,P3911,Furniture,Laptops,Factor Phone,451.33,4,14.98,2145.78,Credit Card,Cancelled
+5596,CA-2024-0596,2023-07-01,2024-02-12,Same Day,1148,Corporate,USA,West Kimberly,Texas,P3938,Office Supplies,Laptops,Discussion Monitor,2181.44,5,2.48,1896.18,PayPal,Cancelled
+5597,CA-2024-0597,2023-11-21,2024-03-24,Standard,1236,Home Office,USA,East Clinton,New Jersey,P3095,Office Supplies,Chairs,Surface Printer,466.75,1,13.69,380.11,Credit Card,Delivered
+5598,CA-2024-0598,2023-08-07,2024-03-06,Same Day,1812,Consumer,USA,Priceberg,Florida,P3041,Electronics,Tables,Share Phone,1519.56,3,16.64,2478.99,Debit Card,In Transit
+5599,CA-2024-0599,2024-01-06,2024-04-04,Express,1749,Corporate,USA,New Helenview,Oregon,P3834,Office Supplies,Printers,Reason Laptop,1591.22,2,2.66,788.51,Bank Transfer,In Transit
+5600,CA-2024-0600,2023-04-13,2024-03-09,Express,1021,Consumer,USA,North Alicia,South Carolina,P3852,Furniture,Tables,Bad Desk,122.58,1,15.23,1229.32,Bank Transfer,In Transit
+5601,CA-2024-0601,2023-05-08,2023-06-12,Standard,1091,Corporate,USA,North Arthurville,Nebraska,P3806,Electronics,Tables,Miss Monitor,840.27,5,19.59,2484.53,PayPal,Delivered
+5602,CA-2024-0602,2024-01-27,2024-12-23,Express,1037,Consumer,USA,Lisahaven,Arizona,P3040,Furniture,Smartphones,What Printer,2461.41,2,13.01,1237.25,Debit Card,Cancelled
+5603,CA-2024-0603,2023-11-28,2023-08-23,Same Day,1177,Consumer,USA,Christopherville,Kansas,P3721,Electronics,Smartphones,Production Printer,743.59,3,7.16,1322.52,Bank Transfer,Shipped
+5604,CA-2024-0604,2024-02-26,2023-04-10,Express,1738,Home Office,USA,Lake Jesse,Ohio,P3434,Furniture,Printers,Professor Desk,1469.8,3,0.12,1070.88,Credit Card,Shipped
+5605,CA-2024-0605,2024-02-15,2024-08-07,Standard,1552,Corporate,USA,South Christineport,Missouri,P3977,Electronics,Smartphones,Ball Monitor,411.85,4,14.34,1293.42,Debit Card,Shipped
+5606,CA-2024-0606,2023-04-11,2024-04-01,Same Day,1739,Corporate,USA,Lake Melissaport,Maryland,P3273,Furniture,Tables,Happen Phone,2200.98,5,1.54,1423.94,PayPal,Cancelled
+5607,CA-2024-0607,2025-01-07,2024-05-25,Express,1688,Consumer,USA,Hammondland,Louisiana,P3234,Office Supplies,Printers,Necessary Monitor,859.33,1,16.55,1482.57,Credit Card,In Transit
+5608,CA-2024-0608,2024-01-22,2024-04-24,Same Day,1532,Home Office,USA,East Paul,Oregon,P3826,Furniture,Printers,Million Phone,2044.76,4,9.43,240.24,PayPal,Shipped
+5609,CA-2024-0609,2023-12-10,2024-09-07,Standard,1179,Home Office,USA,Taraborough,Oklahoma,P3178,Electronics,Printers,Board Phone,63.11,3,15.53,764.34,PayPal,In Transit
+5610,CA-2024-0610,2024-02-07,2024-09-30,Same Day,1401,Home Office,USA,Belltown,Rhode Island,P3751,Furniture,Tables,Good Laptop,2083.48,5,0.66,954.21,Bank Transfer,Delivered
+5611,CA-2024-0611,2023-07-15,2024-06-28,Standard,1004,Consumer,USA,Cookberg,Massachusetts,P3665,Electronics,Laptops,Provide Desk,1156.62,2,18.84,597.99,Bank Transfer,In Transit
+5612,CA-2024-0612,2023-03-11,2023-10-26,Express,1519,Corporate,USA,Owensville,New Mexico,P3078,Electronics,Printers,Sit Monitor,2142.52,3,0.48,2353.15,Debit Card,Shipped
+5613,CA-2024-0613,2023-10-13,2024-06-04,Same Day,1232,Home Office,USA,South Brandonfort,Alabama,P3277,Furniture,Chairs,View Laptop,2159.93,1,5.09,2081.42,Debit Card,Cancelled
+5614,CA-2024-0614,2024-06-22,2023-12-27,Express,1472,Consumer,USA,West Kathymouth,Utah,P3428,Office Supplies,Chairs,Will Printer,629.24,2,0.37,727.31,Debit Card,Cancelled
+5615,CA-2024-0615,2024-11-06,2023-08-11,Same Day,1218,Consumer,USA,North Cherylmouth,Connecticut,P3055,Electronics,Tables,Provide Laptop,464.29,3,5.44,845.45,Credit Card,Shipped
+5616,CA-2024-0616,2023-07-02,2023-09-11,Standard,1712,Corporate,USA,North Angelaview,Maryland,P3137,Electronics,Laptops,Model Printer,462.91,4,5.97,1053.01,Bank Transfer,Delivered
+5617,CA-2024-0617,2023-06-03,2024-09-29,Standard,1548,Home Office,USA,East Amanda,Georgia,P3213,Electronics,Laptops,About Desk,230.9,3,14.73,2284.88,Bank Transfer,In Transit
+5618,CA-2024-0618,2023-11-19,2023-11-22,Same Day,1134,Corporate,USA,Susanberg,South Carolina,P3628,Furniture,Smartphones,Picture Monitor,872.91,2,6.89,514.71,Debit Card,In Transit
+5619,CA-2024-0619,2024-03-20,2023-10-13,Standard,1547,Corporate,USA,Port Michaelchester,Connecticut,P3232,Electronics,Laptops,Father Phone,581.07,2,6.0,2247.82,Debit Card,In Transit
+5620,CA-2024-0620,2025-02-18,2023-09-02,Same Day,1066,Consumer,USA,New Michael,Missouri,P3954,Electronics,Smartphones,Event Desk,1917.89,5,1.89,1046.11,PayPal,In Transit
+5621,CA-2024-0621,2024-08-02,2024-08-17,Standard,1325,Consumer,USA,North Maria,Mississippi,P3428,Office Supplies,Chairs,Believe Phone,1022.6,1,2.39,565.81,Debit Card,Cancelled
+5622,CA-2024-0622,2023-07-04,2024-02-10,Express,1561,Home Office,USA,Lake Jessicaton,Rhode Island,P3026,Office Supplies,Chairs,Before Monitor,748.28,2,8.69,711.06,Debit Card,Shipped
+5623,CA-2024-0623,2023-07-15,2025-02-12,Standard,1715,Corporate,USA,South Jessica,Colorado,P3512,Electronics,Printers,Best Laptop,1118.28,3,0.06,2089.05,Credit Card,Shipped
+5624,CA-2024-0624,2023-05-14,2024-12-20,Express,1278,Home Office,USA,Leeberg,Nevada,P3612,Furniture,Printers,Rule Laptop,267.21,5,8.95,1537.49,Bank Transfer,Delivered
+5625,CA-2024-0625,2023-05-29,2023-11-23,Express,1565,Corporate,USA,Garciahaven,Mississippi,P3056,Electronics,Chairs,Difficult Printer,1701.92,3,0.97,308.89,Debit Card,Cancelled
+5626,CA-2024-0626,2023-05-02,2024-09-01,Express,1842,Corporate,USA,Gregoryland,Alabama,P3334,Electronics,Smartphones,Billion Printer,2212.23,5,0.89,350.32,Bank Transfer,Delivered
+5627,CA-2024-0627,2023-03-15,2024-07-20,Standard,1772,Home Office,USA,Stevenfurt,New Mexico,P3007,Office Supplies,Smartphones,Mouth Printer,312.79,3,3.74,414.62,Bank Transfer,Delivered
+5628,CA-2024-0628,2023-08-13,2023-03-15,Express,1598,Corporate,USA,Juliehaven,West Virginia,P3664,Office Supplies,Smartphones,Democratic Laptop,1279.83,5,19.15,1714.5,PayPal,In Transit
+5629,CA-2024-0629,2024-07-16,2023-06-30,Standard,1492,Consumer,USA,North Jennifer,North Dakota,P3080,Office Supplies,Tables,Staff Monitor,1250.55,2,7.2,2407.63,PayPal,Cancelled
+5630,CA-2024-0630,2023-12-07,2024-03-13,Standard,1028,Consumer,USA,Stewartview,Indiana,P3506,Furniture,Tables,Full Phone,614.81,5,6.16,1502.02,PayPal,Shipped
+5631,CA-2024-0631,2024-04-02,2023-08-24,Express,1149,Consumer,USA,North Cynthiaton,Indiana,P3736,Furniture,Tables,Hit Laptop,2111.22,2,15.13,773.77,PayPal,Cancelled
+5632,CA-2024-0632,2024-06-03,2023-09-30,Standard,1147,Home Office,USA,Lake Jacob,Ohio,P3947,Office Supplies,Laptops,Last Monitor,716.05,4,18.03,1582.95,PayPal,Shipped
+5633,CA-2024-0633,2023-07-28,2023-06-14,Standard,1075,Home Office,USA,Jessicastad,Alabama,P3063,Furniture,Printers,Feel Monitor,614.82,3,12.5,1190.68,Debit Card,In Transit
+5634,CA-2024-0634,2023-06-13,2024-08-07,Express,1079,Consumer,USA,Fullerbury,New Hampshire,P3074,Electronics,Laptops,Wide Printer,1449.59,1,19.0,2350.85,Debit Card,Shipped
+5635,CA-2024-0635,2023-07-02,2023-03-15,Express,1651,Home Office,USA,Walterstad,Hawaii,P3099,Electronics,Chairs,Market Monitor,2219.24,2,4.84,669.74,Credit Card,Delivered
+5636,CA-2024-0636,2024-08-06,2023-05-10,Standard,1874,Consumer,USA,Averyburgh,Maine,P3175,Electronics,Tables,Realize Desk,2385.62,3,0.31,2446.29,Bank Transfer,In Transit
+5637,CA-2024-0637,2025-01-31,2023-11-03,Express,1831,Consumer,USA,Masseyview,Alabama,P3731,Furniture,Smartphones,After Phone,1088.9,1,19.03,1444.02,Debit Card,Delivered
+5638,CA-2024-0638,2023-04-11,2023-04-18,Same Day,1629,Corporate,USA,South Jacobborough,Idaho,P3939,Electronics,Laptops,Maybe Phone,2326.55,4,19.8,92.7,Bank Transfer,Shipped
+5639,CA-2024-0639,2023-04-10,2023-03-10,Standard,1431,Home Office,USA,Christopherhaven,Ohio,P3157,Electronics,Tables,Tax Printer,953.33,2,19.36,914.68,Bank Transfer,Delivered
+5640,CA-2024-0640,2024-08-24,2023-10-02,Standard,1414,Corporate,USA,Laurashire,Washington,P3835,Office Supplies,Tables,At Monitor,2414.24,2,7.9,525.97,PayPal,In Transit
+5641,CA-2024-0641,2023-03-06,2023-12-21,Express,1501,Consumer,USA,Brentshire,Colorado,P3232,Furniture,Tables,Face Laptop,2315.46,3,7.36,185.99,PayPal,Shipped
+5642,CA-2024-0642,2024-05-18,2025-01-13,Express,1375,Home Office,USA,Cantuborough,Kansas,P3799,Office Supplies,Laptops,Since Desk,1912.82,3,5.0,61.13,Debit Card,Cancelled
+5643,CA-2024-0643,2023-09-11,2024-07-09,Express,1416,Corporate,USA,East Nicholasside,Idaho,P3242,Electronics,Chairs,System Phone,649.8,2,19.09,1451.93,Debit Card,Delivered
+5644,CA-2024-0644,2024-11-02,2024-03-25,Standard,1268,Consumer,USA,Bryanhaven,Arizona,P3639,Office Supplies,Laptops,Myself Laptop,225.71,4,3.99,2182.84,Debit Card,Delivered
+5645,CA-2024-0645,2023-12-31,2024-01-23,Express,1038,Corporate,USA,Brownland,South Carolina,P3509,Office Supplies,Laptops,Do Monitor,2100.39,1,18.17,1365.36,Bank Transfer,Cancelled
+5646,CA-2024-0646,2024-05-22,2023-12-31,Express,1183,Corporate,USA,Robersontown,Indiana,P3249,Office Supplies,Laptops,None Monitor,2134.72,2,17.66,1238.74,PayPal,Cancelled
+5647,CA-2024-0647,2023-10-21,2024-07-24,Standard,1007,Home Office,USA,Port Alexander,Wisconsin,P3313,Electronics,Printers,Analysis Printer,1215.43,4,19.94,1854.16,Debit Card,In Transit
+5648,CA-2024-0648,2023-06-26,2024-02-01,Express,1318,Consumer,USA,South Jasonburgh,Vermont,P3473,Electronics,Chairs,Beautiful Printer,2031.44,2,3.9,390.23,Bank Transfer,Shipped
+5649,CA-2024-0649,2024-07-04,2024-12-24,Express,1279,Home Office,USA,Lake James,Iowa,P3485,Furniture,Printers,Magazine Phone,559.34,4,5.04,1288.37,Debit Card,Shipped
+5650,CA-2024-0650,2024-10-30,2023-08-23,Standard,1459,Consumer,USA,East Cherylfurt,Wisconsin,P3494,Office Supplies,Laptops,Item Phone,1965.73,2,2.7,1363.9,PayPal,Delivered
+5651,CA-2024-0651,2024-01-20,2025-01-28,Express,1040,Home Office,USA,Wadeside,Idaho,P3158,Office Supplies,Tables,Every Monitor,2287.4,4,3.91,124.97,Debit Card,Cancelled
+5652,CA-2024-0652,2023-06-23,2024-06-07,Same Day,1877,Consumer,USA,West Jessica,Wyoming,P3988,Furniture,Chairs,Evening Printer,1643.58,5,13.68,132.28,Bank Transfer,Cancelled
+5653,CA-2024-0653,2024-10-15,2023-08-13,Express,1652,Home Office,USA,Christopherborough,New York,P3815,Furniture,Chairs,Who Laptop,1838.79,4,17.28,1621.15,Bank Transfer,Cancelled
+5654,CA-2024-0654,2024-07-16,2023-10-10,Express,1342,Corporate,USA,Alexaland,Alaska,P3946,Electronics,Tables,Area Monitor,1123.39,3,8.25,746.85,Debit Card,Shipped
+5655,CA-2024-0655,2023-08-01,2025-02-13,Same Day,1989,Home Office,USA,South Jamesside,Maryland,P3746,Office Supplies,Printers,Apply Phone,2173.27,2,16.1,621.87,PayPal,Cancelled
+5656,CA-2024-0656,2024-06-21,2024-11-24,Express,1494,Consumer,USA,Lake Lisaside,North Carolina,P3292,Furniture,Smartphones,Well Monitor,214.12,1,14.88,1841.57,PayPal,Shipped
+5657,CA-2024-0657,2023-09-18,2023-12-24,Express,1271,Consumer,USA,South Maryburgh,Arizona,P3906,Furniture,Chairs,Build Printer,1899.71,1,6.9,1931.04,Debit Card,In Transit
+5658,CA-2024-0658,2023-07-23,2023-04-24,Express,1536,Home Office,USA,New Thomas,North Carolina,P3207,Office Supplies,Printers,Billion Laptop,135.83,2,10.18,109.95,Bank Transfer,Delivered
+5659,CA-2024-0659,2023-05-29,2024-11-07,Standard,1566,Consumer,USA,Smithchester,Florida,P3981,Furniture,Printers,Throughout Monitor,829.43,4,17.28,2167.94,Bank Transfer,Shipped
+5660,CA-2024-0660,2023-04-01,2023-05-11,Same Day,1424,Corporate,USA,New James,New Hampshire,P3379,Office Supplies,Tables,Put Printer,2016.19,3,14.65,2383.33,Credit Card,Shipped
+5661,CA-2024-0661,2024-08-02,2023-07-24,Standard,1067,Corporate,USA,Danielleville,Colorado,P3778,Electronics,Tables,By Phone,1470.34,2,2.67,1685.84,Bank Transfer,In Transit
+5662,CA-2024-0662,2024-03-31,2024-04-05,Standard,1716,Home Office,USA,Brandonton,Mississippi,P3827,Electronics,Tables,Mind Monitor,1662.84,2,9.62,1523.24,Bank Transfer,Delivered
+5663,CA-2024-0663,2025-01-07,2024-11-12,Standard,1286,Corporate,USA,South Kyleside,Oklahoma,P3797,Electronics,Chairs,Himself Phone,2397.79,4,16.83,830.33,Bank Transfer,In Transit
+5664,CA-2024-0664,2023-05-04,2023-09-27,Express,1372,Corporate,USA,Aaronport,Montana,P3059,Electronics,Laptops,Science Monitor,1539.78,5,16.12,2257.45,Debit Card,Delivered
+5665,CA-2024-0665,2023-05-04,2024-03-27,Express,1500,Home Office,USA,South Paulmouth,Texas,P3788,Electronics,Tables,Back Laptop,1560.31,2,4.74,1858.35,PayPal,Cancelled
+5666,CA-2024-0666,2025-01-15,2023-06-01,Express,1088,Consumer,USA,Jordanshire,Rhode Island,P3764,Office Supplies,Smartphones,Everyone Phone,710.44,3,0.31,2167.29,Credit Card,Shipped
+5667,CA-2024-0667,2024-04-20,2023-12-04,Standard,1191,Home Office,USA,Turnerport,Maine,P3488,Furniture,Tables,Be Printer,844.11,5,4.41,1974.66,Credit Card,Cancelled
+5668,CA-2024-0668,2024-01-23,2024-09-22,Standard,1509,Home Office,USA,Malonefort,Utah,P3517,Electronics,Chairs,Blood Laptop,975.48,2,2.14,1646.49,Credit Card,Cancelled
+5669,CA-2024-0669,2023-05-29,2024-08-12,Standard,1860,Consumer,USA,East Mary,Virginia,P3616,Electronics,Laptops,Up Laptop,1124.52,1,16.1,722.07,Bank Transfer,Cancelled
+5670,CA-2024-0670,2024-06-21,2025-02-25,Standard,1744,Home Office,USA,Lake Kim,Washington,P3211,Electronics,Printers,Join Monitor,561.12,5,2.86,1359.1,Credit Card,Shipped
+5671,CA-2024-0671,2023-06-16,2024-09-22,Same Day,1033,Corporate,USA,Jessicafort,New Jersey,P3501,Furniture,Printers,Investment Desk,1796.0,3,9.18,2163.36,PayPal,Shipped
+5672,CA-2024-0672,2023-03-19,2023-08-22,Standard,1646,Home Office,USA,West Leah,Oregon,P3617,Furniture,Tables,Guess Printer,1698.16,4,19.82,2421.95,Credit Card,Delivered
+5673,CA-2024-0673,2023-05-30,2023-04-29,Express,1942,Corporate,USA,Barbaramouth,Ohio,P3666,Office Supplies,Smartphones,Surface Desk,724.16,4,12.78,1611.12,Bank Transfer,Cancelled
+5674,CA-2024-0674,2024-07-29,2024-05-28,Express,1287,Consumer,USA,Lowemouth,Hawaii,P3867,Office Supplies,Chairs,Draw Laptop,1059.64,1,11.85,401.91,PayPal,Shipped
+5675,CA-2024-0675,2023-06-09,2023-07-02,Standard,1081,Consumer,USA,South Jeffreyton,North Carolina,P3556,Electronics,Smartphones,Raise Desk,824.55,4,11.09,1890.28,Credit Card,Delivered
+5676,CA-2024-0676,2023-07-30,2023-08-14,Express,1259,Home Office,USA,New Melissa,Colorado,P3078,Furniture,Chairs,Loss Printer,91.05,1,18.49,1018.78,Bank Transfer,Cancelled
+5677,CA-2024-0677,2024-07-24,2024-07-29,Same Day,1655,Corporate,USA,South Ryan,Alabama,P3853,Electronics,Smartphones,Character Desk,2269.82,2,3.88,2364.21,Credit Card,Cancelled
+5678,CA-2024-0678,2024-10-04,2024-04-06,Express,1507,Consumer,USA,Lake Patricia,New Jersey,P3273,Electronics,Chairs,Pm Desk,2034.45,4,11.89,2493.26,Credit Card,Delivered
+5679,CA-2024-0679,2025-01-30,2023-12-11,Standard,1673,Home Office,USA,Keithborough,Utah,P3205,Electronics,Tables,Join Monitor,119.08,5,10.88,1951.42,Credit Card,Shipped
+5680,CA-2024-0680,2024-06-21,2023-09-09,Express,1092,Consumer,USA,Ambermouth,Florida,P3991,Office Supplies,Laptops,Speak Laptop,2208.66,2,0.53,2129.74,Bank Transfer,Delivered
+5681,CA-2024-0681,2024-08-08,2023-07-14,Express,1195,Consumer,USA,East Erikchester,Colorado,P3501,Furniture,Printers,Long Laptop,342.34,1,18.52,1652.0,PayPal,Delivered
+5682,CA-2024-0682,2025-01-29,2024-01-20,Same Day,1296,Consumer,USA,South Andrewfurt,Alabama,P3804,Office Supplies,Tables,Smile Printer,812.71,4,19.13,1157.27,PayPal,Delivered
+5683,CA-2024-0683,2025-02-02,2023-08-24,Same Day,1533,Home Office,USA,Hilltown,Massachusetts,P3281,Electronics,Smartphones,Exist Desk,398.8,4,6.79,322.79,Bank Transfer,Shipped
+5684,CA-2024-0684,2023-08-08,2024-11-12,Express,1596,Consumer,USA,Port Jamesmouth,Wyoming,P3335,Furniture,Chairs,Start Phone,1571.4,4,16.65,2403.25,PayPal,Cancelled
+5685,CA-2024-0685,2023-12-13,2024-03-04,Standard,1728,Consumer,USA,Zacharyshire,South Dakota,P3251,Electronics,Tables,Point Monitor,1813.25,3,14.8,462.23,PayPal,Cancelled
+5686,CA-2024-0686,2023-09-20,2023-06-12,Standard,1321,Consumer,USA,Gonzalezhaven,Nebraska,P3126,Office Supplies,Tables,Support Laptop,2229.56,1,15.1,1459.28,Bank Transfer,In Transit
+5687,CA-2024-0687,2024-01-11,2023-10-06,Express,1014,Home Office,USA,Lake Colleenview,Michigan,P3161,Office Supplies,Smartphones,Grow Phone,1217.98,1,17.08,2340.38,Credit Card,In Transit
+5688,CA-2024-0688,2023-04-06,2025-01-03,Express,1304,Home Office,USA,South Maryburgh,Pennsylvania,P3024,Office Supplies,Tables,Great Laptop,2347.9,3,14.97,1614.12,Debit Card,Cancelled
+5689,CA-2024-0689,2025-01-28,2023-10-10,Same Day,1583,Home Office,USA,North Meredith,Maryland,P3607,Office Supplies,Tables,Five Printer,1566.65,1,13.96,928.78,Credit Card,Delivered
+5690,CA-2024-0690,2024-06-27,2023-09-25,Standard,1433,Home Office,USA,Clarkestad,Maryland,P3939,Office Supplies,Laptops,Enjoy Monitor,914.0,3,9.26,414.02,PayPal,Delivered
+5691,CA-2024-0691,2023-04-25,2025-02-02,Same Day,1162,Consumer,USA,New Justin,Nevada,P3802,Office Supplies,Printers,He Monitor,1069.33,2,2.75,1747.58,Bank Transfer,In Transit
+5692,CA-2024-0692,2024-08-31,2023-04-19,Same Day,1800,Home Office,USA,Jenniferbury,Kentucky,P3403,Office Supplies,Smartphones,Should Desk,1514.36,1,10.18,2164.27,Credit Card,Delivered
+5693,CA-2024-0693,2023-09-20,2024-09-10,Express,1584,Corporate,USA,South Daniel,New Hampshire,P3830,Furniture,Printers,Loss Printer,1642.01,2,4.1,643.38,Credit Card,Delivered
+5694,CA-2024-0694,2023-10-13,2024-05-01,Standard,1580,Corporate,USA,West Toddland,Vermont,P3107,Office Supplies,Laptops,Read Monitor,389.99,5,2.7,1758.44,PayPal,In Transit
+5695,CA-2024-0695,2023-07-30,2023-04-14,Standard,1188,Home Office,USA,Lake Alejandro,Michigan,P3807,Furniture,Tables,Culture Monitor,2136.5,1,6.23,2353.15,Bank Transfer,In Transit
+5696,CA-2024-0696,2023-09-30,2023-08-11,Express,1936,Consumer,USA,Schneiderstad,Indiana,P3225,Furniture,Tables,East Laptop,1290.01,5,1.36,388.17,Debit Card,Shipped
+5697,CA-2024-0697,2023-10-15,2024-03-19,Standard,1622,Consumer,USA,Johnfort,Rhode Island,P3396,Electronics,Smartphones,General Desk,312.51,3,18.02,2343.75,Bank Transfer,Delivered
+5698,CA-2024-0698,2024-06-23,2024-09-20,Standard,1743,Home Office,USA,Patelstad,Tennessee,P3283,Office Supplies,Chairs,Southern Monitor,948.24,1,0.24,481.79,Bank Transfer,In Transit
+5699,CA-2024-0699,2023-07-05,2024-01-16,Express,1590,Corporate,USA,Lucasstad,Alabama,P3879,Electronics,Chairs,Teach Phone,1287.9,3,15.86,1810.66,Bank Transfer,In Transit
+5700,CA-2024-0700,2023-03-17,2023-05-18,Same Day,1367,Corporate,USA,South Tiffany,California,P3088,Furniture,Chairs,Heavy Desk,643.09,2,14.58,1693.58,PayPal,In Transit
+5701,CA-2024-0701,2023-03-17,2023-07-28,Standard,1385,Consumer,USA,New Cassandrafurt,Florida,P3576,Office Supplies,Laptops,Cut Laptop,1023.17,2,5.57,814.91,PayPal,Cancelled
+5702,CA-2024-0702,2023-08-30,2024-05-01,Standard,1540,Corporate,USA,Lake Kelliside,South Dakota,P3122,Office Supplies,Smartphones,Race Monitor,545.25,4,1.4,1335.02,Credit Card,In Transit
+5703,CA-2024-0703,2025-02-20,2024-11-23,Standard,1364,Corporate,USA,North Jacob,Massachusetts,P3052,Office Supplies,Smartphones,These Printer,1055.97,2,2.93,1301.5,Credit Card,Delivered
+5704,CA-2024-0704,2023-07-02,2024-06-20,Same Day,1688,Home Office,USA,North Laurie,Vermont,P3292,Furniture,Chairs,Well Laptop,1221.27,4,3.91,557.4,PayPal,Shipped
+5705,CA-2024-0705,2023-03-17,2024-02-07,Same Day,1770,Consumer,USA,Dillonmouth,Virginia,P3054,Office Supplies,Chairs,Society Desk,447.46,3,4.41,2042.87,Credit Card,Shipped
+5706,CA-2024-0706,2024-07-25,2024-10-19,Same Day,1591,Corporate,USA,East Johnside,Iowa,P3543,Electronics,Smartphones,Able Printer,1808.09,1,9.26,1583.41,PayPal,In Transit
+5707,CA-2024-0707,2024-12-21,2024-08-27,Standard,1781,Home Office,USA,North Amber,Delaware,P3406,Electronics,Chairs,Can Laptop,1233.21,4,8.41,777.12,Bank Transfer,In Transit
+5708,CA-2024-0708,2023-08-18,2024-08-06,Express,1282,Corporate,USA,Cowanchester,West Virginia,P3032,Furniture,Laptops,Away Monitor,1618.31,4,3.64,776.97,Debit Card,In Transit
+5709,CA-2024-0709,2023-07-28,2024-05-11,Same Day,1335,Home Office,USA,Lake Rickymouth,Idaho,P3234,Office Supplies,Laptops,And Printer,543.96,5,8.64,1301.09,Debit Card,Cancelled
+5710,CA-2024-0710,2024-11-16,2023-09-24,Express,1854,Corporate,USA,South Cesarfort,Maryland,P3974,Office Supplies,Laptops,Who Monitor,2236.86,5,17.96,1307.81,PayPal,Shipped
+5711,CA-2024-0711,2024-06-10,2024-03-17,Standard,1538,Home Office,USA,Lake Kimberly,Nebraska,P3766,Electronics,Smartphones,Thus Printer,204.35,1,3.28,1041.27,Debit Card,Delivered
+5712,CA-2024-0712,2025-01-29,2023-11-30,Same Day,1345,Consumer,USA,Andreatown,Wisconsin,P3436,Furniture,Chairs,Argue Printer,555.04,3,15.1,2188.45,Debit Card,Shipped
+5713,CA-2024-0713,2025-02-13,2024-08-05,Same Day,1543,Home Office,USA,Phillipsport,Hawaii,P3463,Office Supplies,Tables,Growth Phone,1624.21,4,17.21,1560.01,PayPal,Cancelled
+5714,CA-2024-0714,2025-02-20,2023-09-25,Standard,1526,Home Office,USA,Jeremyborough,Missouri,P3128,Electronics,Chairs,Rise Laptop,2097.67,2,17.42,2286.45,Credit Card,Shipped
+5715,CA-2024-0715,2023-07-04,2023-06-18,Express,1851,Home Office,USA,West Deanland,Connecticut,P3991,Furniture,Printers,Coach Phone,1309.3,2,10.82,2235.91,Debit Card,Delivered
+5716,CA-2024-0716,2024-01-31,2023-12-07,Same Day,1012,Home Office,USA,South Stephanie,Kansas,P3996,Furniture,Chairs,Bank Desk,1912.14,5,19.98,1799.49,Bank Transfer,In Transit
+5717,CA-2024-0717,2023-03-02,2023-12-08,Standard,1120,Corporate,USA,Hallfurt,Michigan,P3739,Office Supplies,Smartphones,Sit Desk,2435.93,3,12.96,1694.24,Bank Transfer,Shipped
+5718,CA-2024-0718,2024-01-10,2023-05-12,Standard,1434,Home Office,USA,East Monicahaven,Hawaii,P3097,Electronics,Smartphones,Face Monitor,2267.11,4,9.19,1307.51,Bank Transfer,Shipped
+5719,CA-2024-0719,2024-06-23,2023-08-10,Standard,1226,Home Office,USA,New Paul,Georgia,P3590,Furniture,Laptops,Idea Printer,727.68,3,16.77,1785.81,Bank Transfer,In Transit
+5720,CA-2024-0720,2024-10-04,2024-08-22,Standard,1426,Consumer,USA,South Christinabury,Hawaii,P3900,Electronics,Chairs,Debate Printer,1403.96,3,9.85,1083.69,Debit Card,Shipped
+5721,CA-2024-0721,2024-11-25,2024-02-28,Standard,1105,Consumer,USA,Port Jerryport,Wyoming,P3392,Furniture,Laptops,Theory Printer,985.4,5,1.09,1964.1,Credit Card,Cancelled
+5722,CA-2024-0722,2024-01-23,2023-08-16,Same Day,1558,Home Office,USA,South Lori,Virginia,P3802,Office Supplies,Chairs,Begin Desk,325.57,2,7.73,997.93,Credit Card,In Transit
+5723,CA-2024-0723,2023-03-31,2023-03-31,Standard,1151,Corporate,USA,Kingside,South Carolina,P3583,Office Supplies,Tables,Professional Laptop,610.19,3,2.16,1112.89,Credit Card,Delivered
+5724,CA-2024-0724,2023-05-29,2024-12-08,Standard,1322,Home Office,USA,Port Andrea,Alaska,P3264,Office Supplies,Chairs,Drop Printer,1492.83,4,14.98,588.48,Credit Card,Shipped
+5725,CA-2024-0725,2024-04-03,2023-10-06,Express,1242,Consumer,USA,North Tami,Rhode Island,P3883,Electronics,Laptops,Listen Laptop,2118.98,4,11.77,2418.97,Debit Card,In Transit
+5726,CA-2024-0726,2024-04-05,2024-12-21,Standard,1693,Consumer,USA,Brianville,New York,P3765,Furniture,Chairs,News Laptop,2182.68,4,11.16,1152.19,Debit Card,In Transit
+5727,CA-2024-0727,2023-04-26,2024-05-09,Same Day,1228,Consumer,USA,Dixontown,Georgia,P3527,Office Supplies,Printers,Carry Desk,1878.43,1,10.56,197.83,Debit Card,Delivered
+5728,CA-2024-0728,2023-11-14,2023-09-27,Standard,1456,Corporate,USA,Bowmanfurt,North Carolina,P3630,Office Supplies,Smartphones,Bag Phone,65.91,4,11.52,83.99,Credit Card,Shipped
+5729,CA-2024-0729,2024-03-07,2023-07-21,Same Day,1041,Consumer,USA,West William,Mississippi,P3146,Office Supplies,Smartphones,Tough Laptop,966.92,2,13.49,354.93,PayPal,Delivered
+5730,CA-2024-0730,2023-03-03,2023-05-11,Standard,1410,Home Office,USA,Port Isaac,Indiana,P3020,Office Supplies,Chairs,Change Phone,1171.12,2,16.72,1771.04,Credit Card,Delivered
+5731,CA-2024-0731,2024-07-01,2024-07-25,Express,1998,Consumer,USA,West Adammouth,Nebraska,P3496,Electronics,Chairs,White Phone,2397.87,3,13.66,1185.22,PayPal,Shipped
+5732,CA-2024-0732,2024-12-09,2024-10-24,Standard,1890,Home Office,USA,Christopherview,Massachusetts,P3689,Electronics,Printers,Manage Phone,986.69,4,14.1,59.92,PayPal,Cancelled
+5733,CA-2024-0733,2023-06-24,2024-04-01,Express,1930,Home Office,USA,Bruceland,South Dakota,P3421,Furniture,Chairs,Center Monitor,1290.52,4,3.6,2302.45,Debit Card,Shipped
+5734,CA-2024-0734,2023-09-17,2024-12-16,Same Day,1603,Home Office,USA,Hobbshaven,Utah,P3317,Furniture,Tables,Live Laptop,1371.09,5,15.12,326.75,Bank Transfer,Delivered
+5735,CA-2024-0735,2024-03-15,2024-02-20,Same Day,1709,Consumer,USA,East Deborah,Pennsylvania,P3870,Office Supplies,Printers,Thank Monitor,1325.39,3,9.09,579.96,Bank Transfer,Cancelled
+5736,CA-2024-0736,2024-09-24,2024-09-29,Standard,1231,Corporate,USA,Lake Jennifer,Pennsylvania,P3734,Office Supplies,Laptops,Life Monitor,1684.84,5,13.23,2089.95,Debit Card,Delivered
+5737,CA-2024-0737,2024-05-14,2023-06-16,Standard,1031,Corporate,USA,East William,Michigan,P3325,Furniture,Printers,Various Laptop,2398.87,4,1.51,136.53,Credit Card,In Transit
+5738,CA-2024-0738,2024-01-19,2025-01-28,Same Day,1001,Home Office,USA,Josephborough,Virginia,P3112,Electronics,Chairs,Life Desk,1763.09,2,0.34,1472.43,Bank Transfer,In Transit
+5739,CA-2024-0739,2024-04-27,2023-07-20,Same Day,1805,Consumer,USA,Gonzalezview,Missouri,P3694,Electronics,Laptops,After Laptop,1891.82,1,7.26,1864.22,Bank Transfer,Shipped
+5740,CA-2024-0740,2023-06-29,2024-04-29,Express,1886,Home Office,USA,Lake Christine,Wisconsin,P3066,Furniture,Chairs,Indeed Monitor,526.83,1,10.64,1819.07,Credit Card,Delivered
+5741,CA-2024-0741,2023-09-02,2024-06-21,Express,1459,Home Office,USA,East Loriville,Virginia,P3785,Furniture,Chairs,Open Monitor,933.01,4,14.36,123.82,Credit Card,Shipped
+5742,CA-2024-0742,2024-03-14,2023-05-08,Standard,1109,Home Office,USA,Davismouth,Tennessee,P3908,Office Supplies,Laptops,Take Laptop,2041.68,2,4.51,217.25,Credit Card,Delivered
+5743,CA-2024-0743,2024-03-06,2024-03-26,Standard,1438,Home Office,USA,Lake David,Montana,P3340,Electronics,Printers,Apply Printer,162.43,5,5.52,2064.72,Debit Card,Shipped
+5744,CA-2024-0744,2024-04-19,2024-05-08,Express,1394,Consumer,USA,Carriehaven,Alaska,P3794,Furniture,Printers,Civil Laptop,243.31,4,17.78,1897.35,Bank Transfer,In Transit
+5745,CA-2024-0745,2023-08-21,2025-02-08,Same Day,1191,Corporate,USA,Davidview,Delaware,P3696,Furniture,Printers,Result Laptop,2203.18,5,10.52,994.32,Bank Transfer,Cancelled
+5746,CA-2024-0746,2023-10-23,2023-10-15,Same Day,1801,Corporate,USA,Christianchester,Florida,P3101,Office Supplies,Printers,History Monitor,2091.13,2,18.38,1909.71,Bank Transfer,Shipped
+5747,CA-2024-0747,2023-10-16,2024-10-23,Express,1335,Consumer,USA,Thomasbury,Rhode Island,P3889,Furniture,Printers,Call Desk,1734.16,1,18.08,492.03,PayPal,Shipped
+5748,CA-2024-0748,2024-03-29,2024-08-05,Same Day,1231,Corporate,USA,Port Sarahville,Vermont,P3916,Office Supplies,Smartphones,Wind Laptop,2488.67,3,8.87,340.8,Debit Card,Delivered
+5749,CA-2024-0749,2025-01-11,2024-12-27,Standard,2000,Home Office,USA,Port Michaelmouth,Washington,P3399,Electronics,Chairs,True Phone,492.64,3,14.44,1920.32,PayPal,Shipped
+5750,CA-2024-0750,2024-02-25,2023-11-25,Standard,1717,Corporate,USA,Stephaniemouth,Iowa,P3222,Furniture,Smartphones,Remain Desk,2489.14,3,3.99,2207.84,PayPal,Shipped
+5751,CA-2024-0751,2024-12-01,2023-12-25,Standard,1471,Consumer,USA,Jasonview,Washington,P3795,Furniture,Printers,Early Phone,910.58,5,7.87,2416.56,Credit Card,Cancelled
+5752,CA-2024-0752,2024-04-22,2024-05-17,Express,1181,Corporate,USA,West Christie,Tennessee,P3189,Electronics,Tables,Democrat Phone,426.9,4,3.76,1805.79,Bank Transfer,Shipped
+5753,CA-2024-0753,2024-01-27,2025-02-24,Standard,1297,Home Office,USA,Sheltontown,Kansas,P3730,Furniture,Printers,Once Monitor,944.02,1,4.48,692.06,Credit Card,Cancelled
+5754,CA-2024-0754,2023-05-14,2024-08-13,Same Day,1901,Home Office,USA,North Julie,Utah,P3406,Furniture,Laptops,Major Laptop,1955.69,4,5.2,1421.15,PayPal,Cancelled
+5755,CA-2024-0755,2024-06-20,2023-06-27,Standard,1284,Home Office,USA,Mccoymouth,South Dakota,P3082,Furniture,Chairs,Government Phone,1046.46,5,17.62,2483.51,Debit Card,Delivered
+5756,CA-2024-0756,2023-05-15,2023-11-18,Standard,1594,Home Office,USA,Amybury,Pennsylvania,P3592,Electronics,Chairs,Data Laptop,2351.92,3,14.82,734.54,PayPal,Shipped
+5757,CA-2024-0757,2024-04-03,2025-02-19,Standard,1384,Home Office,USA,North Brandonton,Ohio,P3082,Electronics,Printers,Away Printer,2160.19,2,18.11,78.04,Bank Transfer,In Transit
+5758,CA-2024-0758,2023-07-18,2024-12-04,Standard,1837,Consumer,USA,Karenfurt,Illinois,P3855,Electronics,Chairs,Likely Laptop,764.57,5,15.04,2182.73,PayPal,Shipped
+5759,CA-2024-0759,2025-01-16,2023-04-11,Express,1906,Corporate,USA,Ryanland,New Hampshire,P3011,Electronics,Smartphones,Third Laptop,2062.13,4,5.24,932.05,Credit Card,In Transit
+5760,CA-2024-0760,2023-12-08,2023-10-20,Express,1612,Corporate,USA,Jaimeland,Oregon,P3018,Furniture,Chairs,Necessary Phone,358.95,1,9.7,1117.06,Bank Transfer,Shipped
+5761,CA-2024-0761,2024-01-07,2023-08-09,Express,1552,Home Office,USA,Nielsenfurt,Pennsylvania,P3431,Electronics,Chairs,Different Monitor,2232.6,4,10.27,2248.72,Credit Card,Shipped
+5762,CA-2024-0762,2023-11-16,2025-01-11,Express,1500,Home Office,USA,North Victoriaton,Iowa,P3524,Furniture,Laptops,By Monitor,119.56,1,13.8,2259.47,PayPal,Delivered
+5763,CA-2024-0763,2023-05-05,2024-08-02,Standard,1864,Corporate,USA,West Michaelstad,New Mexico,P3586,Electronics,Chairs,Plant Printer,1693.71,5,17.33,137.91,Credit Card,Delivered
+5764,CA-2024-0764,2023-04-07,2023-11-04,Standard,1630,Home Office,USA,North Brandy,Iowa,P3730,Electronics,Smartphones,Dinner Laptop,795.47,5,10.35,1475.04,Debit Card,In Transit
+5765,CA-2024-0765,2025-02-15,2023-06-28,Standard,1247,Corporate,USA,Port Kelly,Connecticut,P3045,Furniture,Laptops,Like Phone,660.05,4,11.09,2242.34,PayPal,Delivered
+5766,CA-2024-0766,2024-08-06,2023-05-20,Standard,1481,Corporate,USA,East Tyler,Maryland,P3612,Office Supplies,Laptops,Hospital Laptop,1405.46,4,13.2,2485.1,PayPal,Shipped
+5767,CA-2024-0767,2024-09-25,2024-04-15,Express,1973,Corporate,USA,North Keith,Florida,P3341,Office Supplies,Printers,Tree Phone,660.52,3,3.04,2354.11,Credit Card,Cancelled
+5768,CA-2024-0768,2024-03-25,2023-10-14,Standard,1123,Consumer,USA,Sherritown,Wisconsin,P3518,Electronics,Tables,However Monitor,1952.84,2,12.67,862.07,Bank Transfer,Shipped
+5769,CA-2024-0769,2023-06-22,2024-11-16,Express,1311,Consumer,USA,Kylestad,Georgia,P3777,Office Supplies,Laptops,Religious Monitor,461.29,4,8.39,1139.27,Bank Transfer,Shipped
+5770,CA-2024-0770,2024-10-08,2025-01-06,Standard,1100,Home Office,USA,Millerside,Ohio,P3075,Electronics,Tables,Note Laptop,1644.0,5,9.67,1354.68,PayPal,Cancelled
+5771,CA-2024-0771,2023-12-05,2023-11-22,Standard,1569,Home Office,USA,West Douglas,South Dakota,P3143,Furniture,Printers,Glass Phone,2220.33,2,13.08,784.43,PayPal,Delivered
+5772,CA-2024-0772,2023-03-17,2023-12-29,Same Day,1024,Consumer,USA,Lake Thomas,Illinois,P3253,Office Supplies,Smartphones,Series Printer,517.37,3,1.49,1179.42,Credit Card,In Transit
+5773,CA-2024-0773,2024-06-24,2024-04-10,Standard,1793,Home Office,USA,North Emilymouth,Wyoming,P3596,Furniture,Printers,Represent Phone,2284.89,1,18.26,167.09,Debit Card,In Transit
+5774,CA-2024-0774,2024-07-16,2024-04-28,Express,1162,Consumer,USA,Scottton,Michigan,P3561,Furniture,Chairs,Try Desk,1463.14,3,18.65,1859.82,PayPal,Cancelled
+5775,CA-2024-0775,2025-01-28,2024-09-10,Standard,1152,Corporate,USA,North Rachelville,Arizona,P3143,Office Supplies,Tables,Bill Laptop,703.29,4,0.27,1414.27,PayPal,Cancelled
+5776,CA-2024-0776,2025-01-31,2023-04-21,Standard,1878,Home Office,USA,Devintown,Mississippi,P3910,Furniture,Tables,Common Phone,299.25,1,8.94,1399.61,PayPal,Cancelled
+5777,CA-2024-0777,2024-12-17,2024-04-21,Same Day,1940,Corporate,USA,Lanceport,Texas,P3289,Office Supplies,Printers,Throughout Laptop,1115.22,2,16.21,923.68,Debit Card,Shipped
+5778,CA-2024-0778,2024-03-31,2023-06-19,Standard,1328,Home Office,USA,Benjaminhaven,California,P3989,Electronics,Printers,Risk Monitor,724.33,5,16.03,564.97,Credit Card,Shipped
+5779,CA-2024-0779,2023-11-20,2023-08-05,Express,1835,Corporate,USA,East Ashley,Wyoming,P3670,Electronics,Tables,Economic Laptop,830.69,1,5.67,1079.56,Debit Card,Shipped
+5780,CA-2024-0780,2023-09-16,2024-07-11,Standard,1328,Corporate,USA,Harperport,Tennessee,P3883,Electronics,Laptops,Light Laptop,313.91,5,16.8,2253.99,PayPal,Delivered
+5781,CA-2024-0781,2023-03-16,2024-06-23,Same Day,1115,Corporate,USA,Barkerview,Indiana,P3019,Furniture,Printers,Risk Desk,1859.37,5,1.08,1122.38,Debit Card,Cancelled
+5782,CA-2024-0782,2024-06-11,2023-07-05,Standard,1556,Home Office,USA,Kevinborough,Michigan,P3070,Electronics,Chairs,Off Phone,1488.37,5,1.51,1949.11,Credit Card,Delivered
+5783,CA-2024-0783,2024-03-09,2024-11-18,Express,1725,Home Office,USA,Gregburgh,Tennessee,P3902,Electronics,Tables,Sister Phone,57.66,1,14.71,1365.82,Credit Card,In Transit
+5784,CA-2024-0784,2023-08-17,2024-03-12,Express,1102,Home Office,USA,New Kevinview,Rhode Island,P3462,Office Supplies,Tables,Ahead Printer,856.72,5,17.96,1901.42,Credit Card,In Transit
+5785,CA-2024-0785,2025-02-10,2023-07-01,Same Day,1122,Consumer,USA,Lake Karen,Nebraska,P3260,Electronics,Chairs,Assume Printer,2457.85,2,12.6,1086.43,Credit Card,In Transit
+5786,CA-2024-0786,2024-07-21,2024-09-30,Express,1066,Home Office,USA,East Melissa,West Virginia,P3533,Electronics,Printers,Once Laptop,1697.2,1,11.71,208.63,PayPal,Shipped
+5787,CA-2024-0787,2024-04-07,2024-11-04,Express,1971,Consumer,USA,East Davidchester,Delaware,P3499,Furniture,Laptops,Only Desk,2095.17,4,11.61,2288.49,PayPal,Delivered
+5788,CA-2024-0788,2023-04-03,2023-06-09,Standard,1270,Corporate,USA,East Erica,Nebraska,P3323,Office Supplies,Smartphones,Recently Phone,1714.64,3,16.32,1088.59,Credit Card,Cancelled
+5789,CA-2024-0789,2023-05-15,2024-03-21,Standard,1121,Home Office,USA,Port Eugene,Utah,P3461,Electronics,Laptops,Garden Desk,1132.44,4,19.05,966.31,Debit Card,Shipped
+5790,CA-2024-0790,2023-07-03,2024-02-03,Express,1935,Home Office,USA,Kathrynburgh,Delaware,P3429,Furniture,Chairs,Probably Desk,919.81,5,2.33,1763.92,Bank Transfer,Shipped
+5791,CA-2024-0791,2025-01-08,2023-05-30,Same Day,1682,Corporate,USA,West Angela,North Dakota,P3461,Furniture,Laptops,Subject Phone,596.25,5,4.0,1335.65,Credit Card,In Transit
+5792,CA-2024-0792,2023-12-02,2023-07-04,Same Day,1414,Home Office,USA,South Holly,Tennessee,P3612,Electronics,Tables,Put Monitor,897.85,3,6.33,1113.22,Credit Card,In Transit
+5793,CA-2024-0793,2024-02-20,2024-07-27,Same Day,1138,Consumer,USA,Lake Theresa,Minnesota,P3440,Furniture,Chairs,Blue Laptop,1769.43,2,0.01,2320.79,PayPal,Shipped
+5794,CA-2024-0794,2024-07-03,2023-04-11,Express,1569,Home Office,USA,East Russell,Kansas,P3350,Furniture,Smartphones,Address Printer,1348.5,4,12.71,1938.28,Debit Card,Shipped
+5795,CA-2024-0795,2024-02-05,2024-03-03,Standard,1689,Consumer,USA,New Sandraville,West Virginia,P3828,Office Supplies,Printers,South Desk,1013.16,2,12.28,2308.56,Debit Card,Delivered
+5796,CA-2024-0796,2023-03-10,2024-05-24,Standard,1127,Corporate,USA,North Debraport,Kentucky,P3564,Furniture,Tables,Wear Monitor,2072.68,5,16.73,2359.59,Bank Transfer,In Transit
+5797,CA-2024-0797,2023-09-06,2024-12-20,Same Day,1679,Consumer,USA,Lake Rebeccastad,New Mexico,P3619,Electronics,Tables,Without Desk,1919.06,5,1.19,1584.32,Credit Card,In Transit
+5798,CA-2024-0798,2024-03-17,2023-04-25,Same Day,1154,Corporate,USA,South Joshuamouth,Iowa,P3759,Office Supplies,Chairs,Brother Laptop,2182.64,1,19.54,1630.54,Debit Card,Shipped
+5799,CA-2024-0799,2024-12-27,2023-03-24,Standard,1667,Corporate,USA,New Keithview,Connecticut,P3765,Furniture,Printers,Safe Phone,1984.9,3,18.65,1167.86,Debit Card,Shipped
+5800,CA-2024-0800,2024-04-10,2024-04-17,Same Day,1418,Corporate,USA,New Bethtown,Kentucky,P3597,Office Supplies,Printers,Source Laptop,2328.89,1,5.65,2164.08,Credit Card,Shipped
+5801,CA-2024-0801,2023-10-07,2023-08-07,Same Day,1648,Consumer,USA,West Megan,Maryland,P3310,Office Supplies,Printers,Middle Laptop,786.79,1,10.56,1028.63,Debit Card,In Transit
+5802,CA-2024-0802,2023-09-12,2025-01-02,Standard,1649,Corporate,USA,North Nicholasfort,South Dakota,P3076,Office Supplies,Chairs,Involve Laptop,321.01,2,2.17,658.03,Credit Card,Delivered
+5803,CA-2024-0803,2023-09-01,2024-10-29,Express,1838,Corporate,USA,Port Rebecca,North Carolina,P3877,Furniture,Chairs,Weight Phone,1257.92,4,10.05,2346.41,Bank Transfer,Cancelled
+5804,CA-2024-0804,2024-05-26,2024-04-06,Standard,1150,Home Office,USA,Lake Darylton,Washington,P3170,Office Supplies,Laptops,Bill Phone,1365.69,3,5.64,1500.78,PayPal,In Transit
+5805,CA-2024-0805,2024-02-23,2024-05-07,Express,1306,Home Office,USA,Josephville,Arizona,P3674,Furniture,Tables,Strategy Monitor,1599.98,1,18.19,1863.3,Bank Transfer,Cancelled
+5806,CA-2024-0806,2024-02-04,2024-03-23,Express,1213,Consumer,USA,Elizabethstad,Oregon,P3725,Electronics,Chairs,Writer Laptop,2331.01,1,5.88,409.94,Credit Card,In Transit
+5807,CA-2024-0807,2023-03-17,2024-05-24,Standard,1189,Consumer,USA,Riggsshire,New Mexico,P3249,Electronics,Chairs,Responsibility Monitor,2171.22,3,8.69,202.47,PayPal,In Transit
+5808,CA-2024-0808,2024-09-01,2024-03-08,Same Day,1100,Corporate,USA,Port Lisaland,Vermont,P3461,Furniture,Printers,Either Phone,887.31,1,2.2,589.65,Bank Transfer,Delivered
+5809,CA-2024-0809,2023-12-19,2024-02-17,Standard,1922,Corporate,USA,Lake Rhondaborough,Iowa,P3922,Furniture,Printers,Leg Desk,2447.19,4,16.2,721.75,Credit Card,Shipped
+5810,CA-2024-0810,2023-08-22,2023-04-12,Express,1571,Home Office,USA,East Adambury,Massachusetts,P3952,Furniture,Tables,Possible Printer,2238.1,2,4.75,1822.54,Credit Card,Shipped
+5811,CA-2024-0811,2025-01-22,2024-05-20,Same Day,1791,Corporate,USA,Maryport,Alaska,P3498,Office Supplies,Chairs,Catch Monitor,572.94,5,4.2,1667.11,Debit Card,Shipped
+5812,CA-2024-0812,2024-02-17,2023-04-04,Standard,1600,Home Office,USA,East Davidchester,Missouri,P3296,Office Supplies,Chairs,Degree Phone,755.31,5,10.2,1515.97,Debit Card,In Transit
+5813,CA-2024-0813,2024-04-03,2024-02-17,Same Day,1559,Home Office,USA,Stacystad,Michigan,P3789,Electronics,Smartphones,Outside Phone,985.47,4,16.99,2036.37,Credit Card,In Transit
+5814,CA-2024-0814,2023-06-30,2024-08-31,Express,1631,Consumer,USA,Port Jason,Alaska,P3097,Office Supplies,Printers,Power Desk,654.44,3,5.61,1051.37,PayPal,Shipped
+5815,CA-2024-0815,2023-05-24,2024-01-04,Same Day,1200,Home Office,USA,Martinfurt,Ohio,P3723,Furniture,Smartphones,Decide Laptop,459.43,3,13.48,894.78,Credit Card,In Transit
+5816,CA-2024-0816,2023-09-19,2024-04-16,Standard,1173,Home Office,USA,New Laurenshire,West Virginia,P3376,Electronics,Chairs,Standard Desk,1173.21,2,17.68,1786.43,Debit Card,Shipped
+5817,CA-2024-0817,2025-01-01,2024-06-21,Same Day,1910,Corporate,USA,North Stephanieport,Hawaii,P3068,Electronics,Printers,Land Laptop,376.04,2,0.5,652.7,Debit Card,In Transit
+5818,CA-2024-0818,2023-10-19,2024-04-30,Standard,1868,Corporate,USA,Tylerfort,Louisiana,P3560,Office Supplies,Printers,Table Monitor,944.59,5,4.44,1795.99,Credit Card,Shipped
+5819,CA-2024-0819,2023-10-21,2024-05-08,Standard,1794,Home Office,USA,East Jorgefurt,Delaware,P3036,Office Supplies,Tables,Wrong Desk,2411.28,4,0.26,1729.58,PayPal,Cancelled
+5820,CA-2024-0820,2023-05-02,2024-01-23,Same Day,1498,Home Office,USA,Benjaminfurt,Pennsylvania,P3941,Furniture,Laptops,Kind Desk,1951.28,2,7.17,991.18,Bank Transfer,Cancelled
+5821,CA-2024-0821,2024-03-31,2023-04-15,Same Day,1774,Consumer,USA,West Melanie,Virginia,P3122,Electronics,Tables,Worker Printer,370.6,3,13.01,1536.43,Credit Card,In Transit
+5822,CA-2024-0822,2024-02-26,2025-02-01,Standard,1848,Corporate,USA,Lucasmouth,Oregon,P3714,Electronics,Smartphones,Year Desk,670.04,2,12.1,1175.37,Credit Card,In Transit
+5823,CA-2024-0823,2023-08-02,2023-10-21,Same Day,1083,Home Office,USA,Brentborough,North Carolina,P3228,Office Supplies,Chairs,Party Printer,765.07,3,19.24,509.01,Debit Card,Cancelled
+5824,CA-2024-0824,2023-09-25,2024-03-10,Same Day,1404,Consumer,USA,Lake Natalie,California,P3512,Electronics,Smartphones,Natural Laptop,2291.13,5,18.78,1290.85,Credit Card,Delivered
+5825,CA-2024-0825,2024-03-03,2025-02-25,Express,1130,Home Office,USA,South Jerryburgh,New Mexico,P3763,Furniture,Tables,Herself Laptop,228.56,2,6.36,463.48,Credit Card,Cancelled
+5826,CA-2024-0826,2024-06-24,2024-01-20,Standard,1161,Corporate,USA,East Amanda,Delaware,P3940,Electronics,Printers,Surface Phone,70.53,3,17.69,964.18,Credit Card,In Transit
+5827,CA-2024-0827,2025-02-24,2025-02-10,Standard,1488,Corporate,USA,Jessicafort,Arkansas,P3118,Electronics,Tables,Tonight Printer,2349.91,5,11.26,449.87,Credit Card,Cancelled
+5828,CA-2024-0828,2025-02-18,2024-11-28,Standard,1262,Corporate,USA,Lindashire,Washington,P3186,Electronics,Tables,Small Printer,475.65,1,4.91,255.47,PayPal,Cancelled
+5829,CA-2024-0829,2024-05-19,2024-02-08,Express,1092,Home Office,USA,Kellyberg,Michigan,P3181,Office Supplies,Smartphones,Commercial Laptop,194.18,1,12.71,198.14,Credit Card,Shipped
+5830,CA-2024-0830,2024-03-02,2023-09-30,Same Day,1252,Consumer,USA,Ricardoborough,Indiana,P3385,Electronics,Printers,Camera Phone,131.1,1,19.83,2084.22,Bank Transfer,In Transit
+5831,CA-2024-0831,2023-05-23,2023-10-26,Same Day,1645,Home Office,USA,Allenborough,Rhode Island,P3582,Furniture,Smartphones,Material Printer,723.25,3,17.74,645.4,PayPal,In Transit
+5832,CA-2024-0832,2023-05-13,2025-02-05,Standard,1468,Home Office,USA,Novakland,Maryland,P3427,Office Supplies,Tables,Involve Printer,404.88,3,6.44,1404.91,Bank Transfer,Shipped
+5833,CA-2024-0833,2025-02-03,2024-06-10,Standard,1505,Consumer,USA,Nicolebury,Vermont,P3571,Electronics,Smartphones,Analysis Laptop,675.47,5,19.09,570.89,Credit Card,Cancelled
+5834,CA-2024-0834,2023-04-28,2023-11-16,Same Day,1515,Corporate,USA,North Melissamouth,Michigan,P3915,Furniture,Laptops,Financial Printer,2011.61,5,14.83,2085.49,Bank Transfer,Delivered
+5835,CA-2024-0835,2024-10-05,2024-05-16,Standard,1895,Corporate,USA,Housebury,North Dakota,P3421,Office Supplies,Laptops,Course Monitor,560.77,1,5.67,2456.67,Credit Card,In Transit
+5836,CA-2024-0836,2023-04-21,2024-03-06,Express,1080,Corporate,USA,East Richardchester,Indiana,P3006,Furniture,Printers,Box Desk,2165.43,2,1.44,267.7,Bank Transfer,In Transit
+5837,CA-2024-0837,2024-10-14,2025-02-26,Same Day,1178,Home Office,USA,West Margaret,Alaska,P3458,Electronics,Chairs,South Monitor,2179.84,5,9.88,211.35,Bank Transfer,Delivered
+5838,CA-2024-0838,2025-01-30,2024-06-21,Standard,1701,Consumer,USA,Chambersfurt,Pennsylvania,P3519,Furniture,Smartphones,Stock Phone,85.9,2,18.9,939.49,Credit Card,Delivered
+5839,CA-2024-0839,2024-02-28,2024-11-20,Standard,1521,Consumer,USA,Kimberlyborough,Ohio,P3612,Furniture,Printers,Evening Phone,209.69,2,18.68,1597.53,Debit Card,Delivered
+5840,CA-2024-0840,2023-10-23,2024-05-09,Express,1780,Home Office,USA,Port Scott,Hawaii,P3728,Furniture,Laptops,Case Monitor,2015.86,2,13.53,1947.34,Credit Card,Delivered
+5841,CA-2024-0841,2023-03-07,2024-08-28,Standard,1695,Consumer,USA,Taylorberg,West Virginia,P3206,Office Supplies,Laptops,Theory Phone,2034.18,4,14.62,1983.68,Debit Card,Cancelled
+5842,CA-2024-0842,2024-04-12,2024-03-08,Same Day,1794,Corporate,USA,North Edwardberg,Colorado,P3001,Electronics,Chairs,Either Laptop,2410.02,2,1.96,92.81,Bank Transfer,In Transit
+5843,CA-2024-0843,2024-09-03,2023-11-27,Same Day,1157,Corporate,USA,Edwardport,Colorado,P3451,Furniture,Smartphones,Center Laptop,2499.76,3,2.99,1955.0,Credit Card,In Transit
+5844,CA-2024-0844,2023-06-08,2024-10-30,Standard,1107,Consumer,USA,East Lisaborough,Georgia,P3225,Furniture,Smartphones,Loss Phone,2034.32,4,9.65,335.35,Bank Transfer,In Transit
+5845,CA-2024-0845,2025-02-07,2023-09-10,Standard,1250,Consumer,USA,North Timothy,Washington,P3797,Office Supplies,Tables,Class Laptop,2129.18,3,16.54,391.16,Bank Transfer,Delivered
+5846,CA-2024-0846,2025-01-14,2024-01-22,Standard,1227,Consumer,USA,Lambertborough,Indiana,P3501,Office Supplies,Tables,Believe Desk,172.16,5,18.6,2013.04,Bank Transfer,Shipped
+5847,CA-2024-0847,2024-04-26,2024-07-22,Express,1487,Consumer,USA,Kellyland,Wisconsin,P3044,Electronics,Laptops,Science Laptop,98.58,4,9.71,2356.32,PayPal,In Transit
+5848,CA-2024-0848,2024-11-07,2023-12-02,Express,1280,Corporate,USA,Zamorafort,Hawaii,P3242,Furniture,Printers,Just Monitor,334.28,1,5.97,551.62,PayPal,Shipped
+5849,CA-2024-0849,2023-06-17,2023-05-24,Express,1788,Consumer,USA,East Anthonyhaven,Texas,P3557,Furniture,Tables,Fear Desk,1263.32,4,18.13,1760.44,Debit Card,Cancelled
+5850,CA-2024-0850,2024-11-13,2024-09-12,Standard,1327,Home Office,USA,Amandamouth,Wyoming,P3778,Office Supplies,Chairs,Available Printer,864.18,5,7.06,107.48,Debit Card,Delivered
+5851,CA-2024-0851,2023-06-25,2024-09-26,Standard,1723,Corporate,USA,Lake Stacyview,Maryland,P3426,Furniture,Tables,Add Phone,76.15,2,5.52,2168.31,Bank Transfer,In Transit
+5852,CA-2024-0852,2023-09-16,2023-07-25,Express,1420,Home Office,USA,Rebeccahaven,Missouri,P3767,Office Supplies,Chairs,Later Desk,2471.79,3,2.77,145.83,PayPal,Delivered
+5853,CA-2024-0853,2024-03-08,2024-12-26,Express,1949,Consumer,USA,Lake James,New York,P3930,Furniture,Laptops,Nothing Monitor,1167.97,3,6.73,130.71,Bank Transfer,Cancelled
+5854,CA-2024-0854,2023-09-15,2023-03-24,Express,1746,Home Office,USA,Lake Seth,Minnesota,P3274,Office Supplies,Chairs,Bill Monitor,775.8,4,12.3,907.59,PayPal,Delivered
+5855,CA-2024-0855,2024-02-24,2024-04-06,Express,1730,Consumer,USA,Christopherville,North Dakota,P3786,Office Supplies,Printers,Teacher Desk,2267.99,1,15.47,2214.8,PayPal,Delivered
+5856,CA-2024-0856,2025-02-26,2024-10-03,Same Day,1292,Corporate,USA,Judithmouth,Rhode Island,P3698,Furniture,Tables,She Monitor,1914.29,1,17.16,919.25,Bank Transfer,In Transit
+5857,CA-2024-0857,2023-10-08,2024-03-21,Same Day,1507,Consumer,USA,North Lorifort,Arizona,P3047,Electronics,Laptops,Pattern Monitor,793.23,5,13.13,1053.06,Bank Transfer,Shipped
+5858,CA-2024-0858,2024-11-25,2023-12-10,Express,1928,Home Office,USA,New Julieton,Kansas,P3777,Office Supplies,Printers,Force Monitor,1499.16,2,15.82,471.07,Debit Card,Cancelled
+5859,CA-2024-0859,2024-09-01,2023-05-18,Express,1534,Consumer,USA,Adamstown,Virginia,P3230,Office Supplies,Chairs,Alone Desk,979.86,3,11.87,1243.12,Debit Card,Delivered
+5860,CA-2024-0860,2023-10-16,2023-07-15,Express,1640,Consumer,USA,Ashleyville,Maryland,P3902,Office Supplies,Chairs,Control Printer,702.23,4,7.97,2418.21,Bank Transfer,Cancelled
+5861,CA-2024-0861,2023-03-13,2025-01-19,Same Day,1240,Consumer,USA,Deanmouth,Connecticut,P3991,Office Supplies,Tables,Attorney Monitor,571.34,1,7.23,222.25,Bank Transfer,Shipped
+5862,CA-2024-0862,2023-10-21,2024-06-11,Same Day,1066,Home Office,USA,Christineshire,New Hampshire,P3646,Electronics,Chairs,Gun Desk,1359.6,3,2.08,151.83,Bank Transfer,In Transit
+5863,CA-2024-0863,2024-08-17,2023-11-11,Express,1862,Home Office,USA,West Sylvialand,South Dakota,P3006,Furniture,Laptops,Recently Desk,185.81,5,9.96,2164.89,Debit Card,Delivered
+5864,CA-2024-0864,2023-07-17,2023-11-20,Standard,1056,Corporate,USA,Brandonville,Arkansas,P3432,Electronics,Chairs,Answer Desk,690.38,2,16.07,750.35,Bank Transfer,Cancelled
+5865,CA-2024-0865,2023-06-24,2024-05-14,Express,1169,Consumer,USA,Hughesstad,South Dakota,P3994,Office Supplies,Printers,Some Phone,1074.13,5,12.59,2294.02,Bank Transfer,Shipped
+5866,CA-2024-0866,2025-02-22,2024-09-11,Same Day,1675,Corporate,USA,North Katelyn,Alaska,P3474,Furniture,Chairs,Body Phone,1073.73,4,2.82,1511.71,Bank Transfer,Delivered
+5867,CA-2024-0867,2024-02-04,2023-07-07,Express,1722,Home Office,USA,Millerstad,Rhode Island,P3272,Office Supplies,Tables,Father Printer,1754.67,2,16.11,2429.82,Debit Card,In Transit
+5868,CA-2024-0868,2023-11-14,2023-12-18,Standard,1590,Consumer,USA,Lake Michaelchester,Arizona,P3012,Furniture,Laptops,Country Monitor,1989.19,5,13.86,2145.97,Bank Transfer,Shipped
+5869,CA-2024-0869,2023-11-07,2024-10-22,Same Day,1367,Home Office,USA,Arianafurt,Rhode Island,P3890,Office Supplies,Tables,Dinner Monitor,2360.11,2,12.65,1998.8,Debit Card,Shipped
+5870,CA-2024-0870,2023-03-02,2023-03-27,Express,1482,Home Office,USA,South Pamelaberg,Arizona,P3930,Electronics,Laptops,Perform Desk,2392.72,3,0.82,2425.61,Debit Card,Shipped
+5871,CA-2024-0871,2024-05-01,2024-05-31,Same Day,1170,Corporate,USA,Mcfarlandport,South Dakota,P3186,Electronics,Smartphones,Buy Laptop,646.8,3,11.14,728.51,Credit Card,Delivered
+5872,CA-2024-0872,2023-10-18,2024-09-21,Standard,1001,Home Office,USA,Manuelside,Oklahoma,P3755,Furniture,Tables,Force Printer,2428.84,4,2.52,1983.26,Debit Card,Shipped
+5873,CA-2024-0873,2023-03-31,2023-04-18,Express,1084,Consumer,USA,Phamfurt,Michigan,P3301,Electronics,Chairs,Address Monitor,920.88,4,3.36,1987.54,Bank Transfer,Shipped
+5874,CA-2024-0874,2023-11-17,2024-05-19,Express,1391,Consumer,USA,Jessicamouth,Massachusetts,P3484,Electronics,Laptops,Dinner Monitor,2370.37,2,2.59,628.79,Debit Card,Delivered
+5875,CA-2024-0875,2025-01-23,2024-05-09,Express,1600,Consumer,USA,Port Anthony,Iowa,P3804,Furniture,Chairs,Laugh Desk,71.66,5,18.9,1808.64,Bank Transfer,Shipped
+5876,CA-2024-0876,2024-01-25,2025-01-27,Standard,1699,Home Office,USA,Port Patriciashire,Mississippi,P3117,Office Supplies,Tables,Red Desk,723.6,1,12.89,866.44,Credit Card,In Transit
+5877,CA-2024-0877,2024-01-08,2023-08-11,Standard,1470,Home Office,USA,Morrisstad,Michigan,P3024,Furniture,Smartphones,Than Printer,1043.97,2,1.75,518.54,PayPal,In Transit
+5878,CA-2024-0878,2024-07-01,2023-04-22,Standard,1561,Home Office,USA,East David,South Dakota,P3035,Furniture,Printers,Performance Phone,327.69,2,14.64,267.5,Debit Card,Shipped
+5879,CA-2024-0879,2023-07-31,2024-08-01,Same Day,1969,Consumer,USA,Aprilmouth,Oklahoma,P3816,Office Supplies,Smartphones,Green Laptop,1083.56,4,7.54,2209.35,Debit Card,Delivered
+5880,CA-2024-0880,2023-03-30,2023-11-08,Same Day,1002,Home Office,USA,Danaborough,Georgia,P3794,Electronics,Laptops,Control Desk,638.49,5,17.06,100.13,Bank Transfer,Shipped
+5881,CA-2024-0881,2023-06-21,2023-12-12,Express,1743,Home Office,USA,Anthonyshire,Michigan,P3620,Electronics,Tables,Either Phone,93.7,2,16.05,2494.93,Debit Card,Cancelled
+5882,CA-2024-0882,2024-06-14,2024-09-21,Express,1261,Home Office,USA,Angelview,Colorado,P3365,Office Supplies,Smartphones,Language Phone,1874.88,2,11.3,868.08,PayPal,Delivered
+5883,CA-2024-0883,2023-07-20,2024-12-19,Standard,1079,Home Office,USA,Port Rachelview,Louisiana,P3939,Office Supplies,Chairs,International Desk,2413.53,5,1.96,945.24,Credit Card,In Transit
+5884,CA-2024-0884,2025-02-13,2024-07-10,Standard,1273,Consumer,USA,West Jamesview,Kansas,P3556,Furniture,Tables,Fear Laptop,547.81,1,18.1,1961.58,PayPal,Delivered
+5885,CA-2024-0885,2024-06-18,2023-06-30,Standard,1410,Home Office,USA,West Nicholas,North Carolina,P3232,Office Supplies,Chairs,Cold Phone,2049.48,1,9.82,2140.1,Credit Card,In Transit
+5886,CA-2024-0886,2023-07-18,2024-11-03,Express,1842,Corporate,USA,Randyport,Wyoming,P3070,Office Supplies,Chairs,Interest Phone,1908.32,3,0.18,1735.34,Credit Card,In Transit
+5887,CA-2024-0887,2023-07-21,2024-02-09,Same Day,1628,Consumer,USA,Monteston,Delaware,P3182,Furniture,Tables,Evening Phone,1470.93,3,12.01,2193.04,Debit Card,Delivered
+5888,CA-2024-0888,2023-09-26,2024-04-27,Express,1996,Home Office,USA,Seanville,Kansas,P3690,Electronics,Chairs,Provide Laptop,71.53,5,14.02,2181.63,Debit Card,Cancelled
+5889,CA-2024-0889,2024-10-25,2023-03-18,Express,1675,Corporate,USA,West Matthewmouth,Washington,P3479,Office Supplies,Tables,Turn Monitor,873.8,1,12.93,1839.11,Bank Transfer,Cancelled
+5890,CA-2024-0890,2024-08-26,2023-10-19,Same Day,1034,Corporate,USA,Kennedyborough,Nevada,P3654,Furniture,Smartphones,Throughout Printer,2406.97,1,10.84,2488.42,PayPal,Shipped
+5891,CA-2024-0891,2023-12-23,2023-09-25,Same Day,1801,Home Office,USA,Welchville,Georgia,P3988,Electronics,Chairs,Question Phone,2122.94,4,0.73,616.69,PayPal,Cancelled
+5892,CA-2024-0892,2023-03-26,2025-02-14,Standard,1130,Consumer,USA,South Jenniferstad,Minnesota,P3021,Office Supplies,Laptops,Inside Desk,822.61,3,2.58,1215.35,Bank Transfer,Cancelled
+5893,CA-2024-0893,2024-09-03,2023-11-18,Express,1902,Consumer,USA,East Staceyshire,North Carolina,P3474,Office Supplies,Chairs,Mission Printer,1953.65,4,2.94,132.6,Bank Transfer,Delivered
+5894,CA-2024-0894,2024-09-02,2024-10-22,Standard,1088,Corporate,USA,West Christine,Wyoming,P3502,Electronics,Smartphones,Two Desk,1330.35,5,3.85,2343.94,PayPal,Cancelled
+5895,CA-2024-0895,2024-05-15,2023-07-11,Same Day,1963,Home Office,USA,Port Christopher,Massachusetts,P3663,Office Supplies,Tables,Community Laptop,482.46,5,1.8,966.24,PayPal,Delivered
+5896,CA-2024-0896,2024-08-16,2024-01-14,Standard,1024,Consumer,USA,New Timbury,Virginia,P3078,Electronics,Smartphones,Trouble Laptop,473.07,3,0.29,2387.89,PayPal,Shipped
+5897,CA-2024-0897,2024-09-01,2023-12-30,Same Day,1464,Corporate,USA,Paulberg,Massachusetts,P3877,Furniture,Printers,Outside Desk,1598.62,2,2.53,1919.39,PayPal,In Transit
+5898,CA-2024-0898,2024-10-09,2023-08-11,Same Day,1226,Consumer,USA,Chrischester,Alabama,P3958,Electronics,Chairs,Seven Desk,2323.28,5,11.81,217.23,Debit Card,Cancelled
+5899,CA-2024-0899,2024-11-07,2023-11-28,Same Day,1844,Home Office,USA,Dixonbury,Alabama,P3684,Office Supplies,Printers,Suffer Desk,2370.46,5,4.85,2402.55,Bank Transfer,Shipped
+5900,CA-2024-0900,2023-03-19,2024-02-18,Express,1136,Consumer,USA,Wilsonfurt,Florida,P3461,Electronics,Chairs,Possible Laptop,1315.54,4,18.95,530.75,Bank Transfer,In Transit
+5901,CA-2024-0901,2024-03-05,2023-10-02,Standard,1363,Consumer,USA,Jessicachester,Pennsylvania,P3828,Furniture,Smartphones,Able Laptop,293.75,4,14.23,665.99,Bank Transfer,Cancelled
+5902,CA-2024-0902,2023-04-28,2024-06-25,Same Day,1895,Consumer,USA,Adamview,New York,P3580,Office Supplies,Chairs,Message Printer,1278.54,2,1.18,195.4,PayPal,In Transit
+5903,CA-2024-0903,2024-06-21,2023-10-07,Same Day,1442,Consumer,USA,Frostchester,Arkansas,P3507,Office Supplies,Laptops,Even Phone,740.97,2,18.17,1376.01,PayPal,Shipped
+5904,CA-2024-0904,2023-07-29,2023-09-08,Same Day,1605,Consumer,USA,Andrewsberg,Wisconsin,P3082,Electronics,Tables,Learn Printer,509.42,2,15.11,1385.17,Debit Card,Cancelled
+5905,CA-2024-0905,2024-12-13,2024-01-18,Express,1668,Home Office,USA,Nicoleburgh,Maine,P3894,Furniture,Laptops,Top Printer,569.1,1,15.74,432.96,Credit Card,In Transit
+5906,CA-2024-0906,2024-02-05,2023-03-14,Same Day,1048,Corporate,USA,New Pamela,Oregon,P3640,Electronics,Printers,Truth Phone,2408.87,1,5.57,2447.18,Debit Card,In Transit
+5907,CA-2024-0907,2023-03-17,2024-09-18,Same Day,1276,Consumer,USA,Marissaton,Florida,P3008,Electronics,Printers,During Phone,1191.14,5,6.08,1137.83,Bank Transfer,Cancelled
+5908,CA-2024-0908,2023-07-25,2024-02-02,Same Day,1459,Corporate,USA,East Robert,North Dakota,P3242,Electronics,Chairs,First Desk,422.96,2,18.78,279.55,Bank Transfer,In Transit
+5909,CA-2024-0909,2024-10-01,2024-08-29,Standard,1132,Corporate,USA,Michaelbury,Idaho,P3421,Office Supplies,Printers,Film Printer,129.74,3,7.81,975.5,Debit Card,Shipped
+5910,CA-2024-0910,2023-09-08,2024-11-08,Express,1218,Corporate,USA,Jamestown,Kentucky,P3835,Office Supplies,Smartphones,Man Printer,1637.01,2,3.14,2274.7,Credit Card,Cancelled
+5911,CA-2024-0911,2024-12-08,2023-10-06,Same Day,1877,Corporate,USA,Stephaniefort,Nevada,P3413,Furniture,Tables,Service Phone,469.41,5,11.77,1281.89,Credit Card,Delivered
+5912,CA-2024-0912,2023-06-24,2024-10-28,Same Day,1430,Home Office,USA,North Bonnieport,Louisiana,P3230,Furniture,Tables,Yes Monitor,1680.39,3,2.65,2162.96,Bank Transfer,Cancelled
+5913,CA-2024-0913,2023-05-03,2024-07-05,Express,1139,Consumer,USA,Angelafurt,Massachusetts,P3167,Office Supplies,Laptops,Employee Phone,1388.34,4,14.5,1900.09,PayPal,Cancelled
+5914,CA-2024-0914,2023-04-04,2023-03-29,Standard,1986,Home Office,USA,East Paul,Florida,P3415,Electronics,Smartphones,Cold Printer,607.95,5,10.68,1056.56,Bank Transfer,In Transit
+5915,CA-2024-0915,2024-05-11,2023-07-21,Same Day,1450,Corporate,USA,Heatherchester,Nevada,P3111,Furniture,Chairs,Deep Printer,1749.06,1,7.26,2360.2,Bank Transfer,Delivered
+5916,CA-2024-0916,2023-03-20,2023-04-03,Same Day,2000,Corporate,USA,Ashleytown,Maine,P3715,Office Supplies,Laptops,Keep Monitor,491.77,4,14.22,2318.62,PayPal,Delivered
+5917,CA-2024-0917,2024-07-27,2023-11-30,Same Day,1562,Consumer,USA,Woodston,Montana,P3368,Furniture,Printers,Still Desk,1366.73,2,10.04,1480.89,Debit Card,In Transit
+5918,CA-2024-0918,2023-11-01,2023-09-20,Standard,1586,Corporate,USA,West Kevinberg,Utah,P3953,Electronics,Smartphones,Power Desk,1603.0,1,11.85,249.18,Bank Transfer,Delivered
+5919,CA-2024-0919,2023-09-23,2024-10-27,Same Day,1992,Corporate,USA,South Kellieburgh,Virginia,P3757,Furniture,Chairs,Win Desk,2025.37,4,15.13,1847.44,Debit Card,Delivered
+5920,CA-2024-0920,2023-03-28,2023-04-19,Same Day,1057,Home Office,USA,Lake Douglasshire,North Carolina,P3428,Office Supplies,Tables,Newspaper Monitor,1098.58,5,7.26,2459.65,PayPal,In Transit
+5921,CA-2024-0921,2025-01-06,2024-10-06,Same Day,1836,Home Office,USA,Port Carrie,Pennsylvania,P3018,Furniture,Tables,Full Monitor,2259.93,1,4.79,962.71,Debit Card,Delivered
+5922,CA-2024-0922,2025-02-21,2024-06-12,Same Day,1397,Home Office,USA,Hillstad,South Dakota,P3931,Furniture,Laptops,Coach Printer,2037.01,5,7.44,1304.24,Credit Card,Cancelled
+5923,CA-2024-0923,2025-01-22,2024-06-21,Standard,1601,Home Office,USA,West Lydia,Florida,P3441,Electronics,Tables,Within Laptop,2114.61,4,0.33,220.79,PayPal,Cancelled
+5924,CA-2024-0924,2024-05-10,2024-11-17,Same Day,1297,Corporate,USA,Rogersport,Washington,P3380,Office Supplies,Laptops,Six Desk,1739.61,5,18.69,82.18,Credit Card,Shipped
+5925,CA-2024-0925,2025-01-02,2024-08-31,Same Day,1207,Corporate,USA,Deborahland,Arizona,P3135,Electronics,Printers,Past Laptop,831.38,1,0.14,455.09,Debit Card,Cancelled
+5926,CA-2024-0926,2024-08-05,2023-05-06,Express,1774,Consumer,USA,East Robert,West Virginia,P3336,Furniture,Tables,Interview Desk,1115.13,5,8.96,868.52,Credit Card,Shipped
+5927,CA-2024-0927,2024-04-23,2024-01-13,Express,1894,Consumer,USA,Kevinside,Alaska,P3078,Furniture,Laptops,Change Printer,2130.1,3,13.43,202.23,Bank Transfer,Cancelled
+5928,CA-2024-0928,2023-05-08,2024-02-02,Same Day,1010,Consumer,USA,Hudsonhaven,Georgia,P3791,Electronics,Smartphones,Remember Desk,2045.97,2,19.14,566.17,Credit Card,Cancelled
+5929,CA-2024-0929,2024-08-20,2023-10-30,Express,1104,Home Office,USA,Burgessbury,Arizona,P3172,Office Supplies,Laptops,Gun Laptop,985.74,2,6.86,1800.31,Bank Transfer,Shipped
+5930,CA-2024-0930,2024-11-06,2024-10-09,Standard,1629,Home Office,USA,Abigailberg,Minnesota,P3585,Furniture,Chairs,Senior Printer,1586.34,4,3.59,1012.67,Credit Card,In Transit
+5931,CA-2024-0931,2024-04-15,2024-12-06,Express,1949,Consumer,USA,Alexanderburgh,Michigan,P3193,Furniture,Printers,Reduce Desk,1857.33,1,6.23,2026.55,Bank Transfer,In Transit
+5932,CA-2024-0932,2024-07-21,2024-04-22,Express,1585,Corporate,USA,Michaelland,Idaho,P3440,Office Supplies,Chairs,Huge Desk,782.82,1,6.6,176.16,Debit Card,Cancelled
+5933,CA-2024-0933,2024-07-10,2023-03-04,Same Day,1072,Consumer,USA,New Chelsea,California,P3883,Office Supplies,Tables,Study Monitor,2356.87,3,1.12,627.28,PayPal,In Transit
+5934,CA-2024-0934,2023-11-25,2023-11-14,Express,1619,Corporate,USA,East Colleenland,Florida,P3731,Furniture,Tables,Subject Phone,1961.35,5,12.27,2023.76,PayPal,Shipped
+5935,CA-2024-0935,2023-05-01,2023-08-17,Same Day,1532,Corporate,USA,South Jermainemouth,Pennsylvania,P3773,Furniture,Printers,Community Printer,1831.75,2,17.55,1099.43,Credit Card,Shipped
+5936,CA-2024-0936,2023-08-19,2024-07-04,Express,1876,Home Office,USA,North Lisaburgh,Kansas,P3148,Electronics,Tables,Energy Printer,1096.66,5,10.72,1387.93,Credit Card,Delivered
+5937,CA-2024-0937,2023-03-16,2023-07-19,Same Day,1481,Home Office,USA,Riveraton,New Mexico,P3607,Office Supplies,Laptops,Population Printer,420.8,1,1.36,1565.31,PayPal,In Transit
+5938,CA-2024-0938,2023-11-23,2023-10-12,Express,1414,Consumer,USA,Chapmanview,Iowa,P3287,Furniture,Smartphones,Politics Phone,82.62,2,14.58,2106.8,PayPal,In Transit
+5939,CA-2024-0939,2023-04-15,2023-08-06,Same Day,1441,Consumer,USA,Port Ericport,Connecticut,P3810,Electronics,Printers,Believe Phone,850.21,5,12.3,2070.17,Bank Transfer,Delivered
+5940,CA-2024-0940,2024-02-27,2023-10-12,Same Day,1126,Home Office,USA,Collierfurt,Massachusetts,P3363,Office Supplies,Tables,Edge Desk,1045.2,2,13.58,1667.65,Credit Card,Delivered
+5941,CA-2024-0941,2023-07-11,2024-08-25,Standard,1086,Corporate,USA,Jamesmouth,Vermont,P3790,Furniture,Tables,Western Desk,1073.28,3,11.59,1451.61,Bank Transfer,Cancelled
+5942,CA-2024-0942,2023-05-04,2025-01-19,Same Day,1477,Consumer,USA,East Julia,Kansas,P3733,Furniture,Printers,After Printer,1456.61,5,13.55,1660.87,PayPal,Shipped
+5943,CA-2024-0943,2023-05-01,2023-10-24,Standard,1287,Corporate,USA,Copelandburgh,Arizona,P3710,Electronics,Smartphones,Quickly Phone,1176.37,2,10.28,153.01,Credit Card,Shipped
+5944,CA-2024-0944,2024-11-02,2023-10-23,Standard,1015,Corporate,USA,Victoriamouth,Texas,P3728,Furniture,Chairs,Our Laptop,1669.67,2,5.23,1766.64,Bank Transfer,Delivered
+5945,CA-2024-0945,2025-01-14,2024-06-15,Same Day,1149,Corporate,USA,West Erin,Nevada,P3911,Office Supplies,Printers,Current Laptop,519.28,3,9.72,987.38,Debit Card,Shipped
+5946,CA-2024-0946,2024-06-26,2023-12-28,Express,1529,Corporate,USA,Timothytown,Florida,P3590,Office Supplies,Chairs,Have Desk,362.36,2,15.15,803.83,Bank Transfer,Delivered
+5947,CA-2024-0947,2023-10-12,2023-11-22,Standard,1782,Corporate,USA,East Joshuachester,Wisconsin,P3498,Furniture,Chairs,Watch Monitor,1082.17,4,18.29,1582.25,Bank Transfer,Delivered
+5948,CA-2024-0948,2024-04-17,2024-03-02,Standard,1163,Home Office,USA,Port Tracey,Kansas,P3935,Electronics,Chairs,Article Desk,2285.75,4,7.12,1494.55,Debit Card,Delivered
+5949,CA-2024-0949,2024-11-30,2023-09-04,Express,1979,Home Office,USA,New Melissa,Kansas,P3509,Electronics,Chairs,Laugh Desk,547.78,5,10.18,1033.85,PayPal,Delivered
+5950,CA-2024-0950,2024-04-27,2023-12-05,Same Day,1015,Home Office,USA,Julieville,California,P3589,Office Supplies,Chairs,Manage Desk,210.35,1,14.02,2083.4,Credit Card,Shipped
+5951,CA-2024-0951,2023-03-16,2023-08-13,Express,1299,Corporate,USA,Port Isaac,Pennsylvania,P3257,Furniture,Chairs,Tough Laptop,570.74,4,17.82,597.23,Debit Card,Delivered
+5952,CA-2024-0952,2023-05-14,2023-11-17,Same Day,1799,Corporate,USA,Lake Tamaramouth,New Hampshire,P3650,Office Supplies,Printers,Would Phone,399.01,1,0.85,1408.89,Bank Transfer,In Transit
+5953,CA-2024-0953,2024-08-17,2023-10-23,Express,1059,Home Office,USA,Garciashire,Minnesota,P3942,Furniture,Smartphones,West Desk,2108.74,4,13.54,1968.78,Debit Card,Cancelled
+5954,CA-2024-0954,2024-05-28,2024-04-14,Express,1021,Corporate,USA,Jaredhaven,Kansas,P3359,Electronics,Laptops,Sure Desk,2169.88,5,3.38,978.25,PayPal,Cancelled
+5955,CA-2024-0955,2024-03-01,2024-03-09,Same Day,1199,Corporate,USA,Bennettbury,Missouri,P3214,Furniture,Chairs,Lose Monitor,274.83,3,2.06,1160.07,PayPal,Delivered
+5956,CA-2024-0956,2024-12-06,2025-01-27,Standard,1777,Corporate,USA,Davisport,Illinois,P3194,Office Supplies,Tables,Tv Monitor,1571.85,5,2.63,1743.99,Debit Card,Delivered
+5957,CA-2024-0957,2025-01-02,2024-03-28,Same Day,1324,Home Office,USA,Robersonstad,Oklahoma,P3917,Office Supplies,Printers,Point Desk,1700.29,2,3.75,2044.49,Debit Card,In Transit
+5958,CA-2024-0958,2024-01-26,2023-10-05,Standard,1144,Home Office,USA,Port Danielside,Oregon,P3877,Electronics,Printers,They Desk,2372.11,5,14.63,900.89,Debit Card,In Transit
+5959,CA-2024-0959,2024-03-01,2024-08-17,Same Day,1451,Corporate,USA,Adamsport,Kansas,P3535,Electronics,Printers,World Phone,1443.79,4,15.1,1048.63,PayPal,Cancelled
+5960,CA-2024-0960,2023-08-03,2024-08-23,Same Day,1788,Corporate,USA,East Rebeccafurt,Virginia,P3193,Office Supplies,Printers,Area Printer,982.95,1,12.64,1223.98,Bank Transfer,Cancelled
+5961,CA-2024-0961,2023-09-29,2024-09-10,Same Day,1300,Consumer,USA,Johnsonhaven,Idaho,P3920,Electronics,Laptops,Admit Laptop,1890.82,5,0.56,901.63,Bank Transfer,Shipped
+5962,CA-2024-0962,2024-05-21,2024-04-27,Same Day,1350,Home Office,USA,South Brandy,Kansas,P3631,Office Supplies,Tables,Life Phone,55.03,1,3.68,169.11,Credit Card,Shipped
+5963,CA-2024-0963,2023-10-07,2023-04-07,Standard,1747,Corporate,USA,Port Ronaldchester,Utah,P3214,Furniture,Laptops,Partner Phone,218.68,3,19.98,1681.56,Credit Card,In Transit
+5964,CA-2024-0964,2023-05-29,2024-01-20,Same Day,1300,Corporate,USA,New Aaron,Idaho,P3387,Furniture,Laptops,Sometimes Printer,405.76,3,8.38,2431.0,Bank Transfer,In Transit
+5965,CA-2024-0965,2024-03-24,2025-01-16,Same Day,1629,Home Office,USA,East Danahaven,Wisconsin,P3441,Office Supplies,Chairs,Kitchen Printer,918.95,5,2.54,1349.46,Bank Transfer,Delivered
+5966,CA-2024-0966,2023-05-02,2023-05-01,Standard,1069,Consumer,USA,Allenhaven,Nebraska,P3093,Furniture,Smartphones,Yeah Phone,2087.24,2,17.8,869.18,Debit Card,In Transit
+5967,CA-2024-0967,2024-03-13,2024-10-29,Same Day,1682,Home Office,USA,Port Jillside,Virginia,P3931,Office Supplies,Printers,List Monitor,2310.93,1,7.88,302.91,Debit Card,Shipped
+5968,CA-2024-0968,2023-11-11,2023-06-01,Express,1662,Consumer,USA,Danielstad,North Carolina,P3263,Furniture,Laptops,Hope Desk,1940.96,5,8.04,1763.16,Bank Transfer,Cancelled
+5969,CA-2024-0969,2024-03-10,2024-11-13,Same Day,1902,Corporate,USA,North Aaron,Virginia,P3984,Furniture,Smartphones,Young Laptop,1714.51,3,10.91,831.76,Debit Card,In Transit
+5970,CA-2024-0970,2025-01-15,2024-05-13,Standard,1675,Corporate,USA,South James,North Carolina,P3965,Furniture,Tables,Give Phone,191.39,5,1.51,398.69,PayPal,Cancelled
+5971,CA-2024-0971,2023-05-30,2023-09-12,Same Day,1095,Corporate,USA,North Brenda,Washington,P3586,Office Supplies,Tables,Pattern Laptop,985.18,1,10.2,516.89,Bank Transfer,Cancelled
+5972,CA-2024-0972,2024-12-27,2023-07-02,Express,1935,Home Office,USA,East Carlabury,North Dakota,P3090,Electronics,Chairs,Understand Printer,1619.35,4,14.06,2131.79,Debit Card,In Transit
+5973,CA-2024-0973,2025-02-08,2023-03-21,Standard,1609,Corporate,USA,West Kevin,Iowa,P3055,Furniture,Smartphones,Above Monitor,1959.71,1,8.29,1024.51,Bank Transfer,Shipped
+5974,CA-2024-0974,2023-10-11,2024-01-19,Same Day,1493,Home Office,USA,Pageberg,Maine,P3536,Electronics,Chairs,Owner Desk,1022.54,2,7.57,638.45,Bank Transfer,Shipped
+5975,CA-2024-0975,2023-07-15,2023-10-26,Express,1747,Corporate,USA,Stacieburgh,Iowa,P3009,Electronics,Tables,Happen Printer,1836.23,1,11.65,1112.18,Bank Transfer,Cancelled
+5976,CA-2024-0976,2024-03-27,2023-10-12,Standard,1872,Corporate,USA,Paulaton,Vermont,P3236,Office Supplies,Chairs,Lot Printer,416.93,3,16.47,1295.17,Bank Transfer,In Transit
+5977,CA-2024-0977,2024-02-17,2024-01-24,Standard,1188,Home Office,USA,Mclaughlinfort,Wisconsin,P3651,Furniture,Tables,Area Monitor,554.28,4,19.19,498.74,PayPal,Cancelled
+5978,CA-2024-0978,2024-01-02,2024-05-17,Standard,1039,Consumer,USA,Lake Erica,North Carolina,P3483,Office Supplies,Chairs,Model Printer,1305.27,4,3.23,89.57,Credit Card,Delivered
+5979,CA-2024-0979,2024-09-08,2023-05-23,Express,1220,Corporate,USA,Murraybury,Oregon,P3335,Electronics,Tables,Animal Monitor,2364.62,4,0.62,2450.52,Credit Card,Delivered
+5980,CA-2024-0980,2024-11-04,2024-12-08,Express,1727,Consumer,USA,South Jonathan,Arizona,P3755,Office Supplies,Smartphones,Hour Monitor,2261.04,1,8.01,773.41,Credit Card,In Transit
+5981,CA-2024-0981,2024-03-16,2024-07-25,Express,1019,Consumer,USA,Rossville,Indiana,P3669,Furniture,Tables,Since Monitor,732.08,3,0.13,385.38,Bank Transfer,Shipped
+5982,CA-2024-0982,2023-05-19,2024-01-10,Same Day,1928,Consumer,USA,Mosesburgh,Arizona,P3853,Furniture,Tables,Himself Desk,2432.05,5,6.51,1431.16,PayPal,Cancelled
+5983,CA-2024-0983,2023-05-01,2024-12-23,Express,1092,Consumer,USA,Christon,Alaska,P3289,Electronics,Laptops,Watch Desk,1307.58,4,18.34,2033.4,Debit Card,Cancelled
+5984,CA-2024-0984,2025-01-07,2024-06-30,Standard,1299,Consumer,USA,Lake Frankside,New Jersey,P3903,Office Supplies,Printers,Dream Monitor,1115.19,2,6.89,1617.62,PayPal,In Transit
+5985,CA-2024-0985,2024-04-23,2024-08-16,Express,1471,Consumer,USA,South Daniel,Montana,P3455,Furniture,Printers,Company Monitor,1584.05,2,16.2,1538.95,Credit Card,In Transit
+5986,CA-2024-0986,2024-02-04,2025-01-26,Standard,1340,Corporate,USA,Lake Eduardofurt,Massachusetts,P3136,Electronics,Printers,Half Desk,218.83,1,1.13,1482.16,PayPal,Cancelled
+5987,CA-2024-0987,2024-01-15,2024-07-14,Standard,1920,Corporate,USA,Cainfurt,Missouri,P3516,Office Supplies,Smartphones,Officer Printer,2388.74,3,10.03,102.53,Bank Transfer,Cancelled
+5988,CA-2024-0988,2023-06-17,2024-02-19,Express,1186,Consumer,USA,Rachelland,Oklahoma,P3781,Electronics,Chairs,Budget Phone,55.49,2,11.0,69.2,PayPal,Delivered
+5989,CA-2024-0989,2023-11-10,2024-12-15,Express,1063,Consumer,USA,Michaelstad,Mississippi,P3125,Office Supplies,Tables,Likely Desk,448.15,4,1.66,1240.15,Bank Transfer,Delivered
+5990,CA-2024-0990,2024-12-16,2023-07-05,Express,1683,Home Office,USA,Stephaniestad,Iowa,P3368,Office Supplies,Smartphones,Senior Printer,2287.54,5,2.09,360.14,Credit Card,Cancelled
+5991,CA-2024-0991,2023-04-20,2024-10-29,Express,1456,Consumer,USA,Webbborough,Michigan,P3402,Furniture,Smartphones,Theory Monitor,621.09,4,2.7,2252.59,PayPal,In Transit
+5992,CA-2024-0992,2024-10-07,2025-02-18,Same Day,1191,Corporate,USA,Lake Jenna,Iowa,P3450,Electronics,Printers,Dream Laptop,319.4,1,12.51,674.33,Bank Transfer,Cancelled
+5993,CA-2024-0993,2023-11-11,2023-05-21,Standard,1959,Consumer,USA,East Nicholas,South Dakota,P3960,Office Supplies,Tables,Yeah Phone,1574.2,5,17.85,2339.04,Debit Card,In Transit
+5994,CA-2024-0994,2023-11-28,2024-09-07,Same Day,1335,Home Office,USA,West Joann,Texas,P3415,Furniture,Laptops,List Desk,1518.73,2,17.06,1973.22,Debit Card,In Transit
+5995,CA-2024-0995,2023-07-07,2024-12-17,Same Day,1075,Home Office,USA,Port Julie,New Mexico,P3700,Furniture,Printers,Heavy Laptop,1037.91,2,7.1,1624.39,PayPal,Cancelled
+5996,CA-2024-0996,2024-09-11,2025-01-17,Express,1794,Home Office,USA,South Tina,Michigan,P3505,Furniture,Tables,Box Phone,1591.52,3,5.7,1616.44,Debit Card,Delivered
+5997,CA-2024-0997,2024-08-11,2025-02-01,Standard,1627,Consumer,USA,Brooksside,Texas,P3981,Office Supplies,Laptops,Indicate Phone,2180.44,3,12.5,376.4,Bank Transfer,Shipped
+5998,CA-2024-0998,2025-02-27,2024-08-07,Same Day,1095,Consumer,USA,Port Jessica,Maryland,P3752,Office Supplies,Tables,Way Desk,2423.3,5,19.82,221.15,Credit Card,Cancelled
+5999,CA-2024-0999,2023-07-15,2024-07-24,Same Day,1735,Corporate,USA,North Mark,Montana,P3164,Furniture,Smartphones,Probably Printer,2289.41,4,8.18,1027.54,Bank Transfer,Shipped
+6000,CA-2024-1000,2023-06-10,2024-08-04,Standard,1341,Home Office,USA,Vasquezchester,Kentucky,P3777,Furniture,Smartphones,Resource Monitor,555.16,2,0.48,2141.28,Debit Card,In Transit

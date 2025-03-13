@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,brand,price,stock_quantity,discount,rating,supplier
+P3001,Fight Desk,Furniture,Smartphones,HP,2208.51,248,24,2.9,Target
+P3002,Threat Monitor,Electronics,Laptops,Lenovo,694.67,16,13,1.6,Walmart
+P3003,No Laptop,Office Supplies,Laptops,IKEA,2110.28,290,3,4.6,Amazon
+P3004,Buy Monitor,Office Supplies,Laptops,Dell,763.3,127,3,4.8,Newegg
+P3005,Describe Laptop,Office Supplies,Printers,HP,394.72,147,12,1.8,Best Buy
+P3006,Instead Phone,Office Supplies,Chairs,HP,1704.11,423,2,3.4,Target
+P3007,Which Monitor,Electronics,Chairs,Samsung,2308.4,314,29,4.7,Walmart
+P3008,Less Laptop,Furniture,Printers,IKEA,1503.83,130,25,3.1,Walmart
+P3009,Idea Desk,Furniture,Smartphones,Dell,253.8,131,12,2.0,Newegg
+P3010,Civil Desk,Office Supplies,Tables,HP,1738.22,336,11,4.0,Target
+P3011,Make Laptop,Office Supplies,Printers,IKEA,2449.85,332,24,1.5,Amazon
+P3012,Behavior Phone,Electronics,Chairs,HP,1421.73,376,29,1.7,Amazon
+P3013,Behavior Monitor,Electronics,Chairs,Samsung,882.38,472,3,1.5,Best Buy
+P3014,No Printer,Office Supplies,Laptops,Apple,2055.81,156,14,4.2,Amazon
+P3015,Tell Laptop,Electronics,Laptops,Dell,2359.69,259,21,3.5,Target
+P3016,Even Monitor,Furniture,Printers,Apple,2291.15,185,19,4.9,Walmart
+P3017,Let Monitor,Electronics,Laptops,HP,2433.28,472,21,1.6,Best Buy
+P3018,Read Phone,Electronics,Chairs,Dell,1950.75,455,13,1.0,Best Buy
+P3019,Occur Desk,Office Supplies,Printers,Lenovo,1033.31,257,27,2.1,Target
+P3020,Relationship Phone,Electronics,Printers,Apple,468.45,410,16,2.4,Walmart
+P3021,Skin Phone,Electronics,Tables,Samsung,1118.55,185,12,2.2,Target
+P3022,Enjoy Phone,Electronics,Printers,HP,1655.9,190,13,1.5,Best Buy
+P3023,Hotel Printer,Office Supplies,Printers,Samsung,2459.3,408,8,1.1,Target
+P3024,Gun Phone,Furniture,Chairs,Samsung,2439.9,434,16,2.7,Best Buy
+P3025,Positive Monitor,Office Supplies,Laptops,Apple,1772.45,75,0,4.8,Amazon
+P3026,Provide Phone,Office Supplies,Printers,Apple,2199.17,280,4,1.2,Best Buy
+P3027,Them Desk,Furniture,Printers,Samsung,1222.28,11,16,3.2,Amazon
+P3028,Wrong Monitor,Electronics,Smartphones,Dell,2434.59,58,22,1.2,Newegg
+P3029,Nothing Monitor,Office Supplies,Printers,Apple,1343.36,256,4,1.7,Best Buy
+P3030,Hold Laptop,Office Supplies,Printers,Apple,578.2,456,25,4.0,Target
+P3031,Teacher Printer,Electronics,Laptops,HP,965.16,198,17,2.5,Newegg
+P3032,Anyone Printer,Office Supplies,Chairs,Lenovo,563.72,392,26,2.9,Target
+P3033,Structure Desk,Electronics,Printers,HP,2010.07,465,19,2.6,Amazon
+P3034,Real Desk,Office Supplies,Chairs,Samsung,164.72,221,25,2.8,Amazon
+P3035,Be Desk,Furniture,Chairs,Dell,631.67,18,8,1.6,Newegg
+P3036,Project Printer,Office Supplies,Printers,Apple,710.14,81,26,1.7,Newegg
+P3037,Tough Monitor,Office Supplies,Smartphones,Lenovo,1789.76,410,30,1.4,Best Buy
+P3038,People Phone,Electronics,Printers,Samsung,1112.75,288,13,4.4,Amazon
+P3039,Make Monitor,Office Supplies,Laptops,HP,1782.57,482,6,2.0,Walmart
+P3040,Person Monitor,Furniture,Printers,Dell,243.29,477,4,2.6,Walmart
+P3041,Fine Monitor,Furniture,Smartphones,HP,1520.63,154,21,1.5,Amazon
+P3042,Street Phone,Furniture,Smartphones,HP,1478.5,89,30,2.5,Walmart
+P3043,Realize Desk,Office Supplies,Tables,Samsung,595.39,405,19,2.9,Amazon
+P3044,Leader Phone,Electronics,Tables,Samsung,1084.0,24,11,3.7,Walmart
+P3045,Important Laptop,Electronics,Printers,Apple,2275.51,163,18,3.2,Amazon
+P3046,Hotel Phone,Electronics,Tables,Apple,2123.91,469,5,4.3,Amazon
+P3047,Home Monitor,Furniture,Chairs,Samsung,2305.84,155,29,1.4,Newegg
+P3048,Job Laptop,Office Supplies,Printers,HP,184.96,405,3,2.5,Target
+P3049,Institution Phone,Office Supplies,Laptops,Samsung,1198.39,251,23,4.5,Walmart
+P3050,Former Desk,Office Supplies,Chairs,Dell,2211.95,172,16,3.2,Target
+P3051,Field Phone,Electronics,Smartphones,Lenovo,1817.0,161,21,1.9,Amazon
+P3052,Window Laptop,Electronics,Printers,Samsung,1370.55,109,14,1.6,Newegg
+P3053,Right Monitor,Office Supplies,Printers,IKEA,1363.94,349,16,2.2,Walmart
+P3054,Simple Desk,Furniture,Printers,Samsung,1475.73,420,20,2.4,Amazon
+P3055,Nothing Printer,Electronics,Laptops,HP,2105.39,54,19,2.8,Newegg
+P3056,Agree Phone,Electronics,Chairs,HP,1678.88,253,28,2.0,Best Buy
+P3057,Game Phone,Office Supplies,Printers,Lenovo,2418.19,267,6,4.3,Newegg
+P3058,And Printer,Office Supplies,Laptops,HP,866.39,82,17,1.6,Walmart
+P3059,Study Phone,Electronics,Laptops,HP,2202.76,406,5,3.1,Newegg
+P3060,Increase Laptop,Office Supplies,Tables,Dell,845.99,143,6,3.2,Target
+P3061,Level Laptop,Furniture,Smartphones,Dell,2059.49,250,13,1.0,Best Buy
+P3062,Base Laptop,Furniture,Printers,Apple,923.7,312,21,1.0,Best Buy
+P3063,Mrs Monitor,Furniture,Chairs,IKEA,1703.13,107,3,1.0,Newegg
+P3064,Each Printer,Furniture,Laptops,Apple,2274.71,145,25,4.6,Walmart
+P3065,Fly Monitor,Electronics,Printers,IKEA,1390.21,358,8,3.8,Target
+P3066,Successful Laptop,Electronics,Smartphones,HP,2495.74,375,5,1.1,Best Buy
+P3067,It Phone,Electronics,Laptops,HP,2236.69,14,4,4.0,Amazon
+P3068,Red Desk,Furniture,Chairs,IKEA,1397.25,284,4,1.3,Amazon
+P3069,Organization Printer,Office Supplies,Printers,IKEA,1792.53,398,23,1.9,Amazon
+P3070,Job Monitor,Furniture,Laptops,Samsung,1336.22,155,3,2.4,Target
+P3071,Red Phone,Office Supplies,Printers,Dell,1968.23,283,19,1.7,Amazon
+P3072,Every Desk,Electronics,Printers,Dell,1308.11,338,14,2.7,Best Buy
+P3073,Early Printer,Furniture,Tables,Dell,2015.38,123,11,2.6,Amazon
+P3074,Design Desk,Furniture,Tables,IKEA,365.97,61,1,2.2,Amazon
+P3075,Environmental Laptop,Furniture,Tables,Dell,169.06,467,21,2.3,Newegg
+P3076,Spend Laptop,Electronics,Chairs,Lenovo,610.77,366,20,3.1,Newegg
+P3077,Score Monitor,Office Supplies,Printers,Samsung,1280.3,486,28,2.1,Amazon
+P3078,Every Printer,Electronics,Smartphones,IKEA,835.01,493,23,2.2,Target
+P3079,People Monitor,Furniture,Smartphones,Dell,971.69,141,12,2.4,Walmart
+P3080,For Desk,Furniture,Smartphones,Dell,2132.86,96,6,4.9,Best Buy
+P3081,Minute Printer,Furniture,Printers,Samsung,1545.06,418,8,1.1,Walmart
+P3082,Financial Desk,Electronics,Smartphones,IKEA,617.19,69,22,4.9,Target
+P3083,Look Phone,Furniture,Tables,Dell,2357.46,95,12,2.4,Walmart
+P3084,Arm Printer,Electronics,Chairs,IKEA,641.55,435,16,2.9,Target
+P3085,Wonder Phone,Office Supplies,Smartphones,Dell,1300.66,290,3,3.6,Amazon
+P3086,Shoulder Desk,Electronics,Tables,IKEA,686.74,191,13,3.4,Newegg
+P3087,Include Monitor,Electronics,Tables,Dell,2012.06,71,3,4.7,Walmart
+P3088,View Monitor,Electronics,Printers,Samsung,1026.54,81,0,1.5,Best Buy
+P3089,Agent Phone,Furniture,Smartphones,Apple,2494.23,19,30,3.4,Best Buy
+P3090,Everything Phone,Furniture,Tables,Lenovo,1988.62,431,0,3.9,Target
+P3091,Behavior Desk,Office Supplies,Smartphones,Samsung,1419.98,51,0,3.9,Walmart
+P3092,Trial Printer,Electronics,Laptops,Lenovo,1514.16,422,1,3.9,Newegg
+P3093,Sure Laptop,Furniture,Smartphones,HP,1554.16,289,16,4.1,Best Buy
+P3094,Common Laptop,Office Supplies,Printers,HP,1031.54,370,7,4.6,Walmart
+P3095,Magazine Monitor,Office Supplies,Smartphones,IKEA,904.34,293,30,1.6,Amazon
+P3096,Development Desk,Electronics,Chairs,Samsung,2121.61,147,19,1.2,Best Buy
+P3097,Charge Desk,Electronics,Chairs,IKEA,961.8,126,20,1.8,Newegg
+P3098,View Desk,Office Supplies,Tables,Apple,1013.88,116,6,4.6,Target
+P3099,Avoid Desk,Furniture,Laptops,Samsung,1596.27,224,13,1.9,Amazon
+P3100,Beyond Phone,Office Supplies,Tables,Apple,1101.23,434,10,1.2,Target
+P3101,Outside Monitor,Office Supplies,Laptops,Dell,165.03,283,7,3.9,Newegg
+P3102,Friend Laptop,Electronics,Smartphones,Dell,100.61,198,21,3.7,Target
+P3103,Charge Printer,Furniture,Printers,Lenovo,2023.77,95,26,2.5,Best Buy
+P3104,Eat Laptop,Electronics,Tables,HP,1347.78,102,18,3.5,Best Buy
+P3105,Open Printer,Office Supplies,Tables,IKEA,2032.81,425,29,3.2,Amazon
+P3106,Husband Printer,Office Supplies,Printers,IKEA,1077.05,489,4,4.9,Target
+P3107,Paper Laptop,Furniture,Printers,Lenovo,811.34,401,4,3.2,Newegg
+P3108,Him Laptop,Electronics,Laptops,Samsung,1499.23,440,0,3.1,Target
+P3109,Either Phone,Furniture,Smartphones,Lenovo,1744.73,473,11,1.7,Walmart
+P3110,Action Phone,Electronics,Printers,Samsung,2379.8,333,11,1.9,Newegg
+P3111,Let Monitor,Furniture,Chairs,HP,2139.13,324,7,1.1,Newegg
+P3112,Reveal Monitor,Office Supplies,Tables,Samsung,330.26,133,15,1.8,Amazon
+P3113,Half Desk,Electronics,Printers,Lenovo,126.61,196,16,2.6,Walmart
+P3114,Health Monitor,Electronics,Printers,Lenovo,827.72,31,8,1.2,Walmart
+P3115,Note Desk,Electronics,Tables,Lenovo,1061.13,262,27,3.8,Target
+P3116,American Laptop,Electronics,Smartphones,HP,2180.52,32,30,4.1,Newegg
+P3117,Capital Phone,Office Supplies,Printers,HP,2354.15,360,28,3.0,Amazon
+P3118,Move Phone,Office Supplies,Printers,Lenovo,1205.82,84,0,4.8,Target
+P3119,Stage Desk,Furniture,Laptops,Apple,2272.06,437,5,1.8,Amazon
+P3120,Miss Laptop,Office Supplies,Laptops,Dell,1170.99,462,28,1.4,Amazon
+P3121,Live Laptop,Office Supplies,Tables,HP,373.23,231,13,3.3,Best Buy
+P3122,I Laptop,Furniture,Chairs,Dell,1168.11,455,4,4.6,Newegg
+P3123,Occur Monitor,Furniture,Printers,Samsung,540.83,16,3,3.1,Best Buy
+P3124,Less Laptop,Electronics,Laptops,Apple,1741.85,273,20,2.6,Target
+P3125,Wide Phone,Electronics,Chairs,Lenovo,1779.93,21,1,2.0,Target
+P3126,Truth Laptop,Office Supplies,Tables,Dell,887.21,317,19,4.8,Walmart
+P3127,Site Phone,Furniture,Chairs,Apple,52.48,46,5,2.4,Newegg
+P3128,Apply Phone,Office Supplies,Tables,HP,934.58,371,30,3.1,Newegg
+P3129,Use Desk,Electronics,Laptops,Dell,993.93,28,8,4.0,Amazon
+P3130,True Laptop,Electronics,Laptops,Apple,667.32,306,8,1.7,Amazon
+P3131,Should Laptop,Office Supplies,Laptops,Lenovo,2344.35,439,11,3.0,Best Buy
+P3132,Shake Laptop,Furniture,Chairs,Lenovo,2295.98,118,30,1.1,Target
+P3133,Real Phone,Furniture,Chairs,IKEA,1008.29,320,30,4.2,Walmart
+P3134,Nearly Phone,Furniture,Printers,Dell,1620.29,143,22,2.8,Amazon
+P3135,How Phone,Electronics,Laptops,HP,519.57,482,26,2.1,Newegg
+P3136,Both Printer,Electronics,Chairs,IKEA,1358.77,244,15,3.3,Best Buy
+P3137,Media Printer,Electronics,Smartphones,Lenovo,1463.83,445,28,4.2,Amazon
+P3138,Name Printer,Office Supplies,Printers,Apple,925.38,60,4,2.4,Best Buy
+P3139,Beautiful Desk,Electronics,Smartphones,Apple,2453.96,497,24,2.9,Amazon
+P3140,Teacher Printer,Electronics,Laptops,IKEA,2291.88,244,9,3.9,Walmart
+P3141,It Phone,Office Supplies,Printers,HP,1160.38,482,29,2.7,Newegg
+P3142,Remember Phone,Office Supplies,Laptops,Apple,929.54,102,1,4.2,Walmart
+P3143,Memory Printer,Office Supplies,Tables,Lenovo,1644.46,341,13,4.3,Newegg
+P3144,Quite Monitor,Furniture,Printers,HP,244.7,142,29,4.2,Best Buy
+P3145,Consumer Printer,Electronics,Chairs,Dell,2071.24,268,9,4.8,Best Buy
+P3146,They Monitor,Furniture,Printers,HP,1570.8,306,12,1.0,Newegg
+P3147,Fill Phone,Electronics,Smartphones,Samsung,1280.88,459,25,2.0,Target
+P3148,This Printer,Electronics,Laptops,Lenovo,545.76,359,11,1.4,Best Buy
+P3149,Office Phone,Electronics,Tables,Apple,1056.23,79,4,4.5,Amazon
+P3150,Hospital Desk,Furniture,Chairs,IKEA,2482.32,178,26,1.1,Target
+P3151,Yourself Phone,Furniture,Printers,HP,188.13,65,21,1.5,Best Buy
+P3152,Foreign Printer,Office Supplies,Tables,Dell,1672.17,267,13,1.4,Walmart
+P3153,As Laptop,Office Supplies,Printers,HP,712.91,370,8,2.6,Best Buy
+P3154,Draw Monitor,Office Supplies,Chairs,Dell,840.09,64,26,5.0,Amazon
+P3155,Amount Phone,Office Supplies,Tables,Lenovo,559.35,190,16,1.8,Best Buy
+P3156,Without Desk,Office Supplies,Smartphones,Apple,1386.99,474,2,4.0,Newegg
+P3157,Industry Printer,Electronics,Laptops,IKEA,773.84,56,17,1.8,Amazon
+P3158,Future Desk,Electronics,Chairs,Dell,1640.04,181,8,3.7,Newegg
+P3159,Strategy Monitor,Furniture,Laptops,Dell,740.56,262,29,4.1,Amazon
+P3160,Short Desk,Furniture,Laptops,Dell,840.73,400,5,2.9,Target
+P3161,Popular Laptop,Electronics,Printers,Lenovo,815.91,406,24,1.7,Best Buy
+P3162,Shoulder Desk,Office Supplies,Laptops,HP,1348.15,330,16,3.0,Newegg
+P3163,Question Phone,Electronics,Chairs,Samsung,1423.46,437,7,1.9,Amazon
+P3164,Ball Printer,Electronics,Laptops,HP,809.93,274,30,4.4,Walmart
+P3165,Film Laptop,Electronics,Smartphones,Samsung,235.51,151,4,5.0,Newegg
+P3166,Good Printer,Electronics,Laptops,Samsung,813.48,351,6,3.3,Best Buy
+P3167,Test Monitor,Electronics,Smartphones,Samsung,1192.33,96,11,4.9,Walmart
+P3168,Painting Laptop,Furniture,Chairs,Apple,159.7,259,29,1.1,Newegg
+P3169,Light Laptop,Furniture,Laptops,Lenovo,507.1,105,26,3.6,Newegg
+P3170,Stage Desk,Furniture,Tables,HP,1165.83,99,15,2.4,Amazon
+P3171,Experience Printer,Furniture,Smartphones,Apple,2252.37,419,2,2.3,Walmart
+P3172,Remain Desk,Electronics,Printers,IKEA,1173.13,312,7,3.2,Newegg
+P3173,Seem Desk,Furniture,Smartphones,HP,1578.25,273,30,2.5,Target
+P3174,Modern Printer,Furniture,Printers,IKEA,765.82,331,4,4.6,Newegg
+P3175,Market Laptop,Furniture,Laptops,Dell,1691.83,351,30,4.9,Walmart
+P3176,Six Monitor,Electronics,Tables,HP,2125.5,444,21,2.3,Newegg
+P3177,Season Laptop,Office Supplies,Smartphones,Lenovo,542.7,81,12,1.9,Walmart
+P3178,Color Desk,Furniture,Smartphones,HP,2274.42,393,23,2.1,Best Buy
+P3179,Share Desk,Electronics,Laptops,IKEA,1181.68,120,0,3.5,Amazon
+P3180,American Printer,Electronics,Laptops,IKEA,1374.74,351,0,1.6,Best Buy
+P3181,Close Printer,Electronics,Smartphones,HP,894.1,197,19,3.9,Walmart
+P3182,Rock Laptop,Office Supplies,Laptops,Samsung,1555.03,63,12,3.7,Target
+P3183,Off Phone,Electronics,Chairs,Dell,1795.47,323,27,2.4,Target
+P3184,Edge Monitor,Office Supplies,Laptops,Apple,818.51,289,2,2.7,Newegg
+P3185,Plant Printer,Electronics,Printers,IKEA,1864.79,288,4,2.6,Best Buy
+P3186,Student Printer,Electronics,Chairs,Apple,988.34,350,14,3.4,Amazon
+P3187,Guy Laptop,Office Supplies,Laptops,Samsung,1502.42,497,1,2.8,Newegg
+P3188,Big Desk,Electronics,Printers,Samsung,1421.33,494,12,2.0,Target
+P3189,Capital Monitor,Furniture,Tables,Apple,2045.64,28,20,1.9,Target
+P3190,Before Printer,Electronics,Smartphones,Samsung,1067.84,195,1,3.5,Best Buy
+P3191,Program Printer,Furniture,Printers,Samsung,495.3,161,29,1.1,Walmart
+P3192,Sit Printer,Electronics,Chairs,Samsung,765.36,292,5,3.3,Walmart
+P3193,Available Monitor,Office Supplies,Smartphones,IKEA,1716.32,63,21,5.0,Newegg
+P3194,Different Phone,Furniture,Printers,IKEA,1288.44,77,21,4.1,Amazon
+P3195,Build Monitor,Electronics,Printers,Dell,260.51,361,10,4.9,Amazon
+P3196,Until Printer,Office Supplies,Laptops,Dell,1428.07,310,19,2.6,Walmart
+P3197,Usually Phone,Electronics,Printers,HP,1967.76,405,2,1.9,Best Buy
+P3198,Allow Printer,Office Supplies,Tables,Lenovo,1624.92,264,21,2.1,Best Buy
+P3199,Really Printer,Office Supplies,Tables,HP,509.49,228,4,2.5,Walmart
+P3200,Season Laptop,Electronics,Printers,Samsung,660.89,225,23,4.0,Amazon
+P3201,Car Laptop,Furniture,Smartphones,Lenovo,484.23,299,24,3.1,Best Buy
+P3202,Guy Phone,Furniture,Printers,Apple,2043.85,69,14,2.0,Target
+P3203,Despite Phone,Electronics,Smartphones,HP,962.76,325,1,1.6,Amazon
+P3204,Director Printer,Electronics,Tables,Samsung,1444.57,38,20,3.3,Target
+P3205,Reduce Monitor,Furniture,Tables,IKEA,639.43,366,14,2.0,Walmart
+P3206,Find Printer,Furniture,Tables,Dell,1007.99,284,6,3.0,Walmart
+P3207,Whatever Laptop,Office Supplies,Tables,Apple,587.39,51,12,4.0,Best Buy
+P3208,It Printer,Office Supplies,Printers,Lenovo,1897.13,145,27,2.2,Amazon
+P3209,Instead Desk,Office Supplies,Smartphones,Dell,2323.26,106,24,3.0,Amazon
+P3210,Congress Desk,Office Supplies,Smartphones,Apple,921.44,72,8,1.8,Amazon
+P3211,Expert Phone,Office Supplies,Chairs,Samsung,2105.73,395,14,1.4,Walmart
+P3212,Check Desk,Electronics,Chairs,Dell,2436.08,101,14,4.4,Walmart
+P3213,Mr Desk,Office Supplies,Chairs,Apple,720.27,369,3,1.4,Walmart
+P3214,Operation Desk,Office Supplies,Laptops,Samsung,2222.28,375,10,3.4,Amazon
+P3215,Thank Phone,Furniture,Chairs,Samsung,1801.19,260,29,2.9,Amazon
+P3216,Doctor Laptop,Office Supplies,Printers,Samsung,1672.48,249,14,2.0,Walmart
+P3217,Mission Phone,Furniture,Printers,HP,255.22,457,20,4.2,Target
+P3218,Left Laptop,Furniture,Chairs,HP,2208.13,138,9,4.3,Walmart
+P3219,Personal Laptop,Electronics,Chairs,IKEA,389.23,200,21,4.0,Newegg
+P3220,Wide Printer,Office Supplies,Laptops,Lenovo,1390.39,165,24,2.6,Walmart
+P3221,Fear Desk,Furniture,Tables,IKEA,2390.69,160,12,1.2,Amazon
+P3222,Year Laptop,Office Supplies,Chairs,HP,1692.24,478,26,3.9,Newegg
+P3223,Network Monitor,Electronics,Printers,IKEA,717.47,405,28,1.8,Target
+P3224,Fund Desk,Electronics,Printers,Dell,1049.93,35,7,1.4,Amazon
+P3225,Soon Phone,Electronics,Printers,Samsung,1808.43,280,20,3.4,Target
+P3226,Environmental Printer,Electronics,Laptops,Dell,1596.11,185,29,3.2,Amazon
+P3227,Group Monitor,Furniture,Printers,Lenovo,1750.57,327,22,4.8,Newegg
+P3228,Catch Desk,Office Supplies,Laptops,HP,1984.36,303,5,2.4,Walmart
+P3229,Hospital Monitor,Electronics,Printers,HP,1180.73,308,30,3.7,Target
+P3230,Range Printer,Office Supplies,Printers,HP,1212.56,191,12,5.0,Target
+P3231,Officer Desk,Electronics,Smartphones,Apple,165.51,420,1,2.9,Best Buy
+P3232,Society Printer,Electronics,Smartphones,Samsung,1891.88,198,12,4.0,Amazon
+P3233,Sport Monitor,Furniture,Laptops,HP,720.47,145,8,2.6,Target
+P3234,Rock Phone,Electronics,Chairs,Samsung,1703.3,222,2,4.1,Best Buy
+P3235,However Desk,Office Supplies,Printers,IKEA,1736.83,47,12,4.2,Best Buy
+P3236,Security Laptop,Office Supplies,Smartphones,Lenovo,1605.77,422,24,2.3,Best Buy
+P3237,Within Printer,Office Supplies,Laptops,Dell,2112.96,428,0,1.2,Walmart
+P3238,Teach Laptop,Furniture,Laptops,HP,2247.35,188,28,2.3,Best Buy
+P3239,Cold Phone,Electronics,Chairs,HP,2105.95,217,26,3.1,Walmart
+P3240,Local Monitor,Electronics,Chairs,Dell,1426.25,499,13,3.1,Best Buy
+P3241,Event Desk,Furniture,Laptops,Dell,823.62,272,8,4.3,Newegg
+P3242,Cell Phone,Office Supplies,Smartphones,Apple,828.54,477,26,1.8,Newegg
+P3243,Suggest Monitor,Office Supplies,Printers,Lenovo,1048.07,125,11,2.3,Amazon
+P3244,Idea Laptop,Electronics,Printers,Apple,1735.16,30,26,4.6,Newegg
+P3245,West Monitor,Office Supplies,Printers,Apple,2193.04,80,20,3.7,Best Buy
+P3246,Involve Desk,Office Supplies,Laptops,Dell,1539.7,455,17,4.9,Newegg
+P3247,Face Laptop,Office Supplies,Laptops,Lenovo,778.45,277,16,2.1,Walmart
+P3248,Again Printer,Furniture,Tables,Dell,714.28,214,23,3.4,Best Buy
+P3249,Glass Monitor,Office Supplies,Printers,Lenovo,1865.3,10,22,2.0,Best Buy
+P3250,Reach Laptop,Office Supplies,Printers,Samsung,1792.45,353,22,3.7,Target
+P3251,Will Printer,Furniture,Tables,Samsung,1102.54,162,22,3.1,Best Buy
+P3252,Truth Phone,Furniture,Chairs,Samsung,2487.32,470,19,1.5,Best Buy
+P3253,Skin Desk,Furniture,Chairs,IKEA,937.42,260,11,4.7,Target
+P3254,Great Printer,Office Supplies,Smartphones,Lenovo,161.41,174,8,4.7,Walmart
+P3255,Serious Desk,Furniture,Laptops,IKEA,2462.63,183,4,1.7,Target
+P3256,Set Monitor,Furniture,Smartphones,Apple,1981.26,443,15,3.7,Newegg
+P3257,Fall Printer,Electronics,Smartphones,Apple,685.87,412,1,2.4,Newegg
+P3258,Project Printer,Office Supplies,Chairs,Lenovo,358.23,351,9,4.6,Target
+P3259,Strategy Phone,Electronics,Smartphones,Lenovo,2272.9,345,9,4.4,Newegg
+P3260,Choice Printer,Furniture,Printers,Apple,1782.63,134,6,2.2,Best Buy
+P3261,Assume Desk,Office Supplies,Printers,IKEA,1226.9,327,18,2.0,Target
+P3262,Senior Printer,Furniture,Chairs,IKEA,707.12,344,8,2.5,Amazon
+P3263,Set Laptop,Office Supplies,Chairs,IKEA,1598.07,16,29,3.0,Target
+P3264,Or Printer,Furniture,Tables,Lenovo,121.08,370,28,3.3,Target
+P3265,System Laptop,Furniture,Laptops,Dell,427.7,369,10,1.1,Amazon
+P3266,Five Printer,Electronics,Printers,HP,2198.91,346,21,3.8,Amazon
+P3267,Movie Monitor,Office Supplies,Smartphones,Samsung,1456.44,296,2,3.9,Walmart
+P3268,Prove Monitor,Office Supplies,Smartphones,Apple,1856.96,437,22,3.4,Best Buy
+P3269,Rate Phone,Electronics,Laptops,Samsung,605.47,228,27,4.4,Amazon
+P3270,Serve Phone,Furniture,Chairs,Dell,2018.82,167,3,5.0,Newegg
+P3271,His Monitor,Office Supplies,Smartphones,Dell,354.92,158,26,4.3,Amazon
+P3272,Respond Phone,Office Supplies,Tables,Dell,1379.37,452,23,4.7,Newegg
+P3273,Next Monitor,Furniture,Tables,IKEA,1686.07,144,6,1.5,Amazon
+P3274,Various Phone,Furniture,Smartphones,Lenovo,1555.78,404,16,3.1,Amazon
+P3275,Head Laptop,Furniture,Printers,IKEA,1743.69,131,16,1.3,Target
+P3276,Minute Phone,Electronics,Smartphones,Lenovo,1837.56,398,5,4.5,Best Buy
+P3277,Off Monitor,Furniture,Chairs,Apple,2424.39,353,18,3.3,Target
+P3278,Very Laptop,Electronics,Chairs,HP,2193.88,194,30,4.2,Best Buy
+P3279,Throw Desk,Office Supplies,Printers,Lenovo,1589.38,467,22,1.1,Newegg
+P3280,Seem Monitor,Furniture,Printers,Samsung,1677.14,383,8,1.6,Target
+P3281,Authority Monitor,Electronics,Laptops,Lenovo,136.39,428,8,3.0,Target
+P3282,Agent Laptop,Office Supplies,Laptops,Lenovo,2252.93,292,23,2.2,Amazon
+P3283,Around Printer,Office Supplies,Laptops,Lenovo,1883.31,451,28,2.3,Walmart
+P3284,Star Phone,Furniture,Tables,IKEA,1808.92,453,19,2.0,Target
+P3285,Personal Laptop,Electronics,Printers,Samsung,590.66,198,15,4.0,Amazon
+P3286,Project Desk,Electronics,Printers,IKEA,1111.6,335,18,3.5,Amazon
+P3287,Win Laptop,Office Supplies,Printers,HP,1846.35,104,27,3.3,Target
+P3288,Mean Printer,Furniture,Chairs,Samsung,2009.01,137,13,3.3,Walmart
+P3289,Read Desk,Office Supplies,Chairs,Apple,363.42,455,14,1.6,Amazon
+P3290,Close Desk,Office Supplies,Smartphones,Samsung,2319.85,143,15,2.5,Amazon
+P3291,Get Monitor,Electronics,Laptops,Lenovo,845.09,189,30,2.5,Target
+P3292,Seven Monitor,Office Supplies,Tables,Lenovo,1884.05,319,1,3.3,Best Buy
+P3293,Smile Laptop,Electronics,Tables,Lenovo,1156.89,481,20,3.4,Best Buy
+P3294,Blue Printer,Furniture,Printers,HP,1877.45,362,17,3.9,Newegg
+P3295,Trouble Printer,Furniture,Smartphones,HP,645.36,446,9,1.5,Newegg
+P3296,Easy Monitor,Furniture,Chairs,Dell,527.47,457,6,1.3,Best Buy
+P3297,Especially Phone,Electronics,Tables,IKEA,808.11,292,1,3.8,Walmart
+P3298,Friend Monitor,Office Supplies,Laptops,Apple,1367.7,99,3,1.4,Best Buy
+P3299,Front Desk,Furniture,Chairs,Samsung,1329.21,327,17,3.0,Walmart
+P3300,Fund Monitor,Office Supplies,Smartphones,HP,2089.26,343,22,2.0,Newegg
+P3301,Anything Laptop,Electronics,Tables,Dell,2223.7,186,10,3.1,Target
+P3302,Offer Phone,Office Supplies,Printers,IKEA,84.49,115,3,4.5,Amazon
+P3303,Figure Printer,Electronics,Printers,Samsung,1150.0,428,12,3.2,Newegg
+P3304,Boy Phone,Office Supplies,Laptops,Apple,808.57,288,30,4.1,Target
+P3305,Economy Phone,Electronics,Smartphones,HP,463.02,290,6,1.4,Newegg
+P3306,Local Monitor,Office Supplies,Chairs,Samsung,2471.57,400,8,1.7,Amazon
+P3307,Air Monitor,Furniture,Tables,Lenovo,2263.82,196,13,4.4,Newegg
+P3308,I Desk,Electronics,Smartphones,Dell,1488.84,180,22,4.0,Amazon
+P3309,Entire Laptop,Furniture,Printers,Apple,593.48,63,6,1.5,Walmart
+P3310,Next Laptop,Furniture,Tables,IKEA,1525.91,212,3,1.8,Walmart
+P3311,Top Laptop,Electronics,Chairs,IKEA,1855.45,54,21,4.4,Newegg
+P3312,Phone Monitor,Furniture,Laptops,Lenovo,1750.54,446,24,1.6,Walmart
+P3313,Raise Monitor,Office Supplies,Chairs,IKEA,2481.86,217,20,2.9,Newegg
+P3314,Positive Desk,Furniture,Chairs,Apple,1376.1,134,17,4.2,Amazon
+P3315,Coach Printer,Furniture,Printers,Lenovo,1230.53,159,29,5.0,Newegg
+P3316,Turn Printer,Furniture,Tables,Apple,1978.78,489,21,4.6,Newegg
+P3317,Will Printer,Electronics,Tables,Samsung,1570.13,270,26,3.9,Amazon
+P3318,Enter Phone,Office Supplies,Tables,HP,957.46,145,19,1.6,Newegg
+P3319,Edge Monitor,Furniture,Printers,Dell,1782.11,80,9,4.0,Walmart
+P3320,Movement Monitor,Furniture,Tables,Apple,523.11,349,1,5.0,Target
+P3321,Happy Laptop,Office Supplies,Chairs,Samsung,1152.25,252,27,3.8,Walmart
+P3322,Most Phone,Electronics,Smartphones,Apple,1066.75,355,1,4.0,Newegg
+P3323,Agree Phone,Electronics,Tables,Apple,575.21,51,30,2.7,Newegg
+P3324,Year Printer,Electronics,Printers,Samsung,2457.37,169,18,1.1,Best Buy
+P3325,Show Phone,Furniture,Tables,HP,1686.52,128,11,1.3,Amazon
+P3326,Center Phone,Office Supplies,Printers,HP,1935.77,281,4,2.1,Newegg
+P3327,Your Laptop,Furniture,Smartphones,IKEA,666.49,362,20,4.7,Best Buy
+P3328,Tree Monitor,Electronics,Tables,Lenovo,1227.8,272,16,4.0,Amazon
+P3329,Those Printer,Electronics,Laptops,IKEA,2094.13,108,17,3.3,Best Buy
+P3330,Take Phone,Furniture,Laptops,Lenovo,1052.6,306,19,1.1,Amazon
+P3331,Someone Monitor,Office Supplies,Smartphones,Lenovo,2262.05,12,12,1.4,Target
+P3332,Actually Printer,Office Supplies,Chairs,Dell,2279.08,475,29,1.6,Target
+P3333,Entire Laptop,Electronics,Smartphones,Samsung,944.23,166,13,4.5,Walmart
+P3334,Through Phone,Office Supplies,Chairs,HP,1705.15,22,8,1.7,Best Buy
+P3335,Always Laptop,Electronics,Chairs,Samsung,1838.23,233,19,2.3,Newegg
+P3336,Recognize Laptop,Electronics,Chairs,Apple,631.09,183,22,2.5,Walmart
+P3337,Issue Monitor,Office Supplies,Smartphones,IKEA,1912.02,105,12,4.7,Newegg
+P3338,Sign Laptop,Electronics,Smartphones,IKEA,2278.72,57,17,3.6,Newegg
+P3339,Drop Laptop,Electronics,Laptops,Apple,1339.04,50,20,3.6,Best Buy
+P3340,Particularly Desk,Office Supplies,Smartphones,Apple,707.38,410,7,4.9,Walmart
+P3341,Writer Printer,Office Supplies,Chairs,Lenovo,1197.99,92,1,2.8,Target
+P3342,Create Printer,Electronics,Laptops,Lenovo,1926.96,110,10,3.8,Target
+P3343,Against Phone,Office Supplies,Printers,Dell,1637.46,147,28,1.4,Newegg
+P3344,Body Phone,Office Supplies,Chairs,Apple,792.98,413,19,4.4,Newegg
+P3345,Attention Laptop,Electronics,Chairs,IKEA,1414.88,272,4,2.7,Best Buy
+P3346,Shake Phone,Office Supplies,Chairs,IKEA,1647.12,48,19,1.7,Walmart
+P3347,Few Laptop,Furniture,Laptops,Dell,1758.07,350,18,1.6,Newegg
+P3348,Significant Printer,Furniture,Smartphones,Lenovo,220.47,479,6,1.2,Walmart
+P3349,Often Phone,Electronics,Chairs,Samsung,1692.64,38,17,1.2,Target
+P3350,Able Phone,Furniture,Printers,HP,1539.73,224,6,4.0,Best Buy
+P3351,Way Phone,Office Supplies,Laptops,Samsung,1306.07,116,18,3.2,Amazon
+P3352,Produce Desk,Electronics,Chairs,IKEA,976.42,303,1,3.2,Amazon
+P3353,In Laptop,Furniture,Smartphones,Dell,2236.92,325,17,2.0,Walmart
+P3354,Question Desk,Office Supplies,Chairs,Lenovo,1699.33,180,23,1.0,Newegg
+P3355,Serious Laptop,Office Supplies,Chairs,Dell,1014.19,71,9,4.5,Newegg
+P3356,Special Monitor,Furniture,Tables,Dell,1946.2,254,23,4.3,Amazon
+P3357,News Phone,Furniture,Smartphones,Dell,707.39,48,4,1.0,Amazon
+P3358,Available Printer,Furniture,Printers,Samsung,474.03,413,9,1.4,Best Buy
+P3359,Idea Phone,Electronics,Smartphones,HP,2290.59,198,9,1.0,Target
+P3360,Yet Printer,Electronics,Tables,Samsung,329.74,183,19,1.2,Walmart
+P3361,Politics Desk,Electronics,Laptops,Samsung,335.2,330,16,3.5,Newegg
+P3362,Page Monitor,Furniture,Smartphones,Lenovo,1284.45,293,30,2.1,Amazon
+P3363,Product Laptop,Furniture,Tables,Dell,989.55,383,26,2.7,Best Buy
+P3364,Person Laptop,Electronics,Chairs,Samsung,416.02,246,9,4.8,Target
+P3365,Various Printer,Electronics,Laptops,Samsung,2155.4,348,19,3.3,Best Buy
+P3366,Word Laptop,Electronics,Printers,Lenovo,2461.81,498,14,4.3,Newegg
+P3367,Fine Phone,Electronics,Smartphones,HP,140.02,481,9,5.0,Target
+P3368,Whatever Monitor,Office Supplies,Printers,HP,331.8,159,10,2.7,Target
+P3369,Into Monitor,Office Supplies,Chairs,Lenovo,1620.55,367,22,1.2,Amazon
+P3370,Pattern Phone,Electronics,Smartphones,Dell,443.22,121,10,4.9,Newegg
+P3371,Gun Desk,Electronics,Printers,IKEA,825.23,410,0,2.2,Walmart
+P3372,Upon Laptop,Electronics,Printers,HP,783.32,195,19,4.5,Best Buy
+P3373,Their Desk,Electronics,Laptops,Samsung,260.44,485,14,4.3,Newegg
+P3374,Three Monitor,Electronics,Printers,Lenovo,2134.82,266,14,1.4,Newegg
+P3375,Pull Monitor,Office Supplies,Printers,Apple,1535.09,421,2,1.8,Walmart
+P3376,Feel Phone,Furniture,Smartphones,Lenovo,2231.59,383,7,3.1,Target
+P3377,Participant Desk,Furniture,Chairs,Samsung,1245.23,495,2,4.0,Newegg
+P3378,Book Phone,Electronics,Chairs,HP,2326.16,466,26,2.7,Amazon
+P3379,Must Monitor,Furniture,Printers,Lenovo,2290.81,451,29,4.4,Best Buy
+P3380,Great Phone,Office Supplies,Laptops,Apple,2379.37,175,26,3.2,Walmart
+P3381,On Monitor,Furniture,Tables,Lenovo,1494.24,47,0,2.5,Best Buy
+P3382,Crime Laptop,Furniture,Tables,Dell,1140.77,419,26,3.3,Best Buy
+P3383,Subject Laptop,Furniture,Printers,Samsung,1743.95,133,14,2.4,Newegg
+P3384,Free Printer,Office Supplies,Printers,Apple,571.87,188,14,3.6,Newegg
+P3385,Son Laptop,Furniture,Laptops,HP,1223.83,490,26,3.1,Amazon
+P3386,Food Desk,Office Supplies,Laptops,IKEA,2040.26,300,24,4.9,Newegg
+P3387,As Printer,Furniture,Laptops,IKEA,1779.6,168,15,1.2,Walmart
+P3388,Model Monitor,Furniture,Laptops,Lenovo,970.54,269,16,3.9,Newegg
+P3389,Bring Phone,Office Supplies,Laptops,IKEA,1006.7,333,28,3.8,Walmart
+P3390,Think Laptop,Office Supplies,Tables,Apple,2452.16,389,20,3.8,Newegg
+P3391,Though Monitor,Office Supplies,Chairs,IKEA,1069.61,209,1,1.4,Walmart
+P3392,Yourself Monitor,Electronics,Laptops,IKEA,607.81,393,7,1.7,Amazon
+P3393,Thing Monitor,Electronics,Laptops,IKEA,2491.2,409,30,2.4,Newegg
+P3394,Travel Monitor,Electronics,Smartphones,Samsung,2433.99,153,22,3.8,Best Buy
+P3395,Little Printer,Electronics,Smartphones,Samsung,1766.62,246,20,5.0,Amazon
+P3396,Seem Desk,Office Supplies,Printers,HP,1982.04,497,21,3.4,Best Buy
+P3397,Conference Printer,Furniture,Smartphones,HP,1245.1,247,11,4.2,Walmart
+P3398,Modern Monitor,Office Supplies,Printers,HP,2140.54,384,28,4.9,Walmart
+P3399,Despite Desk,Electronics,Chairs,Lenovo,2233.82,105,17,2.7,Walmart
+P3400,Weight Phone,Electronics,Smartphones,Apple,716.22,364,5,5.0,Target
+P3401,Charge Phone,Electronics,Laptops,Apple,2329.9,35,4,3.8,Walmart
+P3402,Near Laptop,Electronics,Laptops,Lenovo,1538.34,464,26,1.8,Walmart
+P3403,Involve Printer,Furniture,Laptops,Dell,655.67,220,26,3.4,Best Buy
+P3404,Report Phone,Electronics,Chairs,IKEA,1236.52,246,6,4.5,Target
+P3405,Training Desk,Office Supplies,Tables,Dell,871.82,448,27,3.5,Target
+P3406,Trip Printer,Furniture,Printers,Samsung,2414.8,319,22,1.1,Best Buy
+P3407,Fish Desk,Office Supplies,Tables,Dell,2005.38,194,26,4.4,Walmart
+P3408,Drug Monitor,Electronics,Smartphones,IKEA,1801.87,103,6,4.1,Best Buy
+P3409,President Desk,Electronics,Printers,Apple,662.34,447,4,1.9,Newegg
+P3410,Hope Phone,Furniture,Chairs,IKEA,1612.88,355,24,4.8,Newegg
+P3411,Its Printer,Office Supplies,Laptops,HP,734.31,469,24,4.4,Amazon
+P3412,Guess Phone,Electronics,Tables,Apple,548.62,430,0,3.6,Walmart
+P3413,Give Monitor,Office Supplies,Printers,Lenovo,64.88,176,13,2.2,Best Buy
+P3414,Thus Phone,Office Supplies,Printers,Samsung,1885.87,376,5,2.3,Best Buy
+P3415,Long Desk,Electronics,Laptops,Lenovo,917.8,143,30,2.3,Amazon
+P3416,Little Desk,Furniture,Chairs,Dell,2480.29,177,6,3.5,Target
+P3417,Give Phone,Furniture,Laptops,IKEA,2288.52,253,10,4.9,Walmart
+P3418,Picture Desk,Office Supplies,Laptops,HP,170.54,437,29,1.3,Newegg
+P3419,Respond Desk,Office Supplies,Tables,IKEA,1656.47,472,26,3.0,Target
+P3420,More Laptop,Office Supplies,Laptops,Dell,400.76,193,20,3.3,Amazon
+P3421,Administration Phone,Electronics,Printers,Samsung,1081.64,126,29,2.7,Walmart
+P3422,Game Monitor,Electronics,Smartphones,IKEA,1123.97,466,26,2.4,Best Buy
+P3423,Model Phone,Electronics,Smartphones,Dell,243.58,276,25,1.9,Walmart
+P3424,Fact Desk,Electronics,Laptops,Dell,1449.16,339,15,4.0,Walmart
+P3425,See Desk,Furniture,Laptops,Lenovo,815.56,111,22,2.0,Amazon
+P3426,Beyond Desk,Office Supplies,Laptops,Samsung,2179.58,353,3,2.3,Target
+P3427,Staff Desk,Electronics,Smartphones,Apple,1315.28,253,22,1.1,Newegg
+P3428,Billion Monitor,Furniture,Smartphones,Apple,343.37,78,4,1.7,Target
+P3429,Rather Phone,Office Supplies,Tables,Dell,1707.82,354,27,3.5,Target
+P3430,War Laptop,Electronics,Printers,Samsung,1787.06,495,2,1.8,Newegg
+P3431,Foot Phone,Electronics,Chairs,HP,1453.22,295,25,3.4,Best Buy
+P3432,Bad Printer,Office Supplies,Tables,HP,2032.66,306,4,4.2,Walmart
+P3433,Address Monitor,Office Supplies,Laptops,IKEA,435.87,91,16,3.2,Newegg
+P3434,Move Printer,Office Supplies,Laptops,Lenovo,1440.46,276,9,1.9,Amazon
+P3435,Rule Phone,Office Supplies,Tables,Dell,922.77,146,10,4.0,Amazon
+P3436,Effort Phone,Electronics,Printers,HP,231.96,335,30,1.6,Target
+P3437,This Laptop,Office Supplies,Printers,Lenovo,1271.44,236,12,4.3,Best Buy
+P3438,Just Phone,Office Supplies,Chairs,Lenovo,1654.2,153,15,1.6,Amazon
+P3439,College Printer,Furniture,Laptops,Lenovo,2465.33,439,14,4.8,Best Buy
+P3440,That Desk,Electronics,Printers,Samsung,605.7,394,17,4.9,Walmart
+P3441,Hospital Desk,Furniture,Laptops,Dell,2180.4,420,28,2.0,Walmart
+P3442,Wait Phone,Office Supplies,Chairs,Apple,1462.78,487,10,2.0,Newegg
+P3443,Why Laptop,Electronics,Printers,Lenovo,1462.52,181,27,4.5,Best Buy
+P3444,Consumer Laptop,Office Supplies,Laptops,Samsung,1535.87,274,17,4.2,Walmart
+P3445,Single Desk,Office Supplies,Tables,IKEA,434.34,341,21,3.9,Target
+P3446,For Desk,Furniture,Printers,Samsung,2237.65,457,8,2.3,Target
+P3447,Air Monitor,Furniture,Chairs,Dell,376.74,77,21,1.7,Best Buy
+P3448,Article Monitor,Electronics,Laptops,Dell,2001.61,323,29,3.0,Newegg
+P3449,Sell Laptop,Furniture,Laptops,Dell,151.47,97,29,3.4,Best Buy
+P3450,Brother Phone,Electronics,Smartphones,HP,1232.95,192,14,4.6,Amazon
+P3451,Health Phone,Furniture,Tables,Lenovo,774.84,468,10,4.7,Newegg
+P3452,Weight Monitor,Electronics,Chairs,HP,1565.79,124,20,3.9,Amazon
+P3453,Any Phone,Furniture,Printers,Apple,1352.19,248,2,2.9,Walmart
+P3454,Can Monitor,Office Supplies,Laptops,Samsung,763.6,101,29,1.7,Amazon
+P3455,Hand Desk,Furniture,Laptops,Lenovo,1554.71,13,10,1.1,Newegg
+P3456,Where Phone,Furniture,Smartphones,Lenovo,774.9,33,3,3.5,Best Buy
+P3457,Take Printer,Office Supplies,Printers,Apple,977.83,354,1,1.3,Target
+P3458,Itself Monitor,Furniture,Tables,Dell,1012.97,336,26,3.5,Target
+P3459,Great Phone,Furniture,Printers,Apple,389.0,93,4,1.6,Best Buy
+P3460,Really Printer,Furniture,Printers,Lenovo,264.52,295,29,2.5,Amazon
+P3461,Large Phone,Office Supplies,Tables,Lenovo,1264.92,480,7,4.7,Amazon
+P3462,Citizen Printer,Electronics,Laptops,Lenovo,1948.51,445,29,1.1,Target
+P3463,Concern Monitor,Electronics,Smartphones,Apple,753.83,257,29,2.6,Newegg
+P3464,Agency Desk,Office Supplies,Printers,Lenovo,1587.08,336,8,2.1,Target
+P3465,Marriage Monitor,Office Supplies,Smartphones,HP,1892.93,26,22,2.0,Amazon
+P3466,Laugh Laptop,Office Supplies,Tables,Lenovo,524.23,331,15,1.9,Amazon
+P3467,Bag Printer,Furniture,Printers,Dell,1644.03,457,2,1.1,Best Buy
+P3468,Several Monitor,Furniture,Laptops,HP,1287.48,227,2,1.8,Amazon
+P3469,Tree Phone,Furniture,Printers,HP,2417.78,68,26,1.5,Walmart
+P3470,Dream Laptop,Furniture,Laptops,Lenovo,876.97,224,19,3.5,Target
+P3471,Course Desk,Office Supplies,Tables,HP,2084.38,148,7,1.8,Best Buy
+P3472,Position Desk,Office Supplies,Printers,Apple,2456.64,212,8,2.2,Amazon
+P3473,Present Monitor,Electronics,Tables,HP,855.05,249,11,2.4,Amazon
+P3474,Step Printer,Office Supplies,Printers,HP,543.37,304,12,3.9,Walmart
+P3475,Feeling Laptop,Office Supplies,Chairs,Dell,2405.23,242,18,1.5,Newegg
+P3476,City Laptop,Office Supplies,Tables,Apple,1719.63,170,10,3.8,Best Buy
+P3477,Economy Phone,Electronics,Laptops,IKEA,1506.47,217,12,2.5,Walmart
+P3478,See Printer,Furniture,Tables,Apple,1830.65,255,5,2.9,Amazon
+P3479,Sell Desk,Office Supplies,Tables,Lenovo,1899.19,378,0,4.2,Walmart
+P3480,Gas Phone,Furniture,Chairs,IKEA,1630.28,103,8,1.3,Amazon
+P3481,Head Printer,Office Supplies,Chairs,Lenovo,1818.18,226,2,3.2,Best Buy
+P3482,Traditional Printer,Office Supplies,Printers,Samsung,2224.94,165,25,2.2,Target
+P3483,Describe Desk,Office Supplies,Tables,Lenovo,235.5,363,4,4.2,Target
+P3484,Him Monitor,Office Supplies,Laptops,HP,1040.81,438,11,4.6,Amazon
+P3485,Letter Phone,Office Supplies,Tables,Samsung,799.91,136,12,2.3,Best Buy
+P3486,Movement Monitor,Furniture,Printers,HP,121.37,463,20,1.8,Best Buy
+P3487,Anyone Laptop,Electronics,Printers,IKEA,1042.05,82,13,3.4,Target
+P3488,Change Printer,Office Supplies,Printers,Apple,2351.73,463,6,4.8,Walmart
+P3489,Sport Monitor,Furniture,Smartphones,HP,642.39,253,18,3.4,Target
+P3490,Performance Phone,Furniture,Printers,HP,198.28,82,10,4.4,Target
+P3491,Miss Phone,Office Supplies,Tables,HP,1452.97,414,12,1.4,Walmart
+P3492,Speak Monitor,Furniture,Laptops,HP,2214.02,313,27,3.3,Newegg
+P3493,Represent Phone,Electronics,Printers,Apple,1275.9,120,8,2.3,Newegg
+P3494,Recently Desk,Furniture,Smartphones,Dell,819.35,293,22,2.7,Target
+P3495,Budget Desk,Electronics,Chairs,Apple,888.45,327,9,1.5,Walmart
+P3496,News Laptop,Office Supplies,Smartphones,IKEA,670.76,311,15,1.0,Newegg
+P3497,Back Desk,Furniture,Tables,HP,1523.31,296,23,2.6,Amazon
+P3498,During Printer,Electronics,Laptops,Dell,167.94,97,30,1.3,Best Buy
+P3499,Protect Printer,Office Supplies,Printers,Dell,2322.4,108,22,2.5,Walmart
+P3500,If Printer,Furniture,Chairs,Apple,1141.56,107,5,3.9,Best Buy
+P3501,Fund Monitor,Electronics,Chairs,Lenovo,272.06,305,25,2.2,Amazon
+P3502,Must Laptop,Electronics,Laptops,Apple,1121.08,217,30,4.7,Target
+P3503,Democratic Desk,Office Supplies,Smartphones,Lenovo,886.97,463,19,3.9,Amazon
+P3504,Act Desk,Electronics,Laptops,Lenovo,1986.64,429,12,4.3,Newegg
+P3505,Result Desk,Furniture,Laptops,IKEA,1788.33,288,7,4.0,Amazon
+P3506,Community Phone,Electronics,Smartphones,IKEA,2308.84,141,24,5.0,Walmart
+P3507,Whole Printer,Office Supplies,Printers,Apple,1240.44,116,20,3.1,Target
+P3508,Debate Desk,Office Supplies,Printers,IKEA,1507.82,360,25,2.1,Target
+P3509,Meet Laptop,Office Supplies,Laptops,HP,794.95,341,14,4.6,Walmart
+P3510,While Desk,Furniture,Smartphones,Samsung,2133.04,310,7,5.0,Walmart
+P3511,Difficult Phone,Electronics,Chairs,Lenovo,654.98,494,27,1.6,Walmart
+P3512,Situation Laptop,Electronics,Tables,Dell,1506.86,36,16,4.3,Target
+P3513,These Phone,Furniture,Printers,Samsung,1298.77,294,10,2.5,Target
+P3514,Power Monitor,Electronics,Smartphones,Dell,1459.84,197,20,3.5,Newegg
+P3515,Heart Printer,Electronics,Chairs,Dell,1190.65,188,18,3.7,Walmart
+P3516,Cover Desk,Office Supplies,Tables,Apple,170.31,89,12,1.7,Newegg
+P3517,Defense Phone,Furniture,Tables,HP,685.81,118,22,1.7,Target
+P3518,Author Laptop,Office Supplies,Printers,Lenovo,512.84,123,28,5.0,Target
+P3519,Lawyer Laptop,Furniture,Tables,IKEA,1505.39,488,12,3.4,Target
+P3520,Open Monitor,Furniture,Tables,Lenovo,1586.1,254,4,4.4,Amazon
+P3521,Late Printer,Office Supplies,Smartphones,Apple,2247.95,323,24,1.1,Amazon
+P3522,Know Laptop,Electronics,Smartphones,Apple,1834.91,485,25,2.4,Walmart
+P3523,Agent Phone,Electronics,Laptops,Apple,2431.42,74,15,2.5,Best Buy
+P3524,Energy Monitor,Furniture,Smartphones,HP,315.58,467,6,4.7,Best Buy
+P3525,Plan Phone,Furniture,Tables,Lenovo,411.95,328,18,2.5,Newegg
+P3526,Republican Monitor,Furniture,Tables,Samsung,2038.98,437,20,1.9,Best Buy
+P3527,Address Laptop,Electronics,Laptops,HP,2498.8,375,30,4.0,Newegg
+P3528,Front Printer,Furniture,Tables,Samsung,340.65,147,26,3.7,Newegg
+P3529,Tv Monitor,Furniture,Smartphones,IKEA,554.2,257,20,3.9,Amazon
+P3530,Economic Phone,Furniture,Chairs,Dell,1528.82,248,24,3.5,Target
+P3531,Food Monitor,Furniture,Chairs,Dell,2175.95,301,5,3.9,Amazon
+P3532,Book Phone,Furniture,Laptops,Apple,69.92,456,1,3.4,Amazon
+P3533,Attorney Laptop,Office Supplies,Chairs,Apple,1679.54,114,9,2.0,Target
+P3534,Food Phone,Electronics,Laptops,Apple,1002.33,11,9,3.6,Target
+P3535,Tree Phone,Electronics,Tables,IKEA,910.25,134,6,3.5,Walmart
+P3536,Key Laptop,Furniture,Smartphones,Apple,1212.46,201,17,3.3,Best Buy
+P3537,Win Phone,Office Supplies,Chairs,Lenovo,758.02,90,1,3.9,Amazon
+P3538,Budget Desk,Office Supplies,Tables,Dell,1454.55,312,24,1.3,Amazon
+P3539,Organization Laptop,Office Supplies,Laptops,Samsung,1962.92,322,12,1.0,Walmart
+P3540,Gun Phone,Electronics,Chairs,Dell,1302.79,251,18,2.0,Amazon
+P3541,Serve Monitor,Furniture,Chairs,Dell,1822.21,485,25,3.9,Target
+P3542,Stage Phone,Electronics,Printers,Lenovo,1796.47,491,10,2.1,Best Buy
+P3543,Market Laptop,Furniture,Printers,Apple,893.15,373,13,4.2,Amazon
+P3544,Occur Desk,Electronics,Smartphones,Dell,2463.35,308,22,3.2,Newegg
+P3545,Interest Monitor,Electronics,Printers,Samsung,258.56,51,9,3.7,Amazon
+P3546,Technology Monitor,Furniture,Laptops,Apple,932.55,211,8,5.0,Amazon
+P3547,Today Laptop,Office Supplies,Laptops,Samsung,1133.8,280,29,3.4,Best Buy
+P3548,Thought Printer,Electronics,Chairs,HP,738.73,97,14,3.6,Target
+P3549,Assume Desk,Electronics,Smartphones,Apple,2264.71,59,12,4.0,Newegg
+P3550,Write Printer,Office Supplies,Chairs,IKEA,642.11,75,19,1.5,Newegg
+P3551,Eye Phone,Office Supplies,Tables,Apple,1124.55,130,11,4.1,Best Buy
+P3552,Pretty Phone,Furniture,Chairs,HP,983.84,165,21,4.8,Target
+P3553,War Monitor,Furniture,Printers,Dell,784.09,199,16,3.8,Walmart
+P3554,Price Laptop,Office Supplies,Chairs,Samsung,1879.35,163,10,3.5,Walmart
+P3555,Difference Phone,Electronics,Laptops,HP,71.48,30,8,1.3,Target
+P3556,Table Desk,Office Supplies,Smartphones,Lenovo,127.32,66,6,2.2,Target
+P3557,Building Phone,Office Supplies,Printers,IKEA,1031.88,440,2,4.1,Amazon
+P3558,Relate Laptop,Electronics,Tables,IKEA,1500.03,14,22,1.2,Best Buy
+P3559,Mouth Laptop,Furniture,Laptops,HP,2400.79,170,15,4.9,Walmart
+P3560,Five Desk,Electronics,Printers,Dell,1696.05,418,12,1.2,Best Buy
+P3561,Smile Monitor,Furniture,Chairs,Samsung,1017.04,480,11,3.7,Target
+P3562,Throw Phone,Electronics,Printers,Samsung,828.69,314,14,4.8,Newegg
+P3563,School Phone,Electronics,Laptops,Samsung,491.26,355,9,1.8,Best Buy
+P3564,Himself Phone,Furniture,Smartphones,Apple,50.71,34,28,1.9,Target
+P3565,Son Phone,Office Supplies,Printers,Samsung,2232.11,106,30,3.2,Amazon
+P3566,Civil Laptop,Furniture,Laptops,IKEA,1262.09,479,0,4.1,Best Buy
+P3567,Rest Desk,Electronics,Printers,HP,1232.94,62,1,4.8,Newegg
+P3568,Worker Desk,Electronics,Laptops,Dell,1182.6,179,2,1.9,Amazon
+P3569,Fight Printer,Office Supplies,Printers,HP,1287.79,163,28,4.7,Walmart
+P3570,Physical Desk,Furniture,Tables,IKEA,2467.31,171,28,2.3,Newegg
+P3571,Together Monitor,Office Supplies,Smartphones,IKEA,145.66,236,23,1.4,Best Buy
+P3572,Game Phone,Office Supplies,Laptops,Apple,85.85,66,14,3.1,Target
+P3573,Then Printer,Office Supplies,Printers,HP,1222.59,419,10,1.1,Amazon
+P3574,Goal Desk,Electronics,Chairs,HP,624.1,129,7,2.1,Target
+P3575,Information Printer,Office Supplies,Printers,HP,509.9,177,18,1.9,Walmart
+P3576,Country Laptop,Electronics,Tables,Apple,698.66,106,19,5.0,Best Buy
+P3577,Tough Phone,Office Supplies,Laptops,Apple,2064.85,458,30,4.6,Best Buy
+P3578,Establish Printer,Furniture,Chairs,Dell,1006.86,337,13,1.8,Best Buy
+P3579,Mrs Phone,Electronics,Printers,Lenovo,208.24,483,13,1.0,Newegg
+P3580,Discover Monitor,Furniture,Smartphones,Apple,2296.4,458,13,2.6,Best Buy
+P3581,Play Phone,Office Supplies,Tables,Apple,2292.27,242,0,1.3,Best Buy
+P3582,By Monitor,Office Supplies,Printers,HP,1244.13,150,11,3.0,Walmart
+P3583,May Printer,Furniture,Tables,Apple,1728.61,227,5,4.4,Best Buy
+P3584,Daughter Desk,Office Supplies,Laptops,HP,2464.0,245,12,3.9,Walmart
+P3585,View Monitor,Office Supplies,Laptops,IKEA,1738.16,370,18,2.1,Amazon
+P3586,Great Monitor,Office Supplies,Printers,Lenovo,1017.13,198,9,3.8,Amazon
+P3587,Five Phone,Electronics,Chairs,Lenovo,1490.29,160,15,3.0,Amazon
+P3588,High Desk,Electronics,Chairs,Lenovo,2184.02,498,14,1.6,Amazon
+P3589,Friend Desk,Furniture,Tables,IKEA,1822.35,185,6,2.6,Walmart
+P3590,Can Laptop,Office Supplies,Chairs,Lenovo,737.99,20,16,1.3,Best Buy
+P3591,Lot Desk,Electronics,Laptops,Dell,277.16,158,10,2.1,Walmart
+P3592,Loss Printer,Furniture,Laptops,Apple,1986.8,412,20,4.2,Best Buy
+P3593,Threat Phone,Electronics,Printers,IKEA,754.58,16,0,3.9,Best Buy
+P3594,Easy Laptop,Office Supplies,Tables,Apple,437.23,94,15,1.0,Newegg
+P3595,Finish Laptop,Office Supplies,Laptops,IKEA,1262.97,159,3,3.1,Amazon
+P3596,Few Desk,Furniture,Printers,Lenovo,232.06,495,22,2.3,Best Buy
+P3597,Authority Printer,Office Supplies,Tables,Samsung,639.08,25,20,5.0,Amazon
+P3598,Prevent Phone,Office Supplies,Tables,Dell,1832.7,264,18,1.1,Newegg
+P3599,Cell Printer,Electronics,Laptops,Lenovo,1711.07,16,26,4.5,Best Buy
+P3600,However Laptop,Electronics,Laptops,HP,1423.88,359,16,1.5,Newegg
+P3601,Edge Desk,Office Supplies,Laptops,Apple,527.41,273,4,2.1,Target
+P3602,Certain Monitor,Office Supplies,Laptops,HP,1038.8,193,20,3.2,Walmart
+P3603,Because Monitor,Office Supplies,Chairs,IKEA,727.22,56,10,4.1,Newegg
+P3604,Enter Phone,Office Supplies,Smartphones,Dell,1979.49,453,0,4.7,Target
+P3605,Today Printer,Electronics,Chairs,Samsung,2125.31,472,23,3.7,Newegg
+P3606,Back Monitor,Electronics,Laptops,Samsung,463.95,353,21,5.0,Newegg
+P3607,More Desk,Furniture,Laptops,Lenovo,1132.41,39,13,2.3,Best Buy
+P3608,Space Printer,Furniture,Printers,Lenovo,2152.43,293,9,4.8,Amazon
+P3609,Career Monitor,Electronics,Smartphones,HP,369.4,312,14,4.4,Target
+P3610,Mind Desk,Electronics,Smartphones,Samsung,189.76,15,1,2.6,Amazon
+P3611,Agreement Monitor,Office Supplies,Printers,IKEA,1634.93,21,7,3.0,Newegg
+P3612,Audience Monitor,Electronics,Printers,Lenovo,1201.12,241,2,3.4,Amazon
+P3613,Heart Phone,Office Supplies,Chairs,Samsung,52.47,246,2,3.2,Amazon
+P3614,Attack Phone,Office Supplies,Printers,Dell,2252.82,103,2,1.5,Walmart
+P3615,Defense Laptop,Furniture,Smartphones,HP,1102.37,40,21,1.6,Best Buy
+P3616,Very Desk,Electronics,Laptops,IKEA,371.34,217,10,2.1,Walmart
+P3617,Church Printer,Office Supplies,Printers,Dell,647.44,261,16,2.7,Best Buy
+P3618,Sound Laptop,Electronics,Smartphones,Samsung,835.21,333,15,1.1,Target
+P3619,Condition Phone,Furniture,Chairs,Apple,1583.89,302,18,3.8,Walmart
+P3620,Or Printer,Electronics,Printers,Dell,216.04,29,14,4.0,Amazon
+P3621,House Laptop,Furniture,Printers,Dell,2042.55,150,8,3.2,Target
+P3622,Show Phone,Electronics,Smartphones,Apple,1491.69,352,8,1.7,Amazon
+P3623,Administration Printer,Office Supplies,Smartphones,Apple,670.99,444,0,2.1,Target
+P3624,Dream Printer,Furniture,Laptops,IKEA,696.16,424,27,3.8,Walmart
+P3625,Contain Monitor,Office Supplies,Tables,Dell,926.36,55,1,2.4,Best Buy
+P3626,System Laptop,Furniture,Smartphones,IKEA,1094.52,125,26,2.8,Target
+P3627,Process Phone,Office Supplies,Chairs,IKEA,2340.35,437,12,4.2,Amazon
+P3628,Design Phone,Office Supplies,Chairs,IKEA,140.04,456,4,2.1,Target
+P3629,Figure Monitor,Electronics,Chairs,Apple,1838.12,123,20,2.2,Newegg
+P3630,Performance Desk,Office Supplies,Laptops,Dell,2235.68,480,22,3.8,Newegg
+P3631,Recent Desk,Furniture,Tables,Dell,1519.2,119,3,4.3,Best Buy
+P3632,Edge Phone,Electronics,Laptops,Dell,196.93,451,3,1.8,Newegg
+P3633,Care Desk,Furniture,Tables,Dell,2219.0,374,24,2.5,Amazon
+P3634,Direction Phone,Furniture,Tables,HP,2000.68,441,0,1.6,Walmart
+P3635,Center Phone,Furniture,Tables,IKEA,1476.07,380,19,4.7,Best Buy
+P3636,Person Monitor,Furniture,Laptops,Apple,1264.65,272,13,1.7,Walmart
+P3637,Question Monitor,Electronics,Printers,IKEA,1099.65,210,3,1.8,Walmart
+P3638,Tv Desk,Electronics,Tables,Apple,1412.13,92,7,3.5,Newegg
+P3639,Always Desk,Electronics,Printers,Apple,2418.29,137,1,2.9,Best Buy
+P3640,Reach Laptop,Furniture,Tables,HP,1766.34,191,24,4.0,Target
+P3641,Push Laptop,Office Supplies,Smartphones,Samsung,472.38,249,27,4.8,Target
+P3642,Police Monitor,Office Supplies,Laptops,IKEA,1213.91,226,25,1.0,Newegg
+P3643,Assume Phone,Furniture,Tables,HP,2090.63,182,26,2.0,Newegg
+P3644,Value Printer,Furniture,Laptops,Apple,665.55,247,2,4.8,Best Buy
+P3645,Lose Monitor,Electronics,Printers,Samsung,2122.66,235,14,4.9,Walmart
+P3646,Describe Phone,Furniture,Smartphones,IKEA,1517.35,78,22,1.7,Walmart
+P3647,Goal Monitor,Office Supplies,Smartphones,Dell,1016.92,130,26,4.7,Best Buy
+P3648,Happen Laptop,Furniture,Tables,HP,1604.42,82,8,1.3,Amazon
+P3649,Past Monitor,Office Supplies,Printers,Lenovo,359.78,206,7,1.0,Walmart
+P3650,Stuff Laptop,Furniture,Smartphones,Dell,525.71,301,24,4.2,Newegg
+P3651,Strong Desk,Electronics,Smartphones,IKEA,575.39,265,16,1.1,Best Buy
+P3652,Offer Laptop,Furniture,Laptops,HP,297.24,83,23,4.5,Amazon
+P3653,Opportunity Monitor,Office Supplies,Laptops,IKEA,1667.2,96,10,3.3,Walmart
+P3654,Provide Printer,Furniture,Laptops,IKEA,307.64,360,28,2.0,Newegg
+P3655,Protect Laptop,Furniture,Tables,Lenovo,2467.72,424,11,1.4,Walmart
+P3656,Teacher Monitor,Office Supplies,Chairs,Samsung,2173.11,412,2,1.0,Amazon
+P3657,Major Phone,Electronics,Smartphones,Dell,308.51,298,27,1.2,Amazon
+P3658,Above Printer,Electronics,Printers,HP,335.79,425,17,1.1,Target
+P3659,Open Monitor,Furniture,Chairs,Lenovo,1024.59,480,26,4.4,Newegg
+P3660,Senior Desk,Office Supplies,Printers,IKEA,2321.78,481,2,4.6,Amazon
+P3661,American Laptop,Furniture,Chairs,Lenovo,1945.73,361,11,1.4,Newegg
+P3662,Decade Monitor,Office Supplies,Chairs,Lenovo,2358.5,450,3,2.6,Amazon
+P3663,Discuss Laptop,Furniture,Tables,Lenovo,2495.81,294,1,3.1,Newegg
+P3664,South Laptop,Furniture,Printers,IKEA,1342.79,341,13,1.6,Newegg
+P3665,Mrs Desk,Electronics,Chairs,Lenovo,330.33,297,23,4.8,Best Buy
+P3666,Old Phone,Office Supplies,Chairs,HP,356.06,229,23,4.3,Amazon
+P3667,Receive Monitor,Electronics,Tables,Samsung,1324.4,287,18,2.6,Walmart
+P3668,Community Phone,Office Supplies,Smartphones,HP,63.44,226,29,5.0,Walmart
+P3669,Less Phone,Furniture,Laptops,HP,73.23,281,12,3.7,Target
+P3670,Run Printer,Furniture,Chairs,Apple,1845.48,146,4,4.3,Best Buy
+P3671,Point Printer,Office Supplies,Chairs,Apple,2236.73,22,22,1.4,Best Buy
+P3672,Summer Desk,Office Supplies,Printers,Samsung,956.91,422,20,5.0,Best Buy
+P3673,Discover Phone,Office Supplies,Tables,HP,2225.71,488,19,1.9,Newegg
+P3674,Director Monitor,Furniture,Smartphones,Apple,1191.05,430,17,1.2,Best Buy
+P3675,List Laptop,Office Supplies,Chairs,Samsung,2086.91,208,15,1.0,Best Buy
+P3676,Involve Desk,Electronics,Printers,Samsung,1869.07,431,10,2.0,Best Buy
+P3677,Significant Monitor,Office Supplies,Chairs,HP,193.02,418,20,3.5,Walmart
+P3678,Cold Desk,Furniture,Chairs,HP,225.85,68,8,1.9,Target
+P3679,And Printer,Furniture,Tables,Dell,2492.57,94,18,1.4,Newegg
+P3680,Generation Laptop,Office Supplies,Laptops,Lenovo,244.71,290,5,3.5,Target
+P3681,Fast Monitor,Office Supplies,Chairs,Lenovo,1130.58,447,11,4.2,Amazon
+P3682,Arrive Desk,Furniture,Tables,Samsung,2279.1,346,18,5.0,Target
+P3683,Government Phone,Furniture,Smartphones,Lenovo,1523.41,157,19,3.6,Walmart
+P3684,Stuff Desk,Furniture,Laptops,Apple,1182.99,82,28,3.5,Newegg
+P3685,Value Phone,Office Supplies,Laptops,IKEA,968.59,19,16,2.5,Best Buy
+P3686,Never Laptop,Electronics,Printers,Samsung,1994.41,23,23,1.9,Newegg
+P3687,And Monitor,Furniture,Smartphones,Dell,2071.78,220,22,1.2,Newegg
+P3688,Beyond Desk,Furniture,Chairs,Samsung,70.64,156,28,2.7,Newegg
+P3689,Thought Laptop,Office Supplies,Laptops,Samsung,1183.83,26,15,2.6,Newegg
+P3690,Kitchen Laptop,Electronics,Smartphones,IKEA,713.89,166,0,1.6,Newegg
+P3691,This Laptop,Office Supplies,Tables,Apple,667.16,122,12,1.7,Best Buy
+P3692,Green Phone,Furniture,Laptops,Samsung,703.51,233,20,1.6,Target
+P3693,Keep Desk,Furniture,Chairs,Apple,1248.82,371,9,2.3,Target
+P3694,Relationship Laptop,Office Supplies,Laptops,IKEA,973.64,125,17,2.1,Best Buy
+P3695,Back Phone,Furniture,Chairs,Lenovo,975.35,375,3,1.3,Best Buy
+P3696,Hold Desk,Office Supplies,Printers,Dell,2199.83,166,9,4.8,Amazon
+P3697,Want Laptop,Electronics,Smartphones,HP,2170.65,68,25,3.2,Best Buy
+P3698,Only Desk,Electronics,Chairs,Apple,2184.03,206,23,2.5,Target
+P3699,Mrs Laptop,Electronics,Tables,Dell,1250.3,231,8,2.9,Walmart
+P3700,Grow Laptop,Office Supplies,Chairs,Samsung,2466.17,390,24,2.1,Amazon
+P3701,Industry Desk,Electronics,Smartphones,Apple,864.51,48,13,1.2,Target
+P3702,Degree Laptop,Office Supplies,Printers,Dell,1258.55,390,19,4.1,Newegg
+P3703,Author Monitor,Furniture,Laptops,Samsung,1748.65,87,27,1.8,Newegg
+P3704,Purpose Monitor,Electronics,Smartphones,Lenovo,1817.18,102,23,4.1,Walmart
+P3705,Same Laptop,Electronics,Printers,Lenovo,962.72,84,2,3.7,Best Buy
+P3706,Born Monitor,Furniture,Laptops,Apple,618.06,39,23,2.9,Target
+P3707,Back Desk,Furniture,Laptops,Apple,2323.34,298,7,4.0,Walmart
+P3708,Organization Phone,Office Supplies,Printers,Lenovo,1962.48,93,10,2.0,Newegg
+P3709,Once Laptop,Electronics,Chairs,Samsung,644.11,185,21,3.0,Walmart
+P3710,Charge Monitor,Electronics,Printers,Samsung,1003.93,180,15,4.1,Target
+P3711,Identify Desk,Electronics,Printers,Dell,1841.61,36,6,2.6,Best Buy
+P3712,Ten Laptop,Furniture,Smartphones,Apple,1729.5,35,9,4.3,Best Buy
+P3713,Bill Laptop,Electronics,Smartphones,IKEA,2157.56,217,1,3.6,Target
+P3714,While Printer,Furniture,Chairs,Samsung,1517.56,227,25,2.8,Best Buy
+P3715,Young Laptop,Furniture,Printers,Dell,1772.54,288,8,1.1,Amazon
+P3716,Camera Monitor,Electronics,Printers,Apple,1052.76,467,26,4.8,Target
+P3717,Society Printer,Office Supplies,Tables,Dell,863.57,127,4,1.8,Amazon
+P3718,Program Phone,Electronics,Chairs,Apple,1796.3,334,30,3.1,Best Buy
+P3719,Size Monitor,Electronics,Smartphones,Lenovo,515.47,93,20,3.7,Best Buy
+P3720,See Laptop,Furniture,Smartphones,Samsung,251.13,419,16,2.0,Walmart
+P3721,Space Printer,Office Supplies,Smartphones,IKEA,1295.56,107,20,3.7,Walmart
+P3722,Expect Laptop,Furniture,Laptops,HP,1119.7,57,5,4.9,Amazon
+P3723,Teacher Laptop,Electronics,Laptops,Apple,1784.32,168,19,2.7,Best Buy
+P3724,Into Phone,Office Supplies,Laptops,Apple,2347.6,41,19,4.0,Newegg
+P3725,Language Printer,Electronics,Chairs,HP,1854.75,176,30,1.1,Target
+P3726,Discussion Monitor,Electronics,Smartphones,Lenovo,2275.0,107,30,3.4,Amazon
+P3727,Level Phone,Office Supplies,Printers,HP,1594.54,418,27,3.8,Walmart
+P3728,Important Laptop,Electronics,Printers,Samsung,1956.43,399,6,3.4,Amazon
+P3729,Local Phone,Office Supplies,Smartphones,IKEA,693.45,415,7,1.2,Best Buy
+P3730,Answer Printer,Furniture,Chairs,Dell,1108.07,368,25,2.1,Amazon
+P3731,Paper Phone,Office Supplies,Printers,HP,125.3,78,26,3.3,Amazon
+P3732,Increase Monitor,Furniture,Printers,Dell,892.68,60,17,2.1,Newegg
+P3733,Summer Printer,Electronics,Tables,Dell,1157.82,62,20,1.3,Walmart
+P3734,Consider Printer,Electronics,Tables,Dell,693.05,151,22,1.3,Amazon
+P3735,Me Printer,Furniture,Laptops,HP,1288.06,241,16,2.5,Target
+P3736,Whole Monitor,Electronics,Laptops,Dell,644.1,206,30,1.0,Target
+P3737,Every Desk,Office Supplies,Laptops,IKEA,1116.9,415,16,4.1,Best Buy
+P3738,Effort Phone,Furniture,Smartphones,HP,156.15,187,21,2.3,Target
+P3739,System Printer,Electronics,Tables,Samsung,1008.22,354,7,2.2,Walmart
+P3740,Hit Printer,Electronics,Laptops,HP,56.22,389,16,2.4,Best Buy
+P3741,Wind Phone,Office Supplies,Tables,HP,2108.28,85,14,3.2,Newegg
+P3742,Laugh Laptop,Office Supplies,Laptops,Dell,2391.07,298,1,2.6,Best Buy
+P3743,Citizen Desk,Office Supplies,Laptops,HP,864.94,208,11,1.9,Amazon
+P3744,Only Printer,Electronics,Smartphones,Apple,738.31,166,13,3.3,Walmart
+P3745,In Monitor,Office Supplies,Smartphones,Lenovo,137.26,99,17,1.1,Target
+P3746,Kitchen Monitor,Furniture,Laptops,Lenovo,2169.37,138,12,1.5,Newegg
+P3747,Once Monitor,Electronics,Laptops,Dell,1300.73,406,16,4.4,Target
+P3748,Explain Phone,Office Supplies,Tables,Apple,2389.85,170,23,2.6,Newegg
+P3749,Enjoy Desk,Office Supplies,Printers,Dell,1036.85,449,7,3.2,Amazon
+P3750,Social Monitor,Furniture,Chairs,Samsung,288.87,218,29,3.0,Walmart
+P3751,Be Desk,Office Supplies,Printers,IKEA,909.95,74,18,3.6,Target
+P3752,Central Phone,Electronics,Printers,IKEA,2250.91,30,6,2.7,Walmart
+P3753,Image Laptop,Office Supplies,Tables,Dell,326.0,254,24,3.7,Target
+P3754,Skin Laptop,Furniture,Laptops,Apple,1430.1,140,30,4.3,Target
+P3755,Sound Printer,Office Supplies,Smartphones,Apple,1782.88,30,18,4.7,Newegg
+P3756,Program Desk,Electronics,Tables,Samsung,1566.63,254,17,1.9,Newegg
+P3757,Something Laptop,Office Supplies,Chairs,Apple,649.35,149,24,3.9,Newegg
+P3758,Include Laptop,Office Supplies,Laptops,Lenovo,2465.33,424,22,1.3,Amazon
+P3759,Degree Desk,Office Supplies,Printers,Lenovo,2173.35,133,4,3.0,Walmart
+P3760,Simply Laptop,Electronics,Printers,Lenovo,555.29,26,13,2.6,Walmart
+P3761,Pretty Monitor,Electronics,Tables,Dell,1959.75,22,17,4.4,Target
+P3762,Citizen Monitor,Electronics,Chairs,IKEA,2313.2,135,10,4.9,Best Buy
+P3763,Its Printer,Furniture,Smartphones,Lenovo,2499.76,293,18,3.1,Newegg
+P3764,Discuss Laptop,Furniture,Laptops,Dell,908.92,198,11,5.0,Walmart
+P3765,Simple Monitor,Office Supplies,Printers,Dell,2396.28,28,14,3.7,Walmart
+P3766,Guy Phone,Furniture,Printers,Apple,352.55,417,27,1.1,Newegg
+P3767,Fund Laptop,Furniture,Chairs,IKEA,227.17,217,3,4.1,Walmart
+P3768,Television Phone,Furniture,Printers,HP,879.37,404,24,1.4,Target
+P3769,Human Laptop,Electronics,Chairs,HP,1262.92,311,26,4.1,Best Buy
+P3770,Computer Printer,Office Supplies,Tables,Apple,1979.71,56,4,3.7,Newegg
+P3771,Rich Desk,Electronics,Laptops,Samsung,538.91,95,13,1.5,Best Buy
+P3772,Program Laptop,Furniture,Chairs,Apple,1140.59,240,25,4.1,Best Buy
+P3773,Region Laptop,Office Supplies,Chairs,Apple,2446.4,223,12,4.0,Walmart
+P3774,Close Phone,Electronics,Laptops,Lenovo,2366.74,216,2,2.7,Walmart
+P3775,Ten Monitor,Office Supplies,Laptops,Lenovo,1090.25,482,15,2.4,Walmart
+P3776,Sign Phone,Office Supplies,Smartphones,IKEA,212.97,167,17,3.7,Target
+P3777,During Laptop,Electronics,Smartphones,IKEA,209.04,435,17,3.8,Amazon
+P3778,Figure Desk,Electronics,Smartphones,Samsung,1992.39,339,30,4.9,Amazon
+P3779,Such Phone,Electronics,Chairs,HP,1236.25,84,18,3.9,Newegg
+P3780,Mean Desk,Furniture,Smartphones,Dell,550.01,345,6,1.3,Target
+P3781,One Phone,Furniture,Laptops,Dell,2291.28,236,8,3.3,Walmart
+P3782,Task Desk,Furniture,Printers,Dell,2073.74,93,20,3.1,Best Buy
+P3783,Book Laptop,Furniture,Tables,IKEA,444.82,174,22,3.7,Newegg
+P3784,Position Desk,Furniture,Smartphones,HP,1125.98,61,18,1.7,Newegg
+P3785,Beyond Printer,Furniture,Tables,Dell,1502.33,27,4,4.4,Target
+P3786,Consider Monitor,Electronics,Tables,Lenovo,1045.51,279,20,2.1,Newegg
+P3787,War Monitor,Furniture,Smartphones,HP,1139.88,197,14,3.7,Walmart
+P3788,Book Monitor,Office Supplies,Chairs,Lenovo,167.6,302,16,1.7,Newegg
+P3789,College Desk,Furniture,Tables,Apple,1571.87,481,3,4.9,Target
+P3790,Feeling Monitor,Electronics,Chairs,HP,460.42,163,5,3.1,Amazon
+P3791,Never Laptop,Office Supplies,Chairs,IKEA,2110.96,102,2,2.6,Target
+P3792,Return Monitor,Electronics,Tables,IKEA,1959.03,189,15,2.1,Newegg
+P3793,Really Desk,Furniture,Laptops,IKEA,801.25,408,5,3.5,Newegg
+P3794,Suddenly Printer,Electronics,Chairs,Samsung,1137.0,61,23,4.5,Amazon
+P3795,Structure Desk,Electronics,Printers,HP,1801.44,274,28,3.2,Target
+P3796,Understand Laptop,Electronics,Tables,Apple,2261.34,60,22,4.0,Newegg
+P3797,Smile Printer,Electronics,Laptops,Dell,1792.06,87,11,1.3,Amazon
+P3798,Hour Printer,Electronics,Chairs,IKEA,296.88,320,12,3.6,Walmart
+P3799,Clearly Desk,Office Supplies,Smartphones,Lenovo,691.53,147,22,2.4,Walmart
+P3800,Mean Laptop,Office Supplies,Smartphones,IKEA,1373.22,482,18,1.7,Newegg
+P3801,Set Phone,Electronics,Laptops,Lenovo,91.66,23,14,2.7,Newegg
+P3802,Senior Laptop,Furniture,Printers,IKEA,2025.84,429,30,1.1,Amazon
+P3803,Program Phone,Office Supplies,Chairs,HP,1638.17,317,24,1.0,Newegg
+P3804,Camera Desk,Furniture,Laptops,Lenovo,876.8,253,25,1.9,Walmart
+P3805,By Desk,Electronics,Laptops,Samsung,1594.2,380,14,3.6,Newegg
+P3806,Age Printer,Furniture,Laptops,Apple,2402.46,375,23,2.2,Walmart
+P3807,Woman Monitor,Office Supplies,Smartphones,Samsung,75.5,197,28,2.3,Newegg
+P3808,While Phone,Office Supplies,Laptops,Lenovo,2258.27,368,13,3.7,Target
+P3809,Particularly Phone,Electronics,Smartphones,HP,899.77,211,27,4.6,Best Buy
+P3810,Quickly Laptop,Office Supplies,Chairs,Lenovo,1345.42,296,17,3.5,Newegg
+P3811,You Printer,Furniture,Printers,IKEA,597.89,87,27,3.2,Target
+P3812,Outside Printer,Furniture,Printers,Lenovo,1086.46,357,6,2.2,Walmart
+P3813,When Printer,Electronics,Laptops,Dell,1666.03,323,5,3.3,Target
+P3814,Somebody Desk,Electronics,Smartphones,Dell,879.97,108,12,2.4,Newegg
+P3815,Hit Laptop,Office Supplies,Laptops,HP,2339.25,394,30,1.4,Newegg
+P3816,Worker Printer,Electronics,Printers,IKEA,777.12,264,8,4.6,Newegg
+P3817,Task Laptop,Electronics,Tables,HP,904.15,232,18,2.3,Amazon
+P3818,War Monitor,Furniture,Chairs,HP,970.33,395,2,1.5,Target
+P3819,Foot Monitor,Electronics,Tables,HP,2024.49,41,0,2.7,Walmart
+P3820,Adult Phone,Office Supplies,Chairs,Dell,448.53,111,12,3.4,Best Buy
+P3821,Determine Phone,Furniture,Smartphones,Dell,1291.68,172,23,3.2,Best Buy
+P3822,Day Phone,Furniture,Smartphones,Dell,682.19,359,14,2.4,Walmart
+P3823,Common Monitor,Office Supplies,Tables,IKEA,1757.2,193,25,3.3,Best Buy
+P3824,Test Phone,Furniture,Laptops,Samsung,368.91,12,20,2.9,Target
+P3825,Line Printer,Furniture,Chairs,Dell,2459.99,138,2,4.5,Target
+P3826,Rule Printer,Office Supplies,Chairs,Samsung,1352.64,102,10,3.3,Best Buy
+P3827,She Laptop,Furniture,Chairs,IKEA,93.1,405,25,2.0,Walmart
+P3828,Check Phone,Office Supplies,Tables,Apple,503.18,237,3,2.7,Target
+P3829,Five Monitor,Furniture,Laptops,IKEA,121.75,373,22,4.8,Target
+P3830,Alone Phone,Furniture,Chairs,HP,939.3,375,24,2.6,Amazon
+P3831,Your Desk,Office Supplies,Smartphones,Apple,225.25,408,8,4.3,Target
+P3832,Place Desk,Furniture,Printers,Samsung,404.87,251,26,4.1,Walmart
+P3833,Strategy Desk,Furniture,Printers,HP,1680.69,428,5,1.4,Newegg
+P3834,Dream Printer,Furniture,Printers,Samsung,58.31,100,7,3.7,Best Buy
+P3835,Benefit Desk,Office Supplies,Chairs,Lenovo,1965.06,242,25,4.2,Newegg
+P3836,Style Monitor,Furniture,Printers,Apple,1294.26,175,2,1.6,Amazon
+P3837,Sense Laptop,Electronics,Chairs,HP,1342.14,489,1,4.0,Best Buy
+P3838,Record Phone,Furniture,Chairs,Dell,1272.2,78,28,3.8,Walmart
+P3839,Here Printer,Furniture,Chairs,Apple,2412.39,194,2,2.8,Target
+P3840,Individual Phone,Furniture,Smartphones,Lenovo,1662.16,464,28,1.8,Amazon
+P3841,Measure Phone,Office Supplies,Laptops,IKEA,2410.42,160,20,4.1,Target
+P3842,Concern Printer,Electronics,Printers,Dell,1085.43,452,4,5.0,Walmart
+P3843,Employee Phone,Office Supplies,Chairs,HP,398.5,165,19,2.6,Target
+P3844,Air Monitor,Electronics,Tables,Dell,2044.29,432,16,4.2,Walmart
+P3845,Station Phone,Office Supplies,Smartphones,Dell,2060.56,272,30,3.5,Walmart
+P3846,Offer Monitor,Furniture,Chairs,IKEA,849.09,318,28,2.4,Target
+P3847,Society Laptop,Electronics,Laptops,IKEA,2251.73,161,3,1.7,Amazon
+P3848,Positive Phone,Electronics,Tables,Lenovo,277.49,437,5,3.1,Newegg
+P3849,Available Phone,Electronics,Chairs,Apple,2040.52,399,2,1.8,Amazon
+P3850,Front Monitor,Electronics,Chairs,HP,972.7,288,28,2.7,Walmart
+P3851,Defense Monitor,Electronics,Laptops,Apple,1294.63,257,30,1.6,Target
+P3852,Wish Monitor,Office Supplies,Smartphones,Dell,738.86,78,28,2.7,Newegg
+P3853,Chance Monitor,Furniture,Laptops,Dell,456.29,172,12,2.1,Target
+P3854,Not Desk,Furniture,Chairs,Lenovo,2371.4,27,11,2.8,Amazon
+P3855,Interesting Desk,Furniture,Chairs,IKEA,1270.77,203,25,3.4,Newegg
+P3856,Action Monitor,Office Supplies,Smartphones,IKEA,897.2,405,5,3.8,Target
+P3857,Fact Printer,Furniture,Laptops,Apple,2460.73,103,17,2.7,Walmart
+P3858,Magazine Phone,Office Supplies,Tables,Apple,782.92,486,3,4.6,Newegg
+P3859,Artist Phone,Office Supplies,Laptops,Apple,1063.2,477,14,1.2,Best Buy
+P3860,Night Laptop,Furniture,Printers,Samsung,2004.36,310,5,1.4,Walmart
+P3861,Technology Desk,Electronics,Chairs,Samsung,447.63,194,17,4.7,Amazon
+P3862,Rate Printer,Furniture,Smartphones,HP,2375.26,298,2,3.0,Best Buy
+P3863,Claim Desk,Electronics,Smartphones,HP,193.46,399,30,4.0,Newegg
+P3864,Involve Monitor,Office Supplies,Smartphones,Dell,1189.81,281,15,4.9,Target
+P3865,Note Desk,Electronics,Laptops,Samsung,260.81,33,1,3.5,Walmart
+P3866,Space Monitor,Furniture,Chairs,Samsung,1465.63,53,13,2.6,Amazon
+P3867,Fear Laptop,Electronics,Printers,Samsung,503.9,25,3,2.9,Best Buy
+P3868,Who Phone,Electronics,Laptops,Samsung,838.93,140,25,4.4,Best Buy
+P3869,Along Desk,Electronics,Smartphones,Dell,934.19,431,5,1.9,Walmart
+P3870,Line Laptop,Furniture,Tables,Dell,1599.86,478,6,3.3,Best Buy
+P3871,Apply Desk,Office Supplies,Laptops,HP,1504.27,442,14,1.1,Newegg
+P3872,Peace Printer,Electronics,Tables,HP,468.11,264,9,4.4,Newegg
+P3873,Present Monitor,Electronics,Chairs,Apple,1773.6,213,12,3.3,Walmart
+P3874,Sort Phone,Office Supplies,Smartphones,IKEA,2325.03,494,29,3.8,Best Buy
+P3875,Reflect Phone,Furniture,Printers,HP,1679.43,448,23,1.4,Best Buy
+P3876,Huge Monitor,Electronics,Smartphones,HP,1438.97,247,27,1.3,Best Buy
+P3877,Above Phone,Office Supplies,Tables,Dell,1325.94,134,16,4.6,Target
+P3878,Color Desk,Electronics,Tables,Lenovo,1170.98,15,9,2.7,Target
+P3879,Season Laptop,Furniture,Tables,Samsung,1945.86,415,24,3.2,Walmart
+P3880,Consumer Monitor,Electronics,Smartphones,Apple,1379.87,330,6,3.6,Best Buy
+P3881,You Monitor,Electronics,Smartphones,Samsung,910.61,462,9,2.5,Newegg
+P3882,Space Monitor,Furniture,Tables,Dell,257.74,326,9,2.2,Amazon
+P3883,Camera Desk,Electronics,Smartphones,Lenovo,2252.27,69,2,3.9,Newegg
+P3884,Old Desk,Electronics,Printers,IKEA,113.83,370,14,1.8,Target
+P3885,Speak Monitor,Furniture,Printers,HP,277.77,241,11,3.0,Best Buy
+P3886,Media Desk,Electronics,Laptops,IKEA,919.95,417,8,4.7,Walmart
+P3887,Level Laptop,Office Supplies,Laptops,Dell,889.26,132,6,1.2,Best Buy
+P3888,Since Laptop,Furniture,Tables,Dell,1741.94,412,27,2.3,Newegg
+P3889,Event Printer,Furniture,Smartphones,Samsung,1911.63,295,10,3.0,Walmart
+P3890,Yet Monitor,Office Supplies,Printers,Lenovo,1531.32,33,14,4.9,Newegg
+P3891,Center Printer,Electronics,Smartphones,Apple,1307.77,295,13,1.7,Target
+P3892,Mrs Phone,Office Supplies,Tables,IKEA,97.28,175,2,1.5,Best Buy
+P3893,Candidate Laptop,Office Supplies,Printers,Samsung,2072.36,201,10,3.2,Best Buy
+P3894,Type Phone,Office Supplies,Printers,Samsung,571.85,146,9,1.3,Target
+P3895,First Printer,Electronics,Printers,Lenovo,1228.63,80,26,3.1,Target
+P3896,Others Printer,Office Supplies,Printers,Samsung,70.6,137,16,2.4,Newegg
+P3897,Forget Laptop,Furniture,Laptops,IKEA,174.59,378,27,3.5,Walmart
+P3898,Wide Printer,Office Supplies,Smartphones,Samsung,1213.92,275,6,3.8,Best Buy
+P3899,Our Phone,Furniture,Laptops,HP,2368.31,295,8,3.8,Target
+P3900,Day Phone,Furniture,Tables,Lenovo,1803.62,227,28,1.8,Newegg
+P3901,Prove Desk,Furniture,Tables,HP,1354.49,278,11,1.3,Newegg
+P3902,Red Printer,Furniture,Laptops,Apple,75.0,257,22,1.2,Amazon
+P3903,Shoulder Phone,Furniture,Printers,Apple,2101.55,386,13,4.6,Newegg
+P3904,Represent Monitor,Office Supplies,Printers,Dell,249.94,28,10,3.3,Newegg
+P3905,Source Monitor,Electronics,Chairs,Samsung,2346.39,77,28,1.9,Best Buy
+P3906,Kitchen Desk,Electronics,Laptops,IKEA,976.81,423,12,3.0,Amazon
+P3907,Score Laptop,Office Supplies,Laptops,HP,857.14,172,8,2.4,Walmart
+P3908,Staff Printer,Furniture,Tables,Apple,711.63,26,22,4.1,Best Buy
+P3909,Do Phone,Electronics,Laptops,IKEA,477.64,296,30,4.5,Newegg
+P3910,Follow Desk,Electronics,Chairs,Dell,1537.63,427,30,2.6,Amazon
+P3911,Program Desk,Furniture,Chairs,Dell,1382.25,333,26,1.6,Amazon
+P3912,Notice Printer,Furniture,Laptops,Lenovo,1613.86,251,26,1.9,Best Buy
+P3913,Nearly Laptop,Electronics,Smartphones,Apple,2157.23,224,10,1.3,Best Buy
+P3914,As Phone,Electronics,Laptops,Apple,2447.43,178,7,2.7,Walmart
+P3915,Day Desk,Furniture,Laptops,HP,1070.0,434,12,4.4,Newegg
+P3916,Think Phone,Furniture,Printers,Dell,2390.12,398,1,1.8,Best Buy
+P3917,Other Printer,Electronics,Tables,HP,1217.23,362,30,4.4,Walmart
+P3918,Usually Printer,Electronics,Printers,Dell,248.79,496,25,2.2,Target
+P3919,His Monitor,Electronics,Tables,Dell,502.23,362,20,4.6,Walmart
+P3920,Explain Desk,Furniture,Smartphones,Lenovo,2015.16,63,7,2.3,Target
+P3921,Stop Monitor,Office Supplies,Smartphones,Samsung,1514.89,94,7,4.5,Best Buy
+P3922,Teach Laptop,Electronics,Laptops,Lenovo,2076.63,147,14,3.9,Amazon
+P3923,Talk Phone,Electronics,Tables,Apple,1314.45,498,16,1.4,Target
+P3924,Manage Monitor,Furniture,Tables,Samsung,516.64,265,21,3.2,Walmart
+P3925,Ability Phone,Furniture,Chairs,Apple,1317.56,491,26,1.6,Walmart
+P3926,Apply Laptop,Furniture,Laptops,IKEA,1643.76,495,28,3.1,Amazon
+P3927,Or Printer,Electronics,Laptops,Dell,2338.85,325,25,4.8,Amazon
+P3928,Child Phone,Furniture,Tables,Samsung,1015.63,439,8,1.8,Target
+P3929,Budget Printer,Furniture,Smartphones,HP,539.72,235,1,5.0,Best Buy
+P3930,Soldier Printer,Electronics,Printers,Samsung,1193.14,376,14,4.4,Amazon
+P3931,Arm Desk,Electronics,Printers,IKEA,1108.48,202,27,5.0,Target
+P3932,Plant Monitor,Office Supplies,Smartphones,Apple,1872.06,215,13,4.0,Amazon
+P3933,Speech Monitor,Furniture,Smartphones,Lenovo,128.27,183,1,2.1,Best Buy
+P3934,Group Phone,Furniture,Smartphones,Lenovo,1770.88,74,13,3.4,Newegg
+P3935,Light Monitor,Electronics,Smartphones,Dell,2007.62,296,12,4.1,Walmart
+P3936,Month Monitor,Office Supplies,Smartphones,Dell,977.75,429,22,4.4,Walmart
+P3937,Real Desk,Office Supplies,Laptops,HP,1177.88,71,27,3.9,Amazon
+P3938,Figure Monitor,Office Supplies,Smartphones,IKEA,999.81,134,24,2.0,Best Buy
+P3939,Him Laptop,Electronics,Smartphones,IKEA,699.57,342,5,2.2,Walmart
+P3940,Tonight Monitor,Electronics,Chairs,Dell,1240.8,251,14,2.3,Best Buy
+P3941,Phone Laptop,Electronics,Smartphones,HP,2023.78,338,21,1.3,Walmart
+P3942,Wait Phone,Electronics,Chairs,HP,1968.21,336,29,3.7,Newegg
+P3943,Half Laptop,Office Supplies,Laptops,Samsung,1450.11,240,28,1.4,Amazon
+P3944,Expert Phone,Electronics,Printers,Apple,261.15,102,3,2.1,Target
+P3945,Call Phone,Furniture,Chairs,Samsung,1139.86,445,23,2.7,Amazon
+P3946,Need Laptop,Electronics,Chairs,Dell,946.56,175,28,4.9,Newegg
+P3947,Indeed Desk,Electronics,Laptops,IKEA,1366.0,76,27,4.8,Target
+P3948,Kind Laptop,Furniture,Smartphones,Dell,738.08,445,19,3.6,Target
+P3949,Law Laptop,Office Supplies,Tables,Apple,1701.6,97,13,1.0,Target
+P3950,Late Desk,Electronics,Chairs,Apple,516.82,189,28,4.8,Target
+P3951,Nature Monitor,Office Supplies,Chairs,Dell,2170.6,418,2,5.0,Best Buy
+P3952,Environmental Desk,Electronics,Printers,Dell,2225.59,252,14,2.9,Newegg
+P3953,Those Printer,Furniture,Chairs,HP,2131.2,428,2,4.5,Target
+P3954,End Laptop,Electronics,Laptops,Samsung,2153.13,132,15,1.8,Target
+P3955,Today Monitor,Office Supplies,Tables,Samsung,2185.04,244,2,4.2,Walmart
+P3956,Friend Phone,Electronics,Tables,Samsung,1144.09,35,18,1.1,Amazon
+P3957,Executive Desk,Office Supplies,Smartphones,IKEA,2121.08,421,18,3.3,Best Buy
+P3958,Lead Phone,Electronics,Laptops,Samsung,1176.79,396,1,2.2,Target
+P3959,Carry Desk,Office Supplies,Printers,Lenovo,1138.86,320,22,4.2,Target
+P3960,Condition Phone,Office Supplies,Printers,Dell,1713.18,400,3,4.6,Best Buy
+P3961,Dark Printer,Electronics,Chairs,Dell,103.4,300,19,1.2,Target
+P3962,Lose Monitor,Office Supplies,Printers,Dell,607.4,121,22,4.2,Target
+P3963,Machine Printer,Office Supplies,Tables,Lenovo,155.38,244,26,2.6,Newegg
+P3964,Than Printer,Office Supplies,Chairs,HP,1478.93,404,3,4.7,Newegg
+P3965,Cup Printer,Electronics,Smartphones,HP,1431.14,131,23,2.2,Newegg
+P3966,Site Phone,Furniture,Laptops,Samsung,1780.94,123,23,4.6,Best Buy
+P3967,Professional Printer,Electronics,Chairs,Samsung,73.25,28,3,4.4,Walmart
+P3968,Kind Phone,Furniture,Printers,HP,2417.2,444,20,1.5,Amazon
+P3969,Former Laptop,Office Supplies,Laptops,IKEA,1200.13,447,10,1.0,Walmart
+P3970,Forget Phone,Furniture,Smartphones,IKEA,579.96,158,12,1.0,Newegg
+P3971,Your Desk,Electronics,Smartphones,Dell,2385.52,455,3,2.9,Walmart
+P3972,Everything Laptop,Office Supplies,Chairs,Dell,224.2,259,3,2.5,Walmart
+P3973,Experience Desk,Office Supplies,Printers,Dell,1699.28,78,23,3.1,Target
+P3974,Body Desk,Furniture,Tables,Dell,168.63,168,26,4.5,Newegg
+P3975,Concern Laptop,Office Supplies,Smartphones,Dell,1501.7,156,0,3.7,Target
+P3976,Ok Printer,Electronics,Laptops,IKEA,122.18,431,27,4.9,Newegg
+P3977,Become Printer,Office Supplies,Smartphones,Apple,118.59,47,6,1.2,Amazon
+P3978,Surface Printer,Electronics,Smartphones,Dell,816.65,238,29,4.8,Newegg
+P3979,Star Monitor,Office Supplies,Printers,Samsung,226.34,278,23,4.1,Newegg
+P3980,Someone Phone,Electronics,Tables,Samsung,2493.4,275,20,3.1,Best Buy
+P3981,Theory Phone,Electronics,Tables,Dell,2298.0,495,24,3.8,Target
+P3982,Sport Desk,Furniture,Smartphones,Lenovo,1021.53,355,21,4.5,Walmart
+P3983,Property Laptop,Office Supplies,Printers,IKEA,2447.21,245,26,1.3,Newegg
+P3984,Because Laptop,Electronics,Laptops,IKEA,2272.27,491,3,2.1,Amazon
+P3985,Age Phone,Electronics,Laptops,Apple,66.5,106,27,4.1,Best Buy
+P3986,Key Laptop,Office Supplies,Smartphones,Samsung,1897.78,23,15,1.7,Target
+P3987,Part Laptop,Office Supplies,Printers,Apple,1918.09,448,27,2.5,Target
+P3988,Respond Laptop,Furniture,Chairs,IKEA,934.76,287,17,4.3,Newegg
+P3989,Idea Monitor,Office Supplies,Smartphones,HP,918.11,246,27,3.6,Best Buy
+P3990,Really Printer,Office Supplies,Laptops,Lenovo,517.21,266,27,2.3,Newegg
+P3991,Memory Laptop,Furniture,Laptops,Apple,640.49,70,5,2.0,Walmart
+P3992,Far Phone,Office Supplies,Smartphones,Dell,736.62,41,19,2.5,Target
+P3993,Past Monitor,Office Supplies,Chairs,Samsung,1402.92,137,12,2.1,Newegg
+P3994,Provide Monitor,Furniture,Tables,IKEA,1621.42,498,9,1.8,Target
+P3995,Firm Laptop,Office Supplies,Chairs,HP,714.65,259,17,3.2,Best Buy
+P3996,Rule Phone,Office Supplies,Tables,Lenovo,1791.77,134,24,2.2,Newegg
+P3997,These Laptop,Electronics,Chairs,HP,2107.66,26,15,2.8,Best Buy
+P3998,Manager Printer,Office Supplies,Printers,Dell,865.9,101,15,4.0,Best Buy
+P3999,Compare Desk,Office Supplies,Tables,Dell,2201.07,237,16,1.6,Newegg
+P4000,Either Phone,Furniture,Chairs,Apple,952.89,217,24,1.1,Newegg
